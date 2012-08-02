@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Контакты SIM</string>
+  <string name="cancel">Отмена</string>
+  <string name="contactsCount">" контакт(ов)"</string>
+  <string name="contactsNumbPrompt">" контакт(ов)"</string>
+  <string name="edit_hint_email">Email</string>
+  <string name="edit_hint_phone">Номер телефона</string>
+  <string name="edit_static_hint_email">Email</string>
+  <string name="edit_static_hint_phone">Номер</string>
+  <string name="edit_static_hint_second_phone">Номер</string>
+  <string name="error_import_done_title">Экспорт контактов на SIM-карту выполнен.</string>
+  <string name="error_import_failure_reason">Причина ошибки: Недопустимые символы либо слишком длинный номер.</string>
+  <string name="error_sim_busy">SIM-карта занята. Попробуйте позже.</string>
+  <string name="error_sim_memory_full">SIM-карта заполнена.</string>
+  <string name="error_sim_memory_full_3G">Номер слишком длинный. Максимум - 20 цифр.</string>
+  <string name="error_sim_not_insert">SIM-картане установлена.</string>
+  <string name="error_sim_not_support">Ошибка SIM-карты</string>
+  <string formatted="false" name="error_success_missing_count">"Детали: %s успешно, %s неудачно
+"</string>
+  <string name="hintInputName">Введите имя</string>
+  <string name="hintInputNumber">Введите номер</string>
+  <string name="import_from_contacts">Импорт из телефона</string>
+  <string name="initializing_message">Инициализация…</string>
+  <string name="intent_confirm_button_text_export">Импорт</string>
+  <string name="intent_window_title">Импорт на SIM-карту</string>
+  <string name="labelCanceSave">Назад</string>
+  <string name="labelSaveContact">Сохранить</string>
+  <string name="labelSimcBtnCreateContact">Новый</string>
+  <string name="labelSimcBtnEditContact">Правка</string>
+  <string name="labelSimcBtnImportContact">Сохранить в телефон</string>
+  <string name="labelSimcBtnRemoveContact">Удалить</string>
+  <string name="labelSimcBtnToImportContact">Выбор</string>
+  <string name="lableBtnDeleteSelected">Удалить</string>
+  <string name="lableBtnImportSelected">Сохранить в телефон</string>
+  <string name="lableBtnSelectAll">Выбрать все</string>
+  <string name="lableBtnSelectNone">Назад</string>
+  <string name="make_voice_call">Совершить вызов</string>
+  <string name="noContacts">Нет контактов</string>
+  <string name="promptCancel">Отмена</string>
+  <string name="promptDeleteContactConfirmPrefix">"'%s'"</string>
+  <string name="promptDeleteOneFailed">Ошибка удаления</string>
+  <string name="promptDeleteSelectedContactConfirm">Вы подтверждаете удаление контактов SIM?</string>
+  <string name="promptDeletingSimContact">Удаление контактов SIM</string>
+  <string name="promptEmailsTooLong">Email-адрес слишком длинный.</string>
+  <string name="promptFirstNumberEmpty">Первый номер не может быть пустым.</string>
+  <string name="promptImportOneFailed">Ошибка импорта</string>
+  <string name="promptImportOneSuccess">Импортировано в телефон</string>
+  <string name="promptImportingContactToSim">Экспорт контактов на SIM-карту…</string>
+  <string name="promptImportingSimContact">Импорт контактов SIM</string>
+  <string name="promptInvalidNumber">Недопустимые символы</string>
+  <string name="promptNameTooLong">Имя слишком длинное.</string>
+  <string name="promptNumberEmpty">Номер не может быть пустым</string>
+  <string name="promptNumberTooLong">Номер слишком длинный.</string>
+  <string name="promptOk">ОК</string>
+  <string name="promptQuerySimContacts">Поиск… Подождите…</string>
+  <string name="promptSaveFailed">Неизвестная ошибка</string>
+  <string name="promptSecondNumberTooLong">Второй номер слишком длинный.</string>
+  <string name="promptSimFull">SIM-карта заполнена.</string>
+  <string name="promptViewSimContactsNumber">Совершить вызов</string>
+  <string name="send_email">Отправить Email</string>
+  <string name="titleQuerySimContacts">Поиск контактов SIM</string>
+  <string name="titleSelectSimContacts">Выбрать контакты SIM</string>
+  <string name="titleSimContactCreate">Новый контакт SIM</string>
+  <string name="titleSimContactDetail">Детали</string>
+  <string name="titleSimContactEdit">Правка контакта SIM</string>
+  <string name="titleSimContacts">Контакты SIM</string>
+  <string name="unknow">Неизвестный</string>
+</resources>

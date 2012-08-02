@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="Account">Аккаунт</string>
+  <string name="Password">Пароль</string>
+  <string name="app_name">Местоположение</string>
+  <string name="bind">Включить</string>
+  <string name="bind_service">Привязать в аккаунту</string>
+  <string name="broadcast_message">Сообщение сети</string>
+  <string name="cancel">Отмена</string>
+  <string name="company">[\\s-]*([\\u3010\\[]*\\s*(Meizu|Meizu Technology|Zhuhai Meizu|Meizu)*\\s*[\\u3011\\]]*\\s*)$</string>
+  <string name="disableFindPhoneDesc">Отключить обнаружение, телефон не будет обнаруживаться</string>
+  <string name="enable_alert">Включить обнаружение, стоимость SMS согласно тарифу оператора</string>
+  <string name="enable_started">Включение сервиса обнаружения…</string>
+  <string name="find_phone_closeing">Выключение сервиса обнаружения…</string>
+  <string name="login_faiured">Неверный пароль. Введите заново</string>
+  <string name="loginaccount">Введите пароль для Flyme аккаунта</string>
+  <string name="messagebox_ok">ОК</string>
+  <string name="network_disconnected">Нет соединения с сетью! Проверьте настройки.</string>
+  <string name="network_faiured">Ошибка передачи данных. Попробуйте позже.</string>
+  <string name="remote_message">Удаленная информация</string>
+  <string name="sim_unsupported">Эта услуга в настоящее время не поддерживается в вашем регионе</string>
+  <string name="smsserver_fault">Нет соединения с SMS сервером Meizu</string>
+  <string name="start_service">Запустить</string>
+  <string name="stop_service">Остановить</string>
+  <string name="unBind">Выключение Flyme</string>
+  <string name="unbind_service">Отвязка</string>
+</resources>

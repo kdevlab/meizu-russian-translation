@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Архиватор</string>
+  <string name="cancel_extract">Распаковка отменена</string>
+  <string name="extract_dialog_psw_hint">"Пароль: "</string>
+  <string name="extract_error">Ошибка распаковки</string>
+  <string name="extract_extracting_cancel">Остановка, подождите</string>
+  <string name="extract_password_dialog_cancel">Отмена</string>
+  <string name="extract_password_dialog_confirm">Подтвердить</string>
+  <string name="extract_password_dialog_title">Введите пароль</string>
+  <string name="extract_password_dialog_title_reinput">Неверный пароль, повторить</string>
+  <string name="extract_password_toast_password_not_match">Пароли не совпадают</string>
+  <string name="extracting">"Распаковка: "</string>
+  <string name="note_replace_all">Папка уже существует. Хотите заменить ее?</string>
+  <string name="password_failed">Неверный пароль, отмена</string>
+  <string name="replace_cancel">Отмена</string>
+  <string name="replace_ok">ОК</string>
+  <string name="unsupport">Не поддерживается</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="activity_button">Фон</string>
+  <string name="activity_install_title">Установка приложений в AutoInstallAPK на SD-карте</string>
+  <string name="activity_installed_tips">Установка завершена</string>
+  <string name="activity_installing_tips">Установка</string>
+  <string name="app_name">Автоустановка</string>
+  <string name="background_installed_tips">Установка завершена</string>
+  <string name="background_installing_found">Есть apk для установки</string>
+  <string name="background_installing_tips">Установка</string>
+  <string name="dlg_cancel">Установить позже</string>
+  <string name="dlg_found_tips">Установки доступны. Хотите установить сейчас?</string>
+  <string name="dlg_found_title">Установки доступны</string>
+  <string name="dlg_ok">Установить сейчас</string>
+  <string name="hello">Hello World, Автоустановщик!</string>
+  <string name="install_failed_because_alreadyexist">Ошибка установки, причина: пакет уже существует</string>
+  <string name="install_failed_because_nospace">Ошибка установки, причина: недостаточно места</string>
+  <string name="install_failed_because_othererrors">Ошибка установки, причина: несовместимо или другие ошибки</string>
+  <string name="warning_no_enough_space">Ошибка скриншота, причина: недостаточно места</string>
+  <string name="warning_on_ums">Ошибка скриншота, причина: занята карта памяти</string>
+  <string name="warning_sdcard_is_removed">Ошибка скриншота, причина: карта памяти удалена</string>
+  <string name="warning_sdcard_is_unmount">Ошибка скриншота, причина: карта памяти недоступна</string>
+</resources>

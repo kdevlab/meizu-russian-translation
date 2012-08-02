@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="alarm_set">
+        <item>До срабатывания будильника осталось меньше одной минуты.</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>Отключено</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Спящий режим</item>
+        <item>Отключить</item>
+    </string-array>
+    <string-array name="clock_icon_list_dialog">
+        <item>Тест</item>
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="week_tables">
+        <item></item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+    <string-array name="week_tables_com">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="default_event_boiledeggs_steps">
+        <item>Положить все яйца в холодную воду</item>
+        <item>В кастрюле (средний огонь и варить)</item>
+        <item>Блюдо для охлаждения</item>
+    </string-array>
+    <string-array name="default_event_steamedfish_steps">
+        <item>Немного имбиря, соль, кунжутное масло в живот рыбы</item>
+        <item>Вскипятить воду</item>
+        <item>Положить рыбу в кастрюлю, закрыть крышкой</item>
+        <item>Выключите огонь, не открывайте крышку</item>
+        <item>Откройте крышку, залейте рыбу пряностями</item>
+    </string-array>
+</resources>

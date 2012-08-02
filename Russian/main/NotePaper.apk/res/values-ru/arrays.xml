@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="picture_chooser_list">
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Документ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="alphabet">Алфавит</string>
+  <string name="app_name">Инструменты SIM</string>
+  <string name="button_cancel">Отмена</string>
+  <string name="button_no">Нет</string>
+  <string name="button_ok">ОК</string>
+  <string name="button_yes">Да</string>
+  <string name="default_call_setup_msg">Вызов ...</string>
+  <string name="digits">Цифры (0-9, *, #, +)</string>
+  <string name="disable_app">Отключено</string>
+  <string name="enable_app">Включено</string>
+  <string name="help">Помощь</string>
+  <string name="menu_back">Назад</string>
+  <string name="menu_end_session">Конец сессии</string>
+  <string name="service_name">Название сервиса</string>
+  <string name="stkDialComfirm">Ваша SIM хочет совершить звонок:</string>
+  <string name="stkLaunchBrowserComfirm">Ваша SIM хочет запустить браузер:</string>
+  <string name="stkSendSms">Отправка SMS</string>
+  <string name="stk_app_state">Статус приложения</string>
+  <string name="stk_no_service">Сервис недоступен</string>
+  <string name="stk_parent_title">Настройки</string>
+  <string name="stk_title">Инструменты SIM</string>
+</resources>

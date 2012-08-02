@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="sort_by">
+        <item>Имя</item>
+        <item>Дата</item>
+        <item>Тип</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="edit_item">
+        <item>Копировать</item>
+        <item>Переместить</item>
+        <item>Переименовать</item>
+        <item>Email</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="share_item">
+        <item>Email</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_single">
+        <item>Заменить</item>
+        <item>Пропустить</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_multi">
+        <item>Заменить</item>
+        <item>Пропустить</item>
+        <item>Заменить все</item>
+    </string-array>
+</resources>

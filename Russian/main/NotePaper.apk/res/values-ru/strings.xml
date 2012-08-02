@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Заметки</string>
+  <string name="brush_settting_title">Кисть и цвет</string>
+  <string name="clear_all">Очистить все</string>
+  <string name="del_selected_message">Хотите удалить выбранные заметки?</string>
+  <string name="delete_view_message">Удалить эту заметку?</string>
+  <string name="deleting">Удаление…Пожалуйста подождите…</string>
+  <string name="edit_note_bg_title">Цвет бумаги</string>
+  <string name="eraser_setting_title">Ластик</string>
+  <string name="export_to_gallery">Экспорт в галерею</string>
+  <string name="fail_add_image">Не удалось добавить, потому что файл картинки поврежден.</string>
+  <string name="faild_export_to_gallery">Ошибка экспорта в галерею</string>
+  <string name="faild_to_create_file">Не удалось создать файл</string>
+  <string name="insert_picture_title">Вставить изображение</string>
+  <string name="live_folder_name">Заметки</string>
+  <string name="new_notepaper">Новая заметка</string>
+  <string name="no_external_storage">Нет внешних накопителей</string>
+  <string name="no_memos">Нет заметок</string>
+  <string name="sdcard_has_no_space">Недостаток места на SD-карте</string>
+  <string name="share">Отправить</string>
+  <string name="share_via">Отправить через</string>
+  <string name="success_export_to_gallery">Успешно экспортировано в галерею</string>
+  <string name="text_setting_title">Размер шрифта и цвет</string>
+  <string name="too_many_images">Не удалось добавить, потому что размер фотографии превышает максимальный предел.</string>
+</resources>

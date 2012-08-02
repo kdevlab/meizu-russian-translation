@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="acquiring_log_progress_dialog_message">Acquiring log from the system...</string>
+  <string name="app_name">mLogger</string>
+  <string name="boot_stat_fmt">"[Boot Statistic]:
+%s
+"</string>
+  <string name="btn_sendlog">Run</string>
+  <string name="chk_boot_stat">Get Boot Statistic</string>
+  <string name="chk_customized_cmd">Get Customized Logs</string>
+  <string name="chk_kmsg">Get Kernel Message</string>
+  <string name="chk_last_kmsg">Get Last Kernel Message</string>
+  <string name="chk_load_from_file">Get Log From File</string>
+  <string name="chk_logcat">Get Android Log</string>
+  <string name="chk_save_to_file">Save Log To File (In SD Card)</string>
+  <string name="chooser_title">Select an application to send the log</string>
+  <string formatted="false" name="device_info_fmt">"Logger version: %s
+ Log Time: %s
+ Device model: %s
+ Firmware version: %s
+ Kernel version: %s
+ Build number: %s
+"</string>
+  <string name="et_customized_cmd_hint">Input your commands</string>
+  <string name="et_load_file">/data/logs/android_log.txt</string>
+  <string name="et_load_file_hint">Input your file to read log</string>
+  <string name="et_save_file">/data/logs/android_log.txt</string>
+  <string name="et_save_file_hint">Input your file to save log</string>
+  <string name="failed_to_get_log_message">Failed to get the log from the system.</string>
+  <string name="kmsg_fmt">"[Kernel Message]:
+%s
+"</string>
+  <string name="last_kmsg_fmt">"[Last Kernel Message]:
+%s
+"</string>
+  <string name="log_end">:::::: Log End ::::::</string>
+  <string name="log_start">:::::: Log Start ::::::</string>
+  <string name="logcat_fmt">"[Logcat Message]:
+%s
+"</string>
+  <string name="logfile_fmt">"[Log File]:
+%s
+"</string>
+  <string name="main_dialog_text">"This application will attempt to collect the device log.
+The collected log will be sent using an application of your choice.
+You also will have an opportunity to see and modify the data being sent."</string>
+  <string name="message_subject">Android device log</string>
+  <string name="other_log_fmt">"[The other log]:
+%s
+"</string>
+  <string name="tst_boot_stat">/proc/boot_stat records the boot reason and boot statistic</string>
+  <string name="tst_kmsg">"Use 'dmesg' command to dump out current kernel log"</string>
+  <string name="tst_last_kmsg">/proc/last_kmsg saves the log of the last kernel, which records the boot reason, boot statistic and the potential kernel exception information</string>
+  <string name="tst_logcat">"Get android log with 'logcat -v time -b main -b system -b radio'"</string>
+</resources>

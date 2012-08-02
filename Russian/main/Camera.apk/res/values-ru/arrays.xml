@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="camera_scence_array">
+        <item>Авто</item>
+        <item>Текст</item>
+        <item>Ночь</item>
+        <item>Ландшафт</item>
+    </string-array>
+    <string-array name="camera_white_balance">
+        <item>Авто</item>
+        <item>Лампа накаливания</item>
+        <item>Дневной свет</item>
+        <item>Облачно</item>
+    </string-array>
+    <string-array name="camera_cameramenu_array">
+        <item>Сцена</item>
+        <item>Баланс белого</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="camera_menu_other_array">
+        <item>Location</item>
+        <item>Gesture Capture</item>
+    </string-array>
+    <string-array name="camera_mx_cameramenu_array">
+        <item>Capture mode</item>
+        <item>ISO</item>
+        <item>Scene</item>
+        <item>White balance</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="camera_mx_videomenu_array">
+        <item>Video Size</item>
+        <item>Scene</item>
+        <item>White Balance</item>
+    </string-array>
+    <string-array name="camera_mx_white_balance">
+        <item>Auto</item>
+        <item>Fluorescent</item>
+        <item>Sunny</item>
+        <item>Incandescent</item>
+    </string-array>
+    <string-array name="camera_mx_scence_array_photo">
+        <item>Auto</item>
+        <item>Text</item>
+        <item>Night</item>
+        <item>Landscape</item>
+        <item>Macro</item>
+    </string-array>
+    <string-array name="camera_mx_scence_array_clip">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Sunset</item>
+        <item>Macro</item>
+    </string-array>
+    <string-array name="camera_mx_flash_light_array">
+        <item>Auto</item>
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="video_camera_mx_flash_light_array">
+        <item>Open</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="camera_mx_capture_mode_array">
+        <item>Normal</item>
+        <item>Panorama</item>
+        <item>Smile</item>
+        <item>Burst</item>
+    </string-array>
+    <string-array name="camera_mx_sensitivity_mode_array">
+        <item>Авто</item>
+        <item>50</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+    </string-array>
+    <string-array name="camera_mx_wide_dynamic_mode_array">
+        <item>Off</item>
+        <item>Auto</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="camera_mx_menu_other_array">
+        <item>Location</item>
+        <item>Wide dynamic</item>
+        <item>Gesture Capture</item>
+    </string-array>
+</resources>

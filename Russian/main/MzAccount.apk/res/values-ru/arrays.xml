@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="frequency_ary">
+        <item>Каждые 15 мин</item>
+        <item>Каждые 30 мин</item>
+        <item>Каждый 1 час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 6 часов</item>
+    </string-array>
+    <string-array name="frequency_ary_debug">
+        <item>Каждые 15 мин</item>
+        <item>Каждые 30 мин</item>
+        <item>Каждый 1 час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 6 часов</item>
+        <item>Каждые 2 мин</item>
+    </string-array>
+    <string-array name="paw_protect_ary">
+        <item>Мой любимый фильм</item>
+        <item>Мой девиз</item>
+        <item>День рождения друга</item>
+        <item>Личное</item>
+    </string-array>
+</resources>

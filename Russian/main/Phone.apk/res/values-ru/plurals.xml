@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нет передачи данных для %s минут</item>
+        <item quantity="one">Нет передачи данных для %s минуту</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон будет в режиме экстренных вызовов %s минут. В этом режиме нет приложений с помощью которых может использоваться передачи данных. Хотите выйти?</item>
+        <item quantity="one">Телефон будет в режиме экстренных вызовов %s минуты. В этом режиме нет приложений с помощью которых может использоваться передачи данных. Хотите выйти?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет в этом режиме %s минут. Хотите выйти?</item>
+        <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет в этом режиме %s минуты. Хотите выйти?</item>
+    </plurals>
+</resources>

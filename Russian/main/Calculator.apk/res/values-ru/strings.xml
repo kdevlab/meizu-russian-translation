@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Калькулятор</string>
+  <string name="copy">Копировать</string>
+  <string name="error">Ошибка</string>
+  <string name="paste">Вставить</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Управление сертификатами</string>
+  <string name="cert_issued_to">"Выдано: "</string>
+  <string name="cert_serial">"Серийный номер: "</string>
+  <string name="cert_valid_from">"Действует с: "</string>
+  <string name="cert_valid_to">"Действует до: "</string>
+  <string name="hello">Hello World, WapiSetting!</string>
+  <string name="wifi_deleted_wapicert">Удалить сертификат</string>
+  <string name="wifi_install_wapicert">Установить сертификат</string>
+  <string name="wifi_pleaseslect_cert">Пожалуйста, выберите правильный сертификат</string>
+  <string name="wifi_wapi_ok">ОК</string>
+  <string name="wifi_wapicert_asinstalled">Установлен AS-сертификат. Пожалуйста, выберите сертификат пользователя для установки.</string>
+  <string name="wifi_wapicert_userinstalled">Сертификат пользователя установлен. Пожалуйста, выберите, AS сертификат для установки.</string>
+</resources>

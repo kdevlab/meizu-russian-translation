@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="wifi_status">
+        <item>Неподключен</item>
+        <item>Сканирование…</item>
+        <item>Соединение...</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP адреса…</item>
+        <item>Соединен</item>
+        <item>Приостановлен</item>
+        <item>Разъединение…</item>
+        <item>Разъединен</item>
+        <item>Неудачно</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Неподключен</item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Аутентификация с %1$s…</item>
+        <item>Получение IP адреса от %1$s…</item>
+        <item>Подключен к %1$s</item>
+        <item>Приостановлен</item>
+        <item>Отключение от %1$s...</item>
+        <item>Отключен</item>
+        <item>Неудачно</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Open</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Плохой</item>
+        <item>Нормальный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Когда экран выключен</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Количество запусков</item>
+        <item>Имя приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+</resources>

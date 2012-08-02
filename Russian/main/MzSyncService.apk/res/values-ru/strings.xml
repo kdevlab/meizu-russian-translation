@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="app_name">Сервис синхронизация</string>
+  <string name="auth_passed">Аутентификация завершена</string>
+  <string name="begin_auth">Аутентификация ...</string>
+  <string name="begin_receive_source">Получение %s</string>
+  <string name="begin_send_source">Отправка %s</string>
+  <string name="begin_sync">Начало синхронизации</string>
+  <string name="end_receive_source">Получение %s завершено.</string>
+  <string name="end_send_source">Отправка %s завершена</string>
+  <string name="error_auth">Неверное имя или пароль</string>
+  <string name="error_cancal">Синхронизация отменена</string>
+  <string name="error_device_not_found">Информация о телефоне не найдена</string>
+  <string name="error_network">Ошибка сети</string>
+  <string name="error_read_server_response">Не удалось загрузить данные с сервера</string>
+  <string name="error_server">Ошибка сервера</string>
+  <string name="error_server_busy">Сервер занят, повторите позже</string>
+  <string name="error_server_connection_request">Ошибка соединения</string>
+  <string name="error_server_not_found">Сервер не найден</string>
+  <string name="error_unknown">Сбой синхронизации</string>
+  <string name="error_write_server_request">Ошибка отправки данных</string>
+  <string name="hello">Синхронизация возможна</string>
+  <string name="source_lable_calendar">Календарь</string>
+  <string name="source_lable_contact">Контакты</string>
+  <string name="source_lable_note">Заметки</string>
+  <string name="source_lable_unknown">Неизвестный</string>
+</resources>

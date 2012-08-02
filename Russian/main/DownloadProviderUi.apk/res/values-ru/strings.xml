@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="all_pause">Приостановить все</string>
+  <string name="all_start">Начать все</string>
+  <string name="app_label">Загрузки</string>
+  <string name="button_sort_by_date">Сортировать по дате</string>
+  <string name="button_sort_by_size">Сортировать по размеру</string>
+  <string name="cancel">Отмена</string>
+  <string name="cancel_running_download">Отмена</string>
+  <string name="clear_all">Очистить историю</string>
+  <string name="clear_done">Очистить загрузки</string>
+  <string name="delete">Удалить</string>
+  <string name="delete_download">Удалить</string>
+  <string name="deselect_all">Снять выделение</string>
+  <string name="dialog_cannot_resume">Загрузка прервана и не может быть возобновлена.</string>
+  <string name="dialog_failed_body">Попробовать еще раз загрузить файл позже или удалить его из очереди?</string>
+  <string name="dialog_file_already_exists">Невозможно загрузить. Такой файл уже существует.</string>
+  <string name="dialog_file_missing_body">Не удалось найти загруженный файл.</string>
+  <string name="dialog_insufficient_space_on_cache">Невозможно завершить загрузку. Во встроенной памяти не хватает места.</string>
+  <string name="dialog_insufficient_space_on_external">Невозможно завершить загрузку. На внешнем носителе не хватает места.</string>
+  <string name="dialog_media_not_found">Невозможно загрузить. Внешний носитель не подключен.</string>
+  <string name="dialog_queued_body">Файл добавлен в очередь загрузки.</string>
+  <string name="dialog_title_not_available">Не удалось загрузить</string>
+  <string name="dialog_title_queued_body">Файл еще недоступен</string>
+  <string name="download_complete">Загруженные</string>
+  <string name="download_directory">Загрузка папок</string>
+  <string name="download_error">Не удалось</string>
+  <string name="download_failed">Загрузка неудачна</string>
+  <string name="download_no_application_title">Невозможно открыть файл</string>
+  <string name="download_pause">Загрузка приостановлена</string>
+  <string name="download_queued">В очереди</string>
+  <string name="download_running">В процессе</string>
+  <string name="download_share_dialog">Способ отправки</string>
+  <string name="download_success">Завершено</string>
+  <string name="download_title">Загрузки</string>
+  <string name="download_title_sorted_by_date">Загрузки – по дате</string>
+  <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
+  <string name="download_unknown_title">&lt;Без имени&gt;</string>
+  <string name="go_download">Продолжить</string>
+  <string name="in_download">Загрузка</string>
+  <string name="keep_queued_download">Сохранить</string>
+  <string name="missing_title">&lt;Неизвестно&gt;</string>
+  <string name="new_download">Новые загрузки</string>
+  <string name="no_downloads">Нет загрузок.</string>
+  <string name="not_exist">Файл не существует</string>
+  <string name="remove_download">Удалить</string>
+  <string name="retry_download">Повторить</string>
+  <string name="select_all">Выбрать все</string>
+  <string name="selected_count">%1$d из %2$d</string>
+  <string name="stop_download">Пауза</string>
+  <string name="wait_download">В ожидании загрузки</string>
+</resources>
