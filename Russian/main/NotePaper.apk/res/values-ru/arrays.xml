@@ -2,8 +2,8 @@
 <!--Decoded with KDG BigBlackBox-->
 <resources>
     <string-array name="picture_chooser_list">
-        <item>Камера</item>
-        <item>Галерея</item>
-        <item>Документ</item>
+        <item>РљР°РјРµСЂР°</item>
+        <item>Р“Р°Р»РµСЂРµСЏ</item>
+        <item>Р”РѕРєСѓРјРµРЅС‚</item>
     </string-array>
 </resources>

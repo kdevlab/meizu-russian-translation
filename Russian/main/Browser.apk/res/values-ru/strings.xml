@@ -335,7 +335,7 @@
   <string name="share_page">Отправить страницу</string>
   <string name="shortcut_bookmark">Закладка</string>
   <string name="shortcut_bookmark_title">Выберите закладку</string>
-  <string name="sign_in_to">Войти в %s1 \"%s2\"</string>
+  <string formatted="false" name="sign_in_to">Войти в %s \"%s\"</string>
   <string name="snapshot_failed">Не удалось сохранить страницу.</string>
   <string name="snapshot_go_live">Интерактивная версия</string>
   <string name="ssl_continue">Продолжить</string>

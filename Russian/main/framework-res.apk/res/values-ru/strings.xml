@@ -36,9 +36,9 @@
   <string name="VideoView_error_text_unknown">Невозможно воспроизвести видео.</string>
   <string name="VideoView_error_title">Не удалось воспроизвести видео</string>
   <string name="abbrev_month">%-b</string>
-  <string name="abbrev_month_day">%-e %b</string>
-  <string name="abbrev_month_day_year">%d.%m.%Y</string>
-  <string name="abbrev_month_year">%-b %Y</string>
+  <string formatted="false" name="abbrev_month_day">%-e %b</string>
+  <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
+  <string formatted="false" name="abbrev_month_year">%-b %Y</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
   <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
   <string name="accessibility_binding_label">Спец. возможности</string>
@@ -415,11 +415,11 @@
   <string name="heavy_weight_switcher_text">Выполняется другое приложение, которое должно быть остановлено прежде, чем запускать новое.</string>
   <string name="heavy_weight_switcher_title">Переключить приложения?</string>
   <string name="hour">ч.</string>
-  <string name="hour_ampm">%-l%P</string>
-  <string name="hour_cap_ampm">%-l%p</string>
-  <string name="hour_minute_24">%-k:%M</string>
-  <string name="hour_minute_ampm">%-l:%M %p</string>
-  <string name="hour_minute_cap_ampm">%-l:%M %^p</string>
+  <string formatted="false" name="hour_ampm">%-l%P</string>
+  <string formatted="false" name="hour_cap_ampm">%-l%p</string>
+  <string formatted="false" name="hour_minute_24">%-k:%M</string>
+  <string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
+  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
   <string name="hours">ч.</string>
   <string name="httpError">Произошла сетевая ошибка.</string>
   <string name="httpErrorAuth">Не удалось провести аутентификацию.</string>
@@ -519,8 +519,8 @@
   <string name="lockscreen_carrier_default">Сеть не найдена.</string>
   <string name="lockscreen_charged">Батарея заряжена</string>
   <string name="lockscreen_emergency_call">Экстренный вызов</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. 
+  <string formatted="false" name="lockscreen_failed_attempts_almost_at_wipe">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
+  <string formatted="false" name="lockscreen_failed_attempts_almost_glogin">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. 
 
  Повтор через %d сек."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (число попыток: %d). Будут установлены настройки по умолчанию.</string>
@@ -560,13 +560,13 @@
   <string name="lockscreen_sound_off_label">Откл. звук</string>
   <string name="lockscreen_sound_on_label">Вкл. звук</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы %d раз неверно указали графический ключ. 
+  <string formatted="false" name="lockscreen_too_many_failed_attempts_dialog_message">"Вы %d раз неверно указали графический ключ. 
 
 Повтор через %d сек."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %d. 
+  <string formatted="false" name="lockscreen_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %d. 
 
 Повторите попытку через %d с."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода PIN-кода: %d. 
+  <string formatted="false" name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода PIN-кода: %d. 
 
 Повторите попытку через %d с."</string>
   <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
@@ -604,8 +604,8 @@
   <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
   <string name="mms_ringtone_title">Мелодия сообщения</string>
   <string name="month">%-B</string>
-  <string name="month_day">%-e %B</string>
-  <string name="month_day_year">%-e %B %Y г.</string>
+  <string formatted="false" name="month_day">%-e %B</string>
+  <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
   <string name="month_long_april">апреля</string>
   <string name="month_long_august">августа</string>
   <string name="month_long_december">декабря</string>
@@ -654,7 +654,7 @@
   <string name="month_shortest_november">Н</string>
   <string name="month_shortest_october">О</string>
   <string name="month_shortest_september">С</string>
-  <string name="month_year">%-B %Y</string>
+  <string formatted="false" name="month_year">%-B %Y</string>
   <string name="more_item_label">Ещё</string>
   <string name="needPin" />
   <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
@@ -679,7 +679,7 @@
   <string name="number_picker_increment_button">Увеличить</string>
   <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его.</string>
   <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s.</string>
-  <string name="numeric_date">%d.%m.%Y</string>
+  <string formatted="false" name="numeric_date">%d.%m.%Y</string>
   <string name="numeric_date_format">dd.MM.yyyy</string>
   <string name="numeric_date_format_dmy">EEE, d/M/yyyy</string>
   <string name="numeric_date_format_dym">EEE, d/yyyy/M</string>
@@ -687,7 +687,7 @@
   <string name="numeric_date_format_myd">EEE, M/yyyy/d</string>
   <string name="numeric_date_format_ydm">yyyy/d/M, EEE</string>
   <string name="numeric_date_format_ymd">yyyy/M/d, EEE</string>
-  <string name="numeric_date_template">%s.%s.%s</string>
+  <string formatted="false" name="numeric_date_template">%s.%s.%s</string>
   <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
   <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
   <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>

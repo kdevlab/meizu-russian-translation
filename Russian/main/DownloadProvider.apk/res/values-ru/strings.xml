@@ -36,11 +36,11 @@
   <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
   <string name="system_updates">Обновление системы</string>
   <string name="wait_download">Подготовка к загрузке...</string>
-  <string name="wifi_recommended_body">"Если загрузить %s  сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь.
+  <string formatted="false" name="wifi_recommended_body">"Если загрузить %s  сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь.
 
 Чтобы выполнить загрузку позже через Wi-Fi, нажмите %s."</string>
   <string name="wifi_recommended_title">Поставить в очередь на загрузку позже?</string>
-  <string name="wifi_required_body">"Для завершения загрузки файла размером %s  необходимо подключение к сети Wi-Fi.
+  <string formatted="false" name="wifi_required_body">"Для завершения загрузки файла размером %s  необходимо подключение к сети Wi-Fi.
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s ."</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>

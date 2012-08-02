@@ -111,7 +111,7 @@
   <string name="MusicCombo">Music package</string>
   <string name="MusicComboBuyTip">"No available package. Tap 'Purchase' to view the current purchasable package information."</string>
   <string name="MusicComboDownloadTip">Note: The downloaded songs can be re-downloaded 4 times free of charge.</string>
-  <string name="MusicComboTips">%s (remaining %s song(s))</string>
+  <string formatted="false" name="MusicComboTips">%s (remaining %s song(s))</string>
   <string name="MyNumber">My phone number</string>
   <string name="MzAccountUpdate">MzAccount Update</string>
   <string name="NYuan">%s Yuan</string>
@@ -125,7 +125,7 @@
   <string name="NoSyncRecord">No sync history</string>
   <string name="NotSelectAll">Deselect all</string>
   <string name="NotepaperSyncNotice">Sync notes automatically</string>
-  <string name="NowBaseNDonateN">Basic account balance %s Yuan, bonus balance %s Yuan.</string>
+  <string formatted="false" name="NowBaseNDonateN">Basic account balance %s Yuan, bonus balance %s Yuan.</string>
   <string name="OldPassword">Current password</string>
   <string name="Organisation">Organization</string>
   <string name="OtherAddress">Other Address</string>
@@ -158,7 +158,7 @@
   <string name="RechargeFinish">Recharge complete</string>
   <string name="RechargeInstruction">Recharge notes:</string>
   <string name="RechargeOrderNum">Recharge number</string>
-  <string name="RechargeOrderNumTip1">Recharge amount %s Yuan. Your account will be recharged via page %s.</string>
+  <string formatted="false" name="RechargeOrderNumTip1">Recharge amount %s Yuan. Your account will be recharged via page %s.</string>
   <string name="RechargeOrderNumTip2">"\u0009Your recharge will be credited and available to your account in a working day after system confirmation.
 \u0009If not, log in Meizu User Center (member.meizu.com) within 15 days, click 'I claim' on page 'Self-service Recharge' to claim with recharge number %s and payer account."</string>
   <string name="RechargeOrderNumTip3">"\u0009If your recharge card number and password are correct, your recharge will be credited and available to your account in a working day after system confirmation.
@@ -181,7 +181,7 @@
   <string name="Save">Save</string>
   <string name="SaveContactInfoError">Saving contact information failed</string>
   <string name="SaveContactInfoSuccess">Saving contact information successful</string>
-  <string name="SaveContactInfoTip">Total contacts updated: %s, successful: %s, failed: %s</string>
+  <string formatted="false" name="SaveContactInfoTip">Total contacts updated: %s, successful: %s, failed: %s</string>
   <string name="SaveError">Saving failed</string>
   <string name="SelectAll">Select all</string>
   <string name="SelfDefine">Custom</string>
@@ -294,7 +294,7 @@
   <string name="account_present">Current account:</string>
   <string name="account_psw">Password</string>
   <string name="account_remain">The residual amount¥%s</string>
-  <string name="account_remain_detail">The current account balance is ¥%s, basic account balance is ¥%s, presented the account balance is ¥%s</string>
+  <string formatted="false" name="account_remain_detail">The current account balance is ¥%s, basic account balance is ¥%s, presented the account balance is ¥%s</string>
   <string name="addAccount">Add account</string>
   <string name="agreementTitle">Flyme Terms of Service</string>
   <string name="allowFindPhone">Allow to locate phone</string>
@@ -386,7 +386,7 @@
   <string name="music_vip">Music subscription</string>
   <string name="music_vip_status">VIP Music paying members</string>
   <string name="myInfo">My information</string>
-  <string name="myInfo_detail">"Current status:%s
+  <string formatted="false" name="myInfo_detail">"Current status:%s
 account balance:%s
 Expiry Date:%s"</string>
   <string name="networkError">Network connection failed</string>
@@ -447,7 +447,7 @@ Expiry Date:%s"</string>
   <string name="syncItem">Sync item</string>
   <string name="syncingData">Syncing data</string>
   <string name="timeFormat">MM-dd kk:mm:ss</string>
-  <string name="transFromTo">%s transfers to %s</string>
+  <string formatted="false" name="transFromTo">%s transfers to %s</string>
   <string name="turned_off">Turned off</string>
   <string name="turned_on">Turned on</string>
   <string name="useFlymeToSync">Use Flyme account to sync data</string>

@@ -50,7 +50,7 @@
   <string name="callAgain">Позвонить снова</string>
   <string name="callBack">Перезвонить</string>
   <string name="callDetailTitle">Сведения о вызове</string>
-  <string name="callDetailsDurationFormat">%s:%s</string>
+  <string formatted="false" name="callDetailsDurationFormat">%s:%s</string>
   <string name="callDetailsDurationFormat2">%s секунд</string>
   <string name="callDetailsDurationFormat3">гудков: %s</string>
   <string name="callIpNumber">Вызовов IP-номера</string>
@@ -250,13 +250,13 @@
 Причина: %s"</string>
   <string name="exporting_contact_failed_title">Сбой экспорта</string>
   <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\".</string>
-  <string name="exporting_contact_list_progress">Контакт %s из %s</string>
+  <string formatted="false" name="exporting_contact_list_progress">Контакт %s из %s</string>
   <string name="exporting_contact_list_title">Экспорт данных контакта</string>
   <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен.</string>
   <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен.</string>
   <string name="external_profile_title">Мой профиль %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s</string>
-  <string name="fail_reason_could_not_open_file">Не удалось открыть файл \"%s\". Причина: %s</string>
+  <string formatted="false" name="fail_reason_could_not_open_file">Не удалось открыть файл \"%s\". Причина: %s</string>
   <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаданные файлов VCard.</string>
   <string name="fail_reason_failed_to_read_files">Не удалось импортировать один или несколько файлов (%s).</string>
@@ -507,7 +507,7 @@
   <string name="private_num">Скрытый номер</string>
   <string name="profile_display_name">Настроить профиль</string>
   <string name="progress_msg">В процессе</string>
-  <string name="progress_notifier_message">Импорт %s/%s: %s</string>
+  <string formatted="false" name="progress_notifier_message">Импорт %s/%s: %s</string>
   <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении.</string>
   <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>

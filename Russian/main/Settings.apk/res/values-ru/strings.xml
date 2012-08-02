@@ -437,8 +437,8 @@
   <string name="contributors_title">Участники</string>
   <string name="controls_label">Элементы управления</string>
   <string name="controls_subtitle">Режим энергопотребления</string>
-  <string name="copyright_text">"\u0009\u0009  © 2003-2012 Meizu Technology Co., Ltd. Все права защищены.
-\u0009\u0009  Перевод на русский KDev Group. Все права защищены.
+  <string formatted="false" name="copyright_text">"\u0009\u0009  © 2003-2012 Meizu Technology Co., Ltd. Все права защищены.
+\u0009\u0009  Перевод на русский © KDev Group. Все права защищены.
 \u0009\u0009  Meizu, Meizu %s и логотип Meizu являются  торговыми марками Meizu Technology Co., Ltd, зарегистрированными в Китае и других  странах.
 \u0009\u0009  Пожалуйста, тщательно проверьте лицензионные соглашения программного  обеспечения Meizu или стороннего  программного обеспечения, полученного  при активации или включённого в продукт, или полученного с  каким-либо обновлением программного обеспечения.
 \u0009\u0009  Any cracking to get root privileges is prohibited without Meizu prior written consent, which may lead to infringement liability and destroy the security and stability of %s. Meizu will not take any legal responsibility for the change of system performance or unstable quality of %s caused by such cracking to get root privileges.
