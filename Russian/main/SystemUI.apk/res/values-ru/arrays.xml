@@ -2,31 +2,31 @@
 <!--Decoded with KDG BigBlackBox-->
 <resources>
     <string-array name="wifi_status">
-        <item>Unconnected</item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Connecting…</item>
-        <item>Connecting…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Не подключено</item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Подключение…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Сон</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Ошибка</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item>Unconnected</item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Не подключено</item>
+        <item>Сканирование…</item>
+        <item>Подключено к %1$s…</item>
+        <item>Аутентификация в %1$s…</item>
+        <item>Получение IP адреса %1$s…</item>
+        <item>Подключен к %1$s</item>
+        <item>Сон</item>
+        <item>Отключен от %1$s…</item>
+        <item>Отключен</item>
+        <item>Ошибка</item>
     </string-array>
     <string-array name="wifi_security">
-        <item>Open</item>
+        <item>Нет</item>
         <item>WEP</item>
         <item>WPA/WPA2 PSK</item>
         <item>802.1x EAP</item>
@@ -34,7 +34,7 @@
         <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
+        <item>Нет</item>
         <item>WPA2 PSK</item>
     </string-array>
     <string-array name="wifi_wapi_psk_type">
@@ -49,24 +49,19 @@
         <item>AKA</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Good</item>
-        <item>Excellent</item>
+        <item>Плохой</item>
+        <item>Терпимый</item>
+        <item>Хороший</item>
+        <item>Прекрасный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>When screen turns off</item>
-        <item>Never</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Когда экран отключен</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Usage time</item>
-        <item>Launch count</item>
-        <item>Application name</item>
+        <item>По времени</item>
+        <item>По порядку</item>
+        <item>По имени</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -81,21 +76,12 @@
         <item>GTC</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple">
-        <item>Auto</item>
-        <item>GSM only</item>
-        <item>3G only</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values_simple">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Авто</item>
+        <item>Только GSM</item>
+        <item>Только 3G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple_unicom">
-        <item>Auto</item>
-        <item>GSM only</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values_simple_unicom">
-        <item>0</item>
-        <item>1</item>
+        <item>Авто</item>
+        <item>Только GSM</item>
     </string-array>
 </resources>

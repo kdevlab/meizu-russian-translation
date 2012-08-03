@@ -1095,7 +1095,7 @@
   <string name="reset_tips">Введите старый пароль</string>
   <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
   <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
-  <string name="ring_up_title">Постепенное наростание</string>
+  <string name="ring_up_title">Постепенное нарастание</string>
   <string name="ring_volume_title">Громкость звонка</string>
   <string name="ringtone_title">Мелодия вызова</string>
   <string name="roaming">Интернет-роуминг</string>
