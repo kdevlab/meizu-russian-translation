@@ -510,7 +510,7 @@
   <string name="lock_pattern_view_aspect" />
   <string name="lock_tips_dialing">Вызов</string>
   <string name="lock_usb_hint">Память USB</string>
-  <string name="lock_week">d MMM, yyyy (EEE)</string>
+  <string name="lock_week">d MMM yyyy (EEE)</string>
   <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
   <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
