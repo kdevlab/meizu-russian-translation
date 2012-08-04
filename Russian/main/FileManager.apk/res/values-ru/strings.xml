@@ -16,7 +16,7 @@
   <string name="deleting">Удаление...</string>
   <string name="device">Устройство</string>
   <string name="doc_list_name">Диск</string>
-  <string name="edit">Редактировать</string>
+  <string name="edit">Изменить</string>
   <string name="email_fail">Размер вложения превышает ограничение 50МБ</string>
   <string name="empty_name">Имя файла не может быть пустым</string>
   <string name="err_copy">" ошибка копирования"</string>
