@@ -3,7 +3,6 @@
   <!--Translated with KDev Group Translator Editor (main repository)-->
   <string name="accessibility_airplane_mode">Режим полета.</string>
   <string name="accessibility_back">Назад</string>
-  <string name="status_bar_date_format">d MMM (EEE)</string>
   <string name="accessibility_battery_full">Батарея полностью заряжена.</string>
   <string name="accessibility_battery_level">Заряд батареи - %d%%.</string>
   <string name="accessibility_battery_one_bar">Заряд батареи: одно деление.</string>
@@ -116,6 +115,7 @@
   <string name="screenshot_saving_title">Сохранение...</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_clear_all_button">Очистить</string>
+  <string name="status_bar_date_format">d MMM (EEE)</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
