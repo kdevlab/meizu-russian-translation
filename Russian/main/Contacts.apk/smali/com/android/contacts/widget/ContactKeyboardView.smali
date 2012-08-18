@@ -1036,12 +1036,12 @@
     :goto_2
     add-int/lit8 v6, v6, 0x0
 
-    add-int/lit8 v9, v6, 0x0
+    add-int/lit8 v9, v6, 0x32
 
     .line 704
-    add-int/lit8 v12, v12, 0x0
+    add-int/lit8 v12, v12, 0x19
 
-    add-int/lit8 v1, v12, 0x0
+    add-int/lit8 v1, v12, 0x1e
 
     .line 706
     invoke-virtual {v4, v6, v12, v9, v1}, Landroid/graphics/drawable/Drawable;->setBounds(IIII)V
