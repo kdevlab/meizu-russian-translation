@@ -14,60 +14,60 @@
         <item>Облачно</item>
     </string-array>
     <string-array name="camera_cameramenu_array">
-        <item>Сюжет</item>
+        <item>Сцена</item>
         <item>Баланс белого</item>
         <item>Другое</item>
     </string-array>
     <string-array name="camera_menu_other_array">
-        <item>Местоположение</item>
-        <item>Съемка жестами</item>
+        <item>Location</item>
+        <item>Gesture Capture</item>
     </string-array>
     <string-array name="camera_mx_cameramenu_array">
-        <item>Режим съемки</item>
+        <item>Capture mode</item>
         <item>ISO</item>
-        <item>Сюжет</item>
-        <item>Баланс белого</item>
-        <item>Другое</item>
+        <item>Scene</item>
+        <item>White balance</item>
+        <item>Other</item>
     </string-array>
     <string-array name="camera_mx_videomenu_array">
-        <item>Размер видео</item>
-        <item>Сюжет</item>
-        <item>Баланс белого</item>
+        <item>Video Size</item>
+        <item>Scene</item>
+        <item>White Balance</item>
     </string-array>
     <string-array name="camera_mx_white_balance">
-        <item>Авто</item>
-        <item>Лампа дневного света</item>
-        <item>Солнечно</item>
-        <item>Лампа накаливания</item>
+        <item>Auto</item>
+        <item>Fluorescent</item>
+        <item>Sunny</item>
+        <item>Incandescent</item>
     </string-array>
     <string-array name="camera_mx_scence_array_photo">
-        <item>Авто</item>
-        <item>Текст</item>
-        <item>Ночь</item>
-        <item>Ландшафт</item>
-        <item>Макро</item>
+        <item>Auto</item>
+        <item>Text</item>
+        <item>Night</item>
+        <item>Landscape</item>
+        <item>Macro</item>
     </string-array>
     <string-array name="camera_mx_scence_array_clip">
-        <item>Авто</item>
-        <item>Портрет</item>
-        <item>Ландшафт</item>
-        <item>Закат</item>
-        <item>Макро</item>
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Sunset</item>
+        <item>Macro</item>
     </string-array>
     <string-array name="camera_mx_flash_light_array">
-        <item>Авто</item>
-        <item>Вкл</item>
-        <item>Выкл</item>
+        <item>Auto</item>
+        <item>On</item>
+        <item>Off</item>
     </string-array>
     <string-array name="video_camera_mx_flash_light_array">
-        <item>Открыть</item>
-        <item>Закрыть</item>
+        <item>Open</item>
+        <item>Close</item>
     </string-array>
     <string-array name="camera_mx_capture_mode_array">
-        <item>Стандарт</item>
-        <item>Панорама</item>
-        <item>Улыбка</item>
-        <item>Серия</item>
+        <item>Normal</item>
+        <item>Panorama</item>
+        <item>Smile</item>
+        <item>Burst</item>
     </string-array>
     <string-array name="camera_mx_sensitivity_mode_array">
         <item>Авто</item>
@@ -77,15 +77,15 @@
         <item>800</item>
     </string-array>
     <string-array name="camera_mx_wide_dynamic_mode_array">
-        <item>Выкл</item>
-        <item>Авто</item>
-        <item>Низкий</item>
-        <item>Средний</item>
-        <item>Высокий</item>
+        <item>Off</item>
+        <item>Auto</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
     </string-array>
     <string-array name="camera_mx_menu_other_array">
-        <item>Местоположение</item>
-        <item>Широкий динамический</item>
-        <item>Съемка жестами</item>
+        <item>Location</item>
+        <item>Wide dynamic</item>
+        <item>Gesture Capture</item>
     </string-array>
 </resources>
