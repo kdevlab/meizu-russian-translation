@@ -1034,7 +1034,7 @@
 
     .line 703
     :goto_2
-    add-int/lit8 v6, v6, 0x0
+    add-int/lit8 v6, v6, 0x2
 
     add-int/lit8 v9, v6, 0x32
 
