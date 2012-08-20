@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="acquiring_log_progress_dialog_message">Acquiring log from the system...</string>
   <string name="app_name">mLogger</string>
   <string name="boot_stat_fmt">"[Boot Statistic]:
