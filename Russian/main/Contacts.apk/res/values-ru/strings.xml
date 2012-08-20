@@ -609,7 +609,7 @@
   <string name="toast_making_personal_copy">Копирование...</string>
   <string name="toast_text_copied">Текст скопирован</string>
   <string name="type_incoming">Входящий вызов</string>
-  <string name="type_incoming_ex">входящ</string>
+  <string name="type_incoming_ex">вход.</string>
   <string name="type_incoming_reject">Отклонен</string>
   <string name="type_missed">Пропущенный вызов</string>
   <string name="type_missed_ex">Пропущенный</string>
