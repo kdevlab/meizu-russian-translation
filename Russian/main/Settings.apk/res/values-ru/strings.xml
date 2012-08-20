@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="LoadingData">Загрузка данных</string>
   <string name="NoData">Нет данных</string>
   <string name="about_settings">О телефоне</string>

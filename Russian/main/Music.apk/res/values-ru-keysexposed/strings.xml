@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="create_playlist_create_text_prompt">Название плейлиста</string>
   <string name="rename_playlist_diff_prompt">Переименовать \"%s\" в</string>
   <string name="rename_playlist_same_prompt">Переименовать \"%s\" в</string>
