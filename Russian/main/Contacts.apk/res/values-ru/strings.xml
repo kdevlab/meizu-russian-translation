@@ -130,10 +130,10 @@
   <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт.</string>
   <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
-  <string name="contact_keyboard_key_first">ЙЦУКЕНГШЗХ</string>
-  <string name="contact_keyboard_key_second">ФЫВАПРОЛДЖ</string>
-  <string name="contact_keyboard_key_third">ЯЧСМИТБЮ</string>
-  <string name="contact_keyboard_key_fourth">ЩЪЬЭЁ8</string>
+  <string name="contact_keyboard_key_first">ЙЦУКЕНГШЩЗ</string>
+  <string name="contact_keyboard_key_second">ФЫВАПРОЛД</string>
+  <string name="contact_keyboard_key_third">ЯЧСМИТЬ8</string>
+  <string name="contact_keyboard_key_fourth">ЯЧСМИТЬ8</string>
   <string name="contact_list_loading">Загрузка...</string>
   <string name="contact_read_only">Здесь доступно только для чтения.</string>
   <string name="contact_status_update_attribution">с помощью %1$s</string>
