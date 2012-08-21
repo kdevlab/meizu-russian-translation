@@ -641,8 +641,6 @@
 
     move-result v8
 
-    add-int/lit8 v8, v8, -0x36
-
     div-int v4, v8, v2
 
     .line 774
