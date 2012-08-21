@@ -2,20 +2,20 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="acquiring_log_progress_dialog_message">Acquiring log from the system...</string>
-  <string name="app_name">mLogger</string>
+  <string name="acquiring_log_progress_dialog_message">Получение журнала из системы...</string>
+  <string name="app_name">Журнал</string>
   <string name="boot_stat_fmt">"[Boot Statistic]:
 %s
 "</string>
-  <string name="btn_sendlog">Run</string>
-  <string name="chk_boot_stat">Get Boot Statistic</string>
-  <string name="chk_customized_cmd">Get Customized Logs</string>
-  <string name="chk_kmsg">Get Kernel Message</string>
-  <string name="chk_last_kmsg">Get Last Kernel Message</string>
-  <string name="chk_load_from_file">Get Log From File</string>
-  <string name="chk_logcat">Get Android Log</string>
-  <string name="chk_save_to_file">Save Log To File (In SD Card)</string>
-  <string name="chooser_title">Select an application to send the log</string>
+  <string name="btn_sendlog">Запустить</string>
+  <string name="chk_boot_stat">Получить статистику о загрузке</string>
+  <string name="chk_customized_cmd">Получить настроенные журналы</string>
+  <string name="chk_kmsg">Получить сообщение Ядра</string>
+  <string name="chk_last_kmsg">Получить последнее сообщение Ядра</string>
+  <string name="chk_load_from_file">Получить журнал из файла</string>
+  <string name="chk_logcat">Получить журнал Android</string>
+  <string name="chk_save_to_file">Сохранить журнал в файл (На SD-карте)</string>
+  <string name="chooser_title">Выберите приложение для отправки журнала</string>
   <string formatted="false" name="device_info_fmt">"Logger version: %s
  Log Time: %s
  Device model: %s
@@ -23,12 +23,10 @@
  Kernel version: %s
  Build number: %s
 "</string>
-  <string name="et_customized_cmd_hint">Input your commands</string>
-  <string name="et_load_file">/data/logs/android_log.txt</string>
-  <string name="et_load_file_hint">Input your file to read log</string>
-  <string name="et_save_file">/data/logs/android_log.txt</string>
-  <string name="et_save_file_hint">Input your file to save log</string>
-  <string name="failed_to_get_log_message">Failed to get the log from the system.</string>
+  <string name="et_customized_cmd_hint">Введите ваши команды</string>
+  <string name="et_load_file_hint">Введите путь к вашему файлу для чтения журналов</string>
+  <string name="et_save_file_hint">Введите путь к вашему файлу для сохранения журналов</string>
+  <string name="failed_to_get_log_message">Ошибка получения журнала из системы</string>
   <string name="kmsg_fmt">"[Kernel Message]:
 %s
 "</string>
@@ -43,15 +41,15 @@
   <string name="logfile_fmt">"[Log File]:
 %s
 "</string>
-  <string name="main_dialog_text">"This application will attempt to collect the device log.
-The collected log will be sent using an application of your choice.
-You also will have an opportunity to see and modify the data being sent."</string>
+  <string name="main_dialog_text">"Это приложение будет пытаться собрать данные с устройства.
+Собранные журналы будут отправлены с помощью приложения на ваш выбор.
+Вы также будете иметь возможность просмотреть и изменить передаваемые данные"</string>
   <string name="message_subject">Android device log</string>
   <string name="other_log_fmt">"[The other log]:
 %s
 "</string>
-  <string name="tst_boot_stat">/proc/boot_stat records the boot reason and boot statistic</string>
-  <string name="tst_kmsg">"Use 'dmesg' command to dump out current kernel log"</string>
-  <string name="tst_last_kmsg">/proc/last_kmsg saves the log of the last kernel, which records the boot reason, boot statistic and the potential kernel exception information</string>
-  <string name="tst_logcat">"Get android log with 'logcat -v time -b main -b system -b radio'"</string>
+  <string name="tst_boot_stat">Записи в /proc/boot_stat содержат причину и статистику загрузки</string>
+  <string name="tst_kmsg">"Используйте команду 'dmesg' для сохранения текущего журнала ядра"</string>
+  <string name="tst_last_kmsg">Записи в /proc/last_kmsg содержат полную статистику о ядре, последней загрузке и ошибках в ядре</string>
+  <string name="tst_logcat">"Получите лог Android с помощью команды 'logcat -v time -b main -b system -b radio'"</string>
 </resources>
