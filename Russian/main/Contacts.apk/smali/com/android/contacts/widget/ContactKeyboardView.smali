@@ -98,7 +98,7 @@
     sput v0, Lcom/android/contacts/widget/ContactKeyboardView;->KEYBOARD_HEIGHT:I
 
     .line 618
-    const/4 v0, 0x4
+    const/4 v0, 0x3
 
     new-array v0, v0, [I
 
@@ -135,7 +135,6 @@
     .line 618
     :array_0
     .array-data 0x4
-        0x37t 0x0t 0x0t 0x0t
         0x37t 0x0t 0x0t 0x0t
         0x37t 0x0t 0x0t 0x0t
         0x37t 0x0t 0x0t 0x0t
@@ -965,20 +964,6 @@
 
     .line 687
     .local v9, right:I
-    invoke-static {v11}, Landroid/text/TextUtils;->isDigitsOnly(Ljava/lang/CharSequence;)Z
-
-    move-result v13
-
-    if-eqz v13, :cond_0
-
-    .line 688
-    sget-object v13, Lcom/android/contacts/widget/ContactKeyboardView;->KEYBOARD_WIDTHS:[I
-
-    const/4 v14, 0x3
-
-    aget v13, v13, v14
-
-    add-int v9, v6, v13
 
     .line 691
     :cond_0
@@ -1034,9 +1019,6 @@
 
     .line 703
     :goto_2
-    add-int/lit8 v6, v6, 0x0
-
-    add-int/lit8 v9, v6, 0x32
 
     .line 704
     add-int/lit8 v12, v12, 0x19
