@@ -80,7 +80,7 @@
     .locals 2
 
     .prologue
-    const/4 v1, 0x4
+    const/4 v1, 0x3
 
     .line 615
     const/16 v0, 0x8
@@ -98,7 +98,7 @@
     sput v0, Lcom/android/contacts/widget/ContactKeyboardView;->KEYBOARD_HEIGHT:I
 
     .line 618
-    const/4 v0, 0x4
+    const/4 v0, 0x3
 
     new-array v0, v0, [I
 
@@ -138,13 +138,11 @@
         0x37t 0x0t 0x0t 0x0t
         0x37t 0x0t 0x0t 0x0t
         0x37t 0x0t 0x0t 0x0t
-        0x37t 0x0t 0x0t 0x0t
     .end array-data
 
     .line 621
     :array_1
     .array-data 0x4
-        0x9t 0x0t 0x0t 0x0t
         0x9t 0x0t 0x0t 0x0t
         0x9t 0x0t 0x0t 0x0t
         0x9t 0x0t 0x0t 0x0t
@@ -156,18 +154,15 @@
         0x9t 0x0t 0x0t 0x0t
         0x9t 0x0t 0x0t 0x0t
         0x9t 0x0t 0x0t 0x0t
-        0x9t 0x0t 0x0t 0x0t
     .end array-data
 .end method
 
 .method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;)V
-    .locals 8
+    .locals 7
     .parameter "context"
     .parameter "attrs"
 
     .prologue
-    const/4 v7, 0x3
-
     const/4 v6, 0x2
 
     const/4 v5, -0x1
@@ -206,7 +201,7 @@
 
     .line 632
     .local v0, metrics:Landroid/util/DisplayMetrics;
-    const/4 v1, 0x4
+    const/4 v1, 0x3
 
     new-array v1, v1, [Ljava/lang/String;
 
@@ -233,14 +228,6 @@
     move-result-object v2
 
     aput-object v2, v1, v6
-
-    const v2, 0x7f0d0252
-
-    invoke-virtual {p1, v2}, Landroid/content/Context;->getString(I)Ljava/lang/String;
-
-    move-result-object v2
-
-    aput-object v2, v1, v7
 
     iput-object v1, p0, Lcom/android/contacts/widget/ContactKeyboardView;->KEY_NAME:[Ljava/lang/String;
 
