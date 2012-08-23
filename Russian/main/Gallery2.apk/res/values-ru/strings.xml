@@ -177,7 +177,7 @@
   <string name="share">Отправить</string>
   <string name="share_bluetooth">Отправить через Bluetooth</string>
   <string name="share_mms">Отправить через MMS</string>
-  <string name="share_more">Показан другими</string>
+  <string name="share_more">Отправить через...</string>
   <string name="sharpen">Резкость</string>
   <string name="show_all">Изображения и видео</string>
   <string name="show_images_only">Только изображения</string>
