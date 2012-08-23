@@ -19,8 +19,8 @@
   <string name="account_folder_list_summary_inbox">Входящие</string>
   <string name="account_folder_list_summary_outbox">Исходящие</string>
   <string name="account_folder_list_summary_starred">Избранное</string>
-  <string name="account_m9_signature">Отправлено из Meizu M9</string>
-  <string name="account_mx_signature">Отправлено из Meizu MX</string>
+  <string name="account_m9_signature">Отправлено из Meizu M9 (KDG)</string>
+  <string name="account_mx_signature">Отправлено из Meizu MX (KDG)</string>
   <string name="account_name_display_all">Все аккаунты</string>
   <string name="account_out_of_quota">Превышена дисковая квота для аккаунта</string>
   <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
@@ -381,7 +381,7 @@
 %3$sТема：%4$s
 
 "</string>
-  <string name="meizu_message_compose_fwd_header_to">В：%s</string>
+  <string name="meizu_message_compose_fwd_header_to">Кому：%s</string>
   <string name="menu_hide_completed_items">Скрыть подробности</string>
   <string name="menu_hide_pending_items">Скрыть незавершенные загрузки</string>
   <string name="menu_settings">Настройки</string>
@@ -401,10 +401,10 @@
   <string name="message_compose_attachment_size">Слишком большой файл для вложения</string>
   <string name="message_compose_attachment_size_toobig">Ошибка прикрепления вложения \"%1$s\", размер превышает лимит %2$dМБ</string>
   <string name="message_compose_attachment_unloaed_removed">Выгруженные вложения удалены</string>
-  <string name="message_compose_bcc_hint">Bcc</string>
-  <string name="message_compose_cc_bcc_hint">Cc/Bcc</string>
-  <string name="message_compose_cc_bcc_sender_hint">Cc/Bcc/From</string>
-  <string name="message_compose_cc_hint">Cc</string>
+  <string name="message_compose_bcc_hint">Скрытая копия</string>
+  <string name="message_compose_cc_bcc_hint">Копия/Скрытая копия</string>
+  <string name="message_compose_cc_bcc_sender_hint">Копия/Скрытая копия/От</string>
+  <string name="message_compose_cc_hint">Копия</string>
   <string name="message_compose_change_account_error_tip">"Ошибка переключения аккаунта, предел вложений в %dM исчерпан"</string>
   <string formatted="false" name="message_compose_display_name">%1$s и ещё %2$d</string>
   <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>
@@ -429,7 +429,7 @@
 "</string>
   <string name="message_compose_sender_hint">От</string>
   <string name="message_compose_subject_hint">Тема</string>
-  <string name="message_compose_to_hint">В</string>
+  <string name="message_compose_to_hint">Кому</string>
   <string name="message_compose_whether_save">Сохранить черновик?</string>
   <string name="message_decode_error">При расшифровке сообщения произошла ошибка</string>
   <string name="message_delete_dialog_title" />
@@ -609,7 +609,7 @@
   <string name="search_hint">Искать в электронной почте</string>
   <string name="search_mailbox_hint">Поиск %1$s</string>
   <string name="search_selector_all">Все</string>
-  <string name="search_selector_receiver">В</string>
+  <string name="search_selector_receiver">Кому</string>
   <string name="search_selector_sender">Отправитель</string>
   <string name="search_selector_subject">Тема</string>
   <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени</string>
