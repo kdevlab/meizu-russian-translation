@@ -175,7 +175,7 @@
   <string name="settings">Настройки</string>
   <string name="shadow">Затенение</string>
   <string name="share">Отправить</string>
-  <string name="share_bluetooth">Отправить через Bluetooth</string>
+  <string name="share_bluetooth">Отправить через BT</string>
   <string name="share_mms">Отправить через MMS</string>
   <string name="share_more">Отправить через...</string>
   <string name="sharpen">Резкость</string>
