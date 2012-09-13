@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="crop_aspect">
+        <item>1 : 1</item>
+        <item>3 : 2</item>
+        <item>4 : 3</item>
+        <item>16 : 10</item>
+        <item>Формат</item>
+    </string-array>
+</resources>

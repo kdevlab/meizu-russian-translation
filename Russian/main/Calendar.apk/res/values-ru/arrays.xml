@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
     <string-array name="reminder_methods_labels">
@@ -29,84 +29,6 @@
         <item>Суббота</item>
         <item>Воскресенье</item>
         <item>Понедельник</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Занят</item>
-        <item>Доступен</item>
-        <item>Неопределенный</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>По-умолчанию</item>
-        <item>Частный</item>
-        <item>Публичный</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Нет ответа</item>
-        <item>Да</item>
-        <item>Возможно</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Только это событие</item>
-        <item>Это и будущие события</item>
-        <item>Все события</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Это и будущие события</item>
-        <item>Все события</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Только это событие</item>
-        <item>Все мероприятия в этой серии</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Месяц</item>
-        <item>Неделя</item>
-        <item>День</item>
-    </string-array>
-    <string-array name="agenda_list">
-        <item>Все события</item>
-        <item>Один год</item>
-        <item>Три месяца</item>
-        <item>Один месяц</item>
-    </string-array>
-    <string-array name="yuefen">
-        <item></item>
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
-        <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
-    </string-array>
-    <string-array name="weekarr">
-        <item>В</item>
-        <item>П</item>
-        <item>В</item>
-        <item>С</item>
-        <item>Ч</item>
-        <item>П</item>
-        <item>С</item>
-    </string-array>
-    <string-array name="weekarr1">
-        <item>Sun</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Всегда</item>
-        <item>Только, когда без звука</item>
-        <item>Никогда</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Маршалловы о-ва</item>
@@ -192,5 +114,83 @@
         <item>Окленд</item>
         <item>Фиджи</item>
         <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Неопределенный</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По-умолчанию</item>
+        <item>Частный</item>
+        <item>Публичный</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это событие</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это событие</item>
+        <item>Все мероприятия в этой серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+    </string-array>
+    <string-array name="agenda_list">
+        <item>Все события</item>
+        <item>Один год</item>
+        <item>Три месяца</item>
+        <item>Один месяц</item>
+    </string-array>
+    <string-array name="yuefen">
+        <item></item>
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>В</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+    </string-array>
+    <string-array name="weekarr1">
+        <item>Sun</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только, когда без звука</item>
+        <item>Никогда</item>
     </string-array>
 </resources>

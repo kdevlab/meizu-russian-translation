@@ -38,6 +38,13 @@
         <item>Другой</item>
         <item>Создать свой ярлык</item>
     </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>39937795</item>
+        <item>116387224</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
     <string-array name="system_ringtone_name_list">
         <item>Beep-Beep-Beep Alarm</item>
         <item>Cadence Blues</item>
@@ -105,9 +112,9 @@
         <item>Drop</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другое</item>
-        <item>Создать свой ярлык</item>
+        <item>住宅</item>
+        <item>单位</item>
+        <item>其他</item>
+        <item>自定义</item>
     </string-array>
 </resources>

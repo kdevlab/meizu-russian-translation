@@ -32,7 +32,7 @@
   <string name="delete_zone_label_workspace">Удалить</string>
   <string name="details_package">Детали</string>
   <string name="dream_name">Rocket Launcher</string>
-  <string name="external_drop_widget_error">"Не удается положить элемент на этом столе"</string>
+  <string name="external_drop_widget_error">Не удается положить элемент на этом столе</string>
   <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
   <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
   <string name="folder_cling_create_folder">Чтобы создать новую папку на рабочем столе, положите одно приложение на другое.</string>
@@ -57,7 +57,7 @@
   <string name="isp_update_title">Камера в настоящее время обновляется, пожалуйста, подождите</string>
   <string name="loading_the_launcher">Загрузка рабочего стола...</string>
   <string name="long_press_widget_to_add">Нажмите и удерживайте, чтобы выбрать виджет</string>
-  <string name="low_battery_tip">"Низкий заряд батареи, камера не может быть использована"</string>
+  <string name="low_battery_tip">Низкий заряд батареи, камера не может быть использована</string>
   <string name="market">Магазин</string>
   <string name="menu_add">Добавить</string>
   <string name="menu_help">Помощь</string>
@@ -95,7 +95,7 @@
   <string name="wallpaper_instructions">Установить обои</string>
   <string name="wallpaper_lock">На экран блокировки</string>
   <string name="wallpaper_lock_home">На рабочий стол и экр. блок.</string>
-  <string name="widget_custom">Выборочный</string>
+  <string name="widget_custom">Персонализация</string>
   <string name="widget_dims_format">%1$d x %2$d</string>
   <string name="widget_widget">Виджеты</string>
   <string name="widgets_tab_label">Виджеты</string>

@@ -30,6 +30,18 @@
         <item>Изменить</item>
         <item>Удалить</item>
     </string-array>
+    <string-array name="default_event_boiledeggs_steps">
+        <item>Положить все яйца в холодную воду</item>
+        <item>В кастрюле (средний огонь и варить)</item>
+        <item>Блюдо для охлаждения</item>
+    </string-array>
+    <string-array name="default_event_steamedfish_steps">
+        <item>Немного имбиря, соль, кунжутное масло в живот рыбы</item>
+        <item>Вскипятить воду</item>
+        <item>Положить рыбу в кастрюлю, закрыть крышкой</item>
+        <item>Выключите огонь, не открывайте крышку</item>
+        <item>Откройте крышку, залейте рыбу пряностями</item>
+    </string-array>
     <string-array name="week_tables">
         <item></item>
         <item>Пн</item>
@@ -48,17 +60,5 @@
         <item>Пятница</item>
         <item>Суббота</item>
         <item>Воскресенье</item>
-    </string-array>
-    <string-array name="default_event_boiledeggs_steps">
-        <item>Положить все яйца в холодную воду</item>
-        <item>В кастрюле (средний огонь и варить)</item>
-        <item>Блюдо для охлаждения</item>
-    </string-array>
-    <string-array name="default_event_steamedfish_steps">
-        <item>Немного имбиря, соль, кунжутное масло в живот рыбы</item>
-        <item>Вскипятить воду</item>
-        <item>Положить рыбу в кастрюлю, закрыть крышкой</item>
-        <item>Выключите огонь, не открывайте крышку</item>
-        <item>Откройте крышку, залейте рыбу пряностями</item>
     </string-array>
 </resources>

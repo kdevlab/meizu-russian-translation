@@ -20,4 +20,14 @@
         <item quantity="other">Загрузка альбомов для офлайн-доступа.</item>
         <item quantity="one">Загрузка альбома для офлайн-доступа</item>
     </plurals>
+    <plurals name="infobar_num_video">
+        <item quantity="other">%1$d Элементов</item>
+        <item quantity="zero">%1$d Элементов</item>
+        <item quantity="one">%1$d Элемент</item>
+    </plurals>
+    <plurals name="infobar_num_image">
+        <item quantity="other">%1$d Элементов</item>
+        <item quantity="zero">%1$d Элементов</item>
+        <item quantity="one">%1$d Элемент</item>
+    </plurals>
 </resources>

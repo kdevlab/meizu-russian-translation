@@ -252,7 +252,7 @@
   <string name="pref_summary_notification_enabled">Отображать уведомления о сообщениях в строке состояния</string>
   <string name="pref_summary_notification_vibrateWhen">Вибросигнал при получении уведомления</string>
   <string name="pref_summary_sms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
-  <string name="pref_summary_spam_stranger_msg">Спам-сообщения, отправленное от \"чужих\", не  будет отображаться в списке сообщений</string>
+  <string name="pref_summary_spam_stranger_msg">Спам-сообщения, отправленное от \"чужих\", не будет отображаться в списке сообщений</string>
   <string name="pref_title_auto_delete">Удалять старые</string>
   <string name="pref_title_change_background_theme">Фон</string>
   <string name="pref_title_flyme_message">Сообщение Flyme</string>
@@ -260,7 +260,7 @@
   <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
   <string name="pref_title_manage_spam_address">Заблокированные номера</string>
   <string name="pref_title_manage_spam_keyword">Настройки ключвых слов спама</string>
-  <string name="pref_title_mms_auto_change_screen">Разрешает горизонтальный режим экрана</string>
+  <string name="pref_title_mms_auto_change_screen">Горизонтальный режим</string>
   <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
   <string name="pref_title_mms_delete">Макс. количество MMS</string>
   <string name="pref_title_mms_delivery_reports">Отчеты о доставке</string>

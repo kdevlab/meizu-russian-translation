@@ -44,7 +44,7 @@
   <string name="ClickToSkip">Нажмите, чтобы перейти</string>
   <string name="ComboName">Имя пакета</string>
   <string name="Company">Компания</string>
-  <string name="Complete">Завершить</string>
+  <string name="Complete">Далее</string>
   <string name="CompleteAndSubmit">Завершить и подтвердить</string>
   <string name="ContactFriends">Связаться с друзьями</string>
   <string name="ContactHeadImage">Иконка контакта</string>
@@ -170,7 +170,7 @@
   <string name="Remark">Заметки</string>
   <string name="ReportContent">Другие замечания или предложения</string>
   <string name="RestoreLanguageStart">Язык телефон будет восстановлен в состояние синхронизации. Пожалуйста, подождите...</string>
-  <string name="RestoreNeedRestart">Некоторые атрибуты в Параметрах вступят в силу после перезагрузки телефона.</string>
+  <string name="RestoreNeedRestart">Требуется перезагрузка телефона.</string>
   <string name="Return">Назад</string>
   <string name="SYNCResultAs">Результат синхронизации:</string>
   <string name="SYNContact">Синхронизировать контакты</string>
@@ -306,7 +306,7 @@
   <string name="autoSync">Авто-синхр.</string>
   <string name="auto_syn">Авто-синхр.</string>
   <string name="auto_syn_tips">Автоматическая синхронизация контактов</string>
-  <string name="beginToUse">Начните использовать</string>
+  <string name="beginToUse">Запустить</string>
   <string name="buy_music_failure">Ошибка покупки</string>
   <string name="buy_music_success">Покупка успешна</string>
   <string name="buy_success_info">Вы успешно открыли участников!</string>
@@ -314,7 +314,7 @@
   <string name="calendarInvate">Календарь приглашений</string>
   <string name="callHistory">Журнал вызовов</string>
   <string name="cancel">Отмена</string>
-  <string name="changePasswordTip">"8-16 прописных и строчных букв, цифр и специальных символов. По крайней мере, два типа знаков должны быть использованы. Пароль не может быть таким же, как имя пользователя"</string>
+  <string name="changePasswordTip">8-16 прописных и строчных букв, цифр и специальных символов. По крайней мере, два типа знаков должны быть использованы. Пароль не может быть таким же, как имя пользователя</string>
   <string name="char_err">Извините, аккаунт может содержать только буквы, цифры, подчеркивания и точки</string>
   <string name="checking">Проверка</string>
   <string name="chooseFreguency">Выбо частоты авто-синхронизации</string>
@@ -329,7 +329,7 @@
   <string name="continues">Продолжить</string>
   <string name="create">Создать</string>
   <string name="createAccount">Регистрация</string>
-  <string name="create_flyme">Создать аккаунтFlyme</string>
+  <string name="create_flyme">Создать аккаунт Flyme</string>
   <string name="create_flyme_tip">Вы должны создать аккаунт Flyme для использования этих возможностей. Вы можете установить кто-то@flyme.cn как аккаунт Flyme, или ввести имя для его создания</string>
   <string name="date_format">dd-MM-yyyy</string>
   <string name="delete">Удалить</string>
@@ -344,7 +344,7 @@
   <string name="findPhone">Обнаружение телефона</string>
   <string name="finishTime">Время завершения:</string>
   <string name="flymeFileTransfer">Отправка файлов Flyme</string>
-  <string name="flymeNameError">"Доменное имя Flyme: “@flyme.cn”"</string>
+  <string name="flymeNameError">Доменное имя Flyme: “@flyme.cn”</string>
   <string name="flymeNotExistReInput">Такого аккаунта Flyme не существует, введите еще</string>
   <string name="flymeServiceOut">Служба обнаружения телефона недоступна</string>
   <string name="flymeSync">Синхронизация данных Flyme</string>
@@ -377,8 +377,7 @@
   <string name="logoutaccount">Пожалуйста, введите пароль учетной записи</string>
   <string name="mailAddress">Адрес E-Mail</string>
   <string name="mailHint">Для восстановления пароля (опционально)</string>
-  <string name="mobileNotice">Вы можете подключиться к мобильной сети и войти в аккаунт Flyme, для синхронизации пользовательских данных, таких как: контакты, электронная почта, сообщения, заметки, календарь, приложения и настройки системы, а также получить различные услуги. Это приведет к использованию мобильных данных.
-</string>
+  <string name="mobileNotice">Вы можете подключиться к мобильной сети и войти в аккаунт Flyme, для синхронизации пользовательских данных, таких как: контакты, электронная почта, сообщения, заметки, календарь, приложения и настройки системы, а также получить различные услуги. Это приведет к использованию мобильных данных.</string>
   <string name="more">Еще</string>
   <string name="msuic_current_state">Состояние:</string>
   <string name="music_end_date">Время истечения</string>
@@ -412,7 +411,7 @@
   <string name="otherAccount">Другие аккаунты</string>
   <string name="other_number">Другие номера</string>
   <string name="passwordProtect">Контрольный вопрос</string>
-  <string name="password_hint">Обязателен</string>
+  <string name="password_hint">Пароль</string>
   <string name="phoneSetting">Параметры</string>
   <string name="pleaseInputFlymeName">Введите имя аккаунта Flyme</string>
   <string name="pleaseUseFlymeToTransfer">Пожалуйста, введите полный аккаунт Flyme для передачи</string>
@@ -455,7 +454,7 @@
   <string name="userForFlymeSmsReceive">Используется для получения Flyme-сообщений</string>
   <string name="userRechage">Пополнение</string>
   <string name="waitForSync">В ожидании синхр.</string>
-  <string name="welcomeTip">Вы можете войти в аккаунт  Flyme для синхронизации пользовательских данных, таких как: контакты, электронная почта, сообщения, заметки, календарь, избранного, система предпочтений Flyme и других данных пользователя</string>
+  <string name="welcomeTip">Вы можете войти в аккаунт Flyme для синхронизации пользовательских данных, таких как: контакты, электронная почта, сообщения, заметки, календарь, избранного, система предпочтений Flyme и других данных пользователя</string>
   <string name="welcomeUseM9">Добро пожаловать</string>
   <string name="welcomeUserFlyme">Добро пожаловать</string>
   <string name="wlanNotice">Вы можете подключиться к беспроводной локальной сети и войти в аккаунт Flyme, для синхронизации пользовательских данных, таких как контакты, электронная почта, сообщения, заметки, календарь, приложения и настройки системы, а также получить различные услуги</string>

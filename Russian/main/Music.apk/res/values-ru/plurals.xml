@@ -24,13 +24,13 @@
         <item quantity="other">Композиций, добавленных в плейлист: %d</item>
         <item quantity="one">1 композиция добавлена в плейлист.</item>
     </plurals>
-    <plurals name="NNNtrackstoplaylistdef">
-        <item quantity="other">%d песен добавлено в плейлист</item>
-        <item quantity="one">1 композиция добавлена в плейлист</item>
-    </plurals>
     <plurals name="times">
         <item quantity="other">раз</item>
         <item quantity="one">раз</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylistdef">
+        <item quantity="other">%d песен добавлено в плейлист</item>
+        <item quantity="one">1 композиция добавлена в плейлист</item>
     </plurals>
     <plurals name="stop_in">
         <item quantity="other">Остановить через %d минут</item>

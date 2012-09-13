@@ -265,14 +265,14 @@
   <string name="debug_version_fmt">Версия: %s</string>
   <string name="delete_action">Удалить</string>
   <string name="delete_quick_response_action">Удалить</string>
-  <string formatted="false" name="destination_format">%1$s \"%2$s\"</string>
+  <string name="destination_format">%1$s \"%2$s\"</string>
   <string name="device_admin_description">Включение серверных политик безопасности</string>
   <string name="device_admin_label">Электронная почта</string>
   <string name="dialog_first_wifi">Большие файлы будут загружаться только через соединение Wi-Fi</string>
   <string name="dialog_sync_all_canceled">Команда \"Синхронизировать все\" отменена</string>
   <string name="dialog_sync_all_error_title">Синхронизировать все</string>
   <string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено</string>
-  <string formatted="false" name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке...</string>
+  <string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке...</string>
   <string name="dialog_sync_all_scanning">Поиск файлов...</string>
   <string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже</string>
   <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование вашего устройства для приложения Email приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
@@ -354,7 +354,7 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
   <string name="mailbox_shortcut_picker_title">Выберите папку</string>
-  <string formatted="false" name="manager_activity_last_sync_format">"Последняя синхронизация: 
+  <string name="manager_activity_last_sync_format">"Последняя синхронизация: 
 %1$s
 %2$s"</string>
   <string name="manager_do_not_upload">Не загружать</string>
@@ -405,12 +405,12 @@
   <string name="message_compose_cc_bcc_hint">Копия/Скрытая копия</string>
   <string name="message_compose_cc_bcc_sender_hint">Копия/Скрытая копия/От</string>
   <string name="message_compose_cc_hint">Копия</string>
-  <string name="message_compose_change_account_error_tip">"Ошибка переключения аккаунта, предел вложений в %dM исчерпан"</string>
-  <string formatted="false" name="message_compose_display_name">%1$s и ещё %2$d</string>
+  <string name="message_compose_change_account_error_tip">Ошибка переключения аккаунта, предел вложений в %dM исчерпан</string>
+  <string name="message_compose_display_name">%1$s и ещё %2$d</string>
   <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>
   <string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя</string>
   <string name="message_compose_from_label">От:</string>
-  <string formatted="false" name="message_compose_fwd_header_fmt">"
+  <string name="message_compose_fwd_header_fmt">"
 
 -------- Исходное сообщение --------
 Тема: %1$s
@@ -472,9 +472,9 @@
   <string name="message_view_dialog_saveall_cancel">Отмена</string>
   <string name="message_view_dialog_saveall_count">Всего вложений: %d</string>
   <string name="message_view_dialog_saveall_ok">Сохранить все</string>
-  <string name="message_view_display_attachment_toast">"Невозможно отобразить вложения"</string>
+  <string name="message_view_display_attachment_toast">Невозможно отобразить вложения</string>
   <string name="message_view_down_email">Нажмите, чтобы загрузить вложения (%s)</string>
-  <string name="message_view_downloading">"Загрузка вложений..."</string>
+  <string name="message_view_downloading">Загрузка вложений...</string>
   <string name="message_view_from_label">От:</string>
   <string name="message_view_invite_accept">" Да"</string>
   <string name="message_view_invite_decline">" Нет"</string>
@@ -543,7 +543,7 @@
   <string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
   <string name="picker_mailbox_name_all_unread">Входящие (непрочитанные)</string>
   <string name="plus_cc_label">Добавить копию</string>
-  <string formatted="false" name="position_of_count">%1$d из %2$s</string>
+  <string name="position_of_count">%1$d из %2$s</string>
   <string name="preference_category_title_about">Сведения</string>
   <string name="preference_category_title_general">Общие</string>
   <string name="preference_category_title_photos">Фото</string>
@@ -567,10 +567,10 @@
   <string name="preference_plus_sync_while_roaming_summary">Загружать фото и видео в роуминге по каналу передачи данных</string>
   <string name="preference_plus_title">Настройки загрузки</string>
   <string name="preference_plus_upload_status">Статус загрузки</string>
-  <string formatted="false" name="preference_summary_header_format">%1$s: %2$s</string>
+  <string name="preference_summary_header_format">%1$s: %2$s</string>
   <string name="preference_summary_need_power">Загружать только во время зарядки телефона</string>
   <string name="preference_summary_need_wifi">Загружать только при наличии соединения Wi-Fi</string>
-  <string formatted="false" name="preference_summary_uploading_format">: %1$d из %2$d</string>
+  <string name="preference_summary_uploading_format">: %1$d из %2$d</string>
   <string name="preference_summary_uploading_paused">Приостановлено: нажмите, чтобы продолжить загрузку</string>
   <string name="preference_summary_uploading_percent">Загрузка (%1$d%%)</string>
   <string name="preference_title_camera_sync_version">Загрузка с телефона</string>
@@ -628,7 +628,7 @@
   <string name="subject_hint">Тема:</string>
   <string name="summary_menu_show_finished">Показать завершенные загрузки</string>
   <string name="summary_menu_show_pending">Показать незавершенные загрузки</string>
-  <string formatted="false" name="summary_subtitle_counts_format">%1$d фото • %2$d видео</string>
+  <string name="summary_subtitle_counts_format">%1$d фото • %2$d видео</string>
   <string name="summary_subtitle_disabled">Отключено</string>
   <string name="summary_subtitle_paused_low_battery">низкий уровень заряда батареи</string>
   <string name="summary_subtitle_paused_need_charger">приостановлено до зарядки</string>
@@ -638,7 +638,7 @@
   <string name="summary_subtitle_paused_photos_quota">превышена квота на фотографии</string>
   <string name="summary_subtitle_paused_retry_format">повторная попытка через %s</string>
   <string name="summary_subtitle_paused_roaming">роуминг</string>
-  <string formatted="false" name="summary_subtitle_uploading_format">%1$d%% • %2$d фото • %3$d видео</string>
+  <string name="summary_subtitle_uploading_format">%1$d%% • %2$d фото • %3$d видео</string>
   <string name="summary_title_finished">Завершенные</string>
   <string name="summary_title_paused">Приостановлено</string>
   <string name="summary_title_uploading">Загрузка</string>
@@ -660,7 +660,7 @@
   <string name="upload_state_waiting_retry">Ожидание повторной попытки</string>
   <string name="upload_state_waiting_wifi">Ожидание подключения Wi-Fi</string>
   <string name="uploading_for">" для пользователя "</string>
-  <string name="uploading_to">Загрузка в </string>
+  <string name="uploading_to">Загрузка в</string>
   <string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
   <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
   <string name="widget_all_mail">Все входящие</string>

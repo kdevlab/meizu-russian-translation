@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="access_sd_fail">"Не удается получить доступ к памяти"</string>
+  <string name="access_sd_fail">Не удается получить доступ к памяти</string>
   <string name="accessibility_back_to_first_level">Закрыть настройки</string>
   <string name="accessibility_camera_picker">Переключатель передней и задней камеры</string>
   <string name="accessibility_decrement">Уменьшить %1$s</string>
@@ -19,7 +19,7 @@
   <string name="camera_error_title">Ошибка камеры</string>
   <string name="camera_gallery_photos_text">Галерея</string>
   <string name="camera_label">Камера</string>
-  <string name="cannot_connect_camera">"Не возможно подключиться к камере"</string>
+  <string name="cannot_connect_camera">Не возможно подключиться к камере</string>
   <string name="clear_effects">чистить эффекты</string>
   <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
   <string name="confirm_restore_title">Восстановить значения по умолчанию</string>
@@ -55,7 +55,7 @@
   <string name="not_selectable_in_effect">Нельзя выбрать при включенных эффектах</string>
   <string name="not_selectable_in_scene_mode">Нельзя выбрать в режиме сцены</string>
   <string name="pano_capture_indication">Захват панорамы</string>
-  <string name="pano_dialog_panorama_failed">"Не удалось сохранить панораму"</string>
+  <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
   <string name="pano_dialog_prepare_preview">Подготовка панорамы</string>
   <string name="pano_dialog_title">Панорама</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>

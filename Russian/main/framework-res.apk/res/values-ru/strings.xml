@@ -37,11 +37,11 @@
   <string name="VideoView_error_text_unknown">Невозможно воспроизвести видео.</string>
   <string name="VideoView_error_title">Не удалось воспроизвести видео</string>
   <string name="abbrev_month">%-b</string>
-  <string formatted="false" name="abbrev_month_day">%-e %b</string>
-  <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
-  <string formatted="false" name="abbrev_month_year">%-b %Y</string>
-  <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-  <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
+  <string formatted="false" name="abbrev_month_day">%b %-e</string>
+  <string formatted="false" name="abbrev_month_day_year">%b %-e, %Y</string>
+  <string formatted="false" name="abbrev_month_year">%b %Y</string>
+  <string name="abbrev_wday_month_day_no_year">EEE, MMMM d</string>
+  <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
   <string name="accessibility_binding_label">Спец. возможности</string>
   <string name="action_bar_home_description">Перейти на главную</string>
   <string name="action_bar_up_description">Перейти вверх</string>
@@ -62,7 +62,6 @@
   <string name="aerr_title" />
   <string name="alarm_ringtone_title">Мелодия</string>
   <string name="allow">Разрешить</string>
-  <string name="alternate_eri_file" />
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="am_m9" />
@@ -82,65 +81,23 @@
 
 Закрыть его?"</string>
   <string name="anr_title" />
-  <string name="app_killed_message">Приложение закрыто</string>
-  <string name="autofill_address_line_1_label_re" />
-  <string name="autofill_address_line_1_re" />
-  <string name="autofill_address_line_2_re" />
-  <string name="autofill_address_line_3_re" />
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
-  <string name="autofill_address_type_same_as_re" />
-  <string name="autofill_address_type_use_my_re" />
   <string name="autofill_area">Область</string>
-  <string name="autofill_area_code_notext_re" />
-  <string name="autofill_area_code_re" />
-  <string name="autofill_attention_ignored_re" />
-  <string name="autofill_billing_designator_re" />
-  <string name="autofill_card_cvc_re" />
-  <string name="autofill_card_ignored_re" />
-  <string name="autofill_card_number_re" />
-  <string name="autofill_city_re" />
-  <string name="autofill_company_re" />
-  <string name="autofill_country_code_re" />
-  <string name="autofill_country_re" />
   <string name="autofill_county">Округ</string>
   <string name="autofill_department">Департамент</string>
   <string name="autofill_district">Район</string>
-  <string name="autofill_email_re" />
   <string name="autofill_emirate">Эмират</string>
-  <string name="autofill_expiration_date_re" />
-  <string name="autofill_expiration_month_re" />
-  <string name="autofill_fax_re" />
-  <string name="autofill_first_name_re" />
   <string name="autofill_island">Остров</string>
-  <string name="autofill_last_name_re" />
-  <string name="autofill_middle_initial_re" />
-  <string name="autofill_middle_name_re" />
-  <string name="autofill_name_on_card_contextual_re" />
-  <string name="autofill_name_on_card_re" />
-  <string name="autofill_name_re" />
-  <string name="autofill_name_specific_re" />
   <string name="autofill_parish">Округ</string>
-  <string name="autofill_phone_extension_re" />
-  <string name="autofill_phone_prefix_re" />
-  <string name="autofill_phone_prefix_separator_re" />
-  <string name="autofill_phone_re" />
-  <string name="autofill_phone_suffix_re" />
-  <string name="autofill_phone_suffix_separator_re" />
   <string name="autofill_postal_code">Почтовый индекс</string>
   <string name="autofill_prefecture">Префектура</string>
   <string name="autofill_province">Провинция</string>
-  <string name="autofill_region_ignored_re" />
-  <string name="autofill_shipping_designator_re" />
   <string name="autofill_state">Штат</string>
-  <string name="autofill_state_re" />
   <string name="autofill_this_form">Автозаполнение</string>
-  <string name="autofill_username_re" />
-  <string name="autofill_zip_4_re" />
   <string name="autofill_zip_code">Почтовый индекс</string>
-  <string name="autofill_zip_code_re" />
   <string name="back_button_label">Назад</string>
   <string name="backup_failed">Резервное копирование не удалось</string>
   <string name="backup_prompt">Вы действительно хотите создать резервную копию?</string>
@@ -181,26 +138,7 @@
   <string name="clckEnableVoiceFaultSmsOK" />
   <string name="clckEnableVoiceOKSmsFault" />
   <string name="clearDefaultHintMsg">Удалить настройки по умолчанию: главный экран &gt; \"Настройки\" &gt; \"Приложения\" &gt; \"Управление приложениями\".</string>
-  <string name="common_last_name_prefixes" />
   <string name="common_name">Стандартное название:</string>
-  <string name="common_name_conjunctions" />
-  <string name="common_name_prefixes" />
-  <string name="common_name_suffixes" />
-  <string name="config_datause_iface" />
-  <string name="config_default_dns_server" />
-  <string name="config_ethernet_iface_regex" />
-  <string name="config_geocodeProvider" />
-  <string name="config_isoImagePath" />
-  <string name="config_networkLocationProvider" />
-  <string name="config_ntpServer" />
-  <string name="config_tether_apndata" />
-  <string name="config_useragentprofile_url" />
-  <string name="config_wifi_p2p_device_type" />
-  <string name="config_wimaxManagerClassname" />
-  <string name="config_wimaxNativeLibLocation" />
-  <string name="config_wimaxServiceClassname" />
-  <string name="config_wimaxServiceJarLocation" />
-  <string name="config_wimaxStateTrackerClassname" />
   <string name="configure_input_methods">Настроить способ ввода</string>
   <string name="confirm_new_pin_tips" />
   <string name="contentServiceSync">Синхр.</string>
@@ -227,9 +165,9 @@
   <string name="data_usage_warning_title">Осталось мало трафика</string>
   <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">Передача данных через Wi-Fi отключена</string>
-  <string name="date1_date2">%2$s - %5$s</string>
-  <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
-  <string name="date_and_time">%-k:%M:%S, %d.%m.%Y</string>
+  <string name="date1_date2">%2$s – %5$s</string>
+  <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+  <string formatted="false" name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">На день назад</string>
   <string name="date_picker_decrement_month_button">На месяц назад</string>
   <string name="date_picker_decrement_year_button">На год назад</string>
@@ -237,7 +175,7 @@
   <string name="date_picker_increment_day_button">На день вперед</string>
   <string name="date_picker_increment_month_button">На месяц вперед</string>
   <string name="date_picker_increment_year_button">На год вперед</string>
-  <string name="date_time">%2$s, %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_day" />
   <string name="date_time_hour" />
   <string name="date_time_min" />
@@ -280,8 +218,6 @@
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
   <string name="default_permission_group">По умолчанию</string>
-  <string name="default_text_encoding" />
-  <string name="default_wallpaper_component" />
   <string name="delete">Удалить</string>
   <string name="deleteText">удалить</string>
   <string name="deny">Отклонить</string>
@@ -346,8 +282,7 @@
   <string name="ext_media_unmountable_notification_title">Поврежденная карта SD</string>
   <string name="external_storage_checking_message" />
   <string name="external_storage_checking_ticker">Подключение внешнего устройства хранения</string>
-  <string name="external_storage_checking_title">Подключение внешнего устройства хранения
-</string>
+  <string name="external_storage_checking_title">Подключение внешнего устройства хранения</string>
   <string name="external_storage_device_name" />
   <string name="external_storage_mounted_message" />
   <string name="external_storage_mounted_ticker">Внешние накопители был подключен</string>
@@ -356,8 +291,7 @@
   <string name="external_storage_saferemove_ticker">Внешний накопитель успешно отключен</string>
   <string name="external_storage_saferemove_title">Внешние накопители можно безопасно удалить</string>
   <string name="external_storage_unmounting_message" />
-  <string name="external_storage_unmounting_ticker">Отключение внешнего накопителя
-</string>
+  <string name="external_storage_unmounting_ticker">Отключение внешнего накопителя</string>
   <string name="external_storage_unmounting_title">Отключение внешнего накопителя</string>
   <string name="extmedia_format_button_format">Формат</string>
   <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены.</string>
@@ -385,15 +319,12 @@
   <string name="fingerprints">Отпечатки:</string>
   <string name="force_close">ОК</string>
   <string name="format_error">Не удалось очистить SD-карту.</string>
-  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">ГБ</string>
-  <string name="global_action_choose_profile">Выбрать профиль</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Отключить питание</string>
   <string name="global_action_power_restart">Перезагрузка</string>
-  <string name="global_action_reboot">Перезагрузка</string>
-  <string name="global_action_screenshot">Скриншот</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
   <string name="global_action_toggle_silent_mode">Режим без звука</string>
@@ -410,7 +341,6 @@
   <string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
   <string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем.</string>
   <string name="grant_permissions_header_text">Запрос доступа</string>
-  <string name="gsm_alphabet_default_charset" />
   <string name="heavy_weight_notification">Приложение %1$s запущено</string>
   <string name="heavy_weight_notification_detail">Нажмите, чтобы перейти к приложению</string>
   <string name="heavy_weight_switcher_text">Выполняется другое приложение, которое должно быть остановлено прежде, чем запускать новое.</string>
@@ -418,9 +348,9 @@
   <string name="hour">ч.</string>
   <string formatted="false" name="hour_ampm">%-l%P</string>
   <string formatted="false" name="hour_cap_ampm">%-l%p</string>
-  <string formatted="false" name="hour_minute_24">%-k:%M</string>
-  <string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
-  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
+  <string formatted="false" name="hour_minute_24">%H:%M</string>
+  <string formatted="false" name="hour_minute_ampm">%-l:%M%p</string>
+  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M%^p</string>
   <string name="hours">ч.</string>
   <string name="httpError">Произошла сетевая ошибка.</string>
   <string name="httpErrorAuth">Не удалось провести аутентификацию.</string>
@@ -504,14 +434,12 @@
   <string name="list_delimeter">", "</string>
   <string name="loading">Загрузка...</string>
   <string name="local_number">Локальный номер</string>
-  <string name="locale_replacement" />
   <string name="lock_btn_emergency">Экстренный вызов</string>
   <string name="lock_emergency_return_calling_tips">вернуться</string>
-  <string name="lock_month_day">d MMM</string>
-  <string name="lock_pattern_view_aspect" />
+  <string name="lock_month_day">MMM d</string>
   <string name="lock_tips_dialing">Вызов</string>
   <string name="lock_usb_hint">Память USB</string>
-  <string name="lock_week">d MMM yyyy (EEE)</string>
+  <string name="lock_week">(EEE) MMM d, yyyy</string>
   <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
   <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
@@ -528,7 +456,7 @@
   <string name="lockscreen_flyme_unlock_progress_dialog_message">Аутентификация в Flyme</string>
   <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
-Перейдите на страницу "google.com/accounts/recovery</string>
+Перейдите на страницу google.com/accounts/recovery"</string>
   <string name="lockscreen_glogin_checking_password">Проверка...</string>
   <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
   <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
@@ -605,8 +533,8 @@
   <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
   <string name="mms_ringtone_title">Мелодия сообщения</string>
   <string name="month">%-B</string>
-  <string formatted="false" name="month_day">%-e %B</string>
-  <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
+  <string formatted="false" name="month_day">%B %-e</string>
+  <string formatted="false" name="month_day_year">%B %-e, %Y</string>
   <string name="month_long_april">апреля</string>
   <string name="month_long_august">августа</string>
   <string name="month_long_december">декабря</string>
@@ -655,12 +583,11 @@
   <string name="month_shortest_november">Н</string>
   <string name="month_shortest_october">О</string>
   <string name="month_shortest_september">С</string>
-  <string formatted="false" name="month_year">%-B %Y</string>
+  <string formatted="false" name="month_year">%B %Y</string>
   <string name="more_item_label">Ещё</string>
   <string name="needPin" />
   <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
-  <string name="never_show_again" />
   <string name="new_app_action">Запустить приложение %1$s</string>
   <string name="new_app_description">Остановить старое приложение без сохранения изменений.</string>
   <string name="new_email_tips">новая почта %1$s %2$d</string>
@@ -680,24 +607,24 @@
   <string name="number_picker_increment_button">Увеличить</string>
   <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его.</string>
   <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s.</string>
-  <string formatted="false" name="numeric_date">%d.%m.%Y</string>
-  <string name="numeric_date_format">dd.MM.yyyy</string>
+  <string formatted="false" name="numeric_date">%-m/%-e/%Y</string>
+  <string name="numeric_date_format">d/M/yyyy</string>
   <string name="numeric_date_format_dmy">EEE, d/M/yyyy</string>
   <string name="numeric_date_format_dym">EEE, d/yyyy/M</string>
   <string name="numeric_date_format_mdy">EEE, M/d/yyyy</string>
   <string name="numeric_date_format_myd">EEE, M/yyyy/d</string>
   <string name="numeric_date_format_ydm">yyyy/d/M, EEE</string>
   <string name="numeric_date_format_ymd">yyyy/M/d, EEE</string>
-  <string formatted="false" name="numeric_date_template">%s.%s.%s</string>
-  <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
-  <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
-  <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
-  <string name="numeric_mdy1_time1_mdy2_time2">%5$s, %3$s.%2$s.%4$s - %10$s, %8$s.%7$s.%9$s</string>
-  <string name="numeric_month_day">%-m/%-e</string>
-  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s.%2$s - %10$s, %6$s, %8$s.%7$s</string>
-  <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s – %6$s, %8$s.%7$s</string>
-  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s.%2$s.%4$s - %10$s, %6$s, %8$s.%7$s.%9$s</string>
-  <string name="numeric_wday1_mdy1_wday2_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
+  <string formatted="false" name="numeric_date_template">%s/%s/%s</string>
+  <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
+  <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+  <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+  <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+  <string formatted="false" name="numeric_month_day">%-m/%-e</string>
+  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+  <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+  <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
   <string name="ok">ОК</string>
   <string name="old_app_action">Вернуться к приложению %1$s</string>
   <string name="old_app_description">Не запускать новое приложение.</string>
@@ -898,7 +825,6 @@
   <string name="permission_request_notification_title">Разрешение запрошено</string>
   <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s"</string>
-  <string name="permissions_format" />
   <string name="permlab_accessCoarseLocation">примерное местоположение по координатам сети</string>
   <string name="permlab_accessFineLocation">точное местоположение (GPS)</string>
   <string name="permlab_accessLocationExtraCommands">получать доступ к дополнительным командам источника данных о местоположении</string>
@@ -1115,21 +1041,10 @@
   <string name="preposition_for_date">%s</string>
   <string name="preposition_for_time">в %s</string>
   <string name="preposition_for_year">в %s г.</string>
-  <string name="profileGroupCalendar">Календарь</string>
-  <string name="profileGroupPhone">Телефон</string>
-  <string name="profileNameDefault">По умолчанию</string>
-  <string name="profileNameHome">Дом</string>
-  <string name="profileNameNight">Ночь</string>
-  <string name="profileNameSilent">Без звука</string>
-  <string name="profileNameWork">Работа</string>
   <string name="progress_erasing">Очистка SD-карты...</string>
   <string name="progress_unmounting">Отключение SD-карты...</string>
   <string name="radiobutton_not_selected">не выбрано</string>
   <string name="radiobutton_selected">выбрано</string>
-  <string name="reboot_confirm">Ваш телефон будет перезагружен</string>
-  <string name="reboot_progress">Перезагрузка…</string>
-  <string name="reboot_reboot">Перезагрузка</string>
-  <string name="reboot_system">Перезагрузка телефона</string>
   <string name="recent_tasks_title">Недавние</string>
   <string name="recipient_edit_imeActionLabel">OK</string>
   <string name="recipient_hint_str">Получатель:</string>
@@ -1175,22 +1090,22 @@
   <string name="roamingText9">Роуминг – полная функциональность службы</string>
   <string name="roamingTextSearching">Поиск службы</string>
   <string name="safeMode">Безопасный режим</string>
-  <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
-  <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-  <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
-  <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
-  <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
-  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
-  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
-  <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
-  <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-  <string name="same_year_mdy1_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
-  <string name="same_year_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
-  <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
-  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
-  <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
+  <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
+  <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
+  <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+  <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
+  <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
+  <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+  <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
   <string name="save_password_label">Подтвердите</string>
   <string name="save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
   <string name="save_password_never">Никогда</string>
@@ -1244,9 +1159,6 @@
   <string name="shutdown_confirm_question">Завершить работу?</string>
   <string name="shutdown_progress">Выключение...</string>
   <string name="silent_mode">Режим без звука</string>
-  <string name="silent_mode_ring">Звонок включен</string>
-  <string name="silent_mode_silent">Звонок отключен</string>
-  <string name="silent_mode_vibrate">Вибросигнал</string>
   <string name="simContacts_emptyLoading">Загрузка с SIM-карты...</string>
   <string name="simContacts_title">Контакты SIM-карты</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство.</string>
@@ -1270,66 +1182,6 @@
   <string name="sound_title">Звуки</string>
   <string name="spdif_subtitle" />
   <string name="spdif_title">SPDIF</string>
-  <string name="specail_number_anbang" />
-  <string name="specail_number_dadi" />
-  <string name="specail_number_debon" />
-  <string name="specail_number_dhl" />
-  <string name="specail_number_dianli" />
-  <string name="specail_number_dianxin" />
-  <string name="specail_number_dishui" />
-  <string name="specail_number_doubang" />
-  <string name="specail_number_ems" />
-  <string name="specail_number_federal" />
-  <string name="specail_number_gongshang" />
-  <string name="specail_number_gongyi" />
-  <string name="specail_number_guangda" />
-  <string name="specail_number_guangfazhan" />
-  <string name="specail_number_hezhong" />
-  <string name="specail_number_huaan" />
-  <string name="specail_number_huanbao" />
-  <string name="specail_number_huatai" />
-  <string name="specail_number_huaxia" />
-  <string name="specail_number_jiage" />
-  <string name="specail_number_jianbao" />
-  <string name="specail_number_jianshe" />
-  <string name="specail_number_jiaotong" />
-  <string name="specail_number_jubao" />
-  <string name="specail_number_laodong" />
-  <string name="specail_number_lianhe" />
-  <string name="specail_number_liantong" />
-  <string name="specail_number_minsheng" />
-  <string name="specail_number_nongye" />
-  <string name="specail_number_pinganbaoxian" />
-  <string name="specail_number_pingancaibao" />
-  <string name="specail_number_pudong" />
-  <string name="specail_number_quanyi" />
-  <string name="specail_number_renbao" />
-  <string name="specail_number_renbaogufeng" />
-  <string name="specail_number_renshou" />
-  <string name="specail_number_shenfazhan" />
-  <string name="specail_number_shunfeng" />
-  <string name="specail_number_sifa" />
-  <string name="specail_number_taibao" />
-  <string name="specail_number_taikang" />
-  <string name="specail_number_tianan" />
-  <string name="specail_number_tianqi" />
-  <string name="specail_number_tietong" />
-  <string name="specail_number_tnt" />
-  <string name="specail_number_ups" />
-  <string name="specail_number_xiaofeizhe" />
-  <string name="specail_number_xingye" />
-  <string name="specail_number_xinhua" />
-  <string name="specail_number_yangguang" />
-  <string name="specail_number_yidong" />
-  <string name="specail_number_yinlian" />
-  <string name="specail_number_yongan" />
-  <string name="specail_number_youzheng" />
-  <string name="specail_number_zaijisong" />
-  <string name="specail_number_zhaoshang" />
-  <string name="specail_number_zhaoshangbank" />
-  <string name="specail_number_zhiliang" />
-  <string name="specail_number_zhongguo" />
-  <string name="specail_number_zhongxin" />
   <string name="ssl_certificate">Сертификат безопасности</string>
   <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
   <string name="status_bar_device_locked">Устройство заблокировано.</string>
@@ -1356,9 +1208,9 @@
   <string name="throttle_warning_notification_title">Активная передача данных</string>
   <string name="throttled_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
   <string name="throttled_notification_title">Превышен лимит на мобильные данные</string>
-  <string name="time1_time2">%1$s - %2$s</string>
+  <string name="time1_time2">%1$s – %2$s</string>
   <string name="time_date">%1$s, %3$s</string>
-  <string name="time_of_day">%-k:%M:%S</string>
+  <string formatted="false" name="time_of_day">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">На час назад</string>
   <string name="time_picker_decrement_minute_button">На минуту назад</string>
   <string name="time_picker_decrement_set_am_button">Установить время до полудня</string>
@@ -1366,7 +1218,6 @@
   <string name="time_picker_increment_hour_button">На час вперед</string>
   <string name="time_picker_increment_minute_button">На минуту вперед</string>
   <string name="time_picker_increment_set_pm_button">Установить время после полудня</string>
-  <string name="time_picker_separator" />
   <string name="time_wday">%1$s, %2$s</string>
   <string name="time_wday_date">%1$s, %2$s, %3$s</string>
   <string name="today">Сегодня</string>
@@ -1377,7 +1228,7 @@
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
   <string name="twelve_hour_time_format">h:mm a</string>
-  <string name="twenty_four_hour_time_format">H:mm</string>
+  <string name="twenty_four_hour_time_format">HH:mm</string>
   <string name="unknownName">(Неизвестно)</string>
   <string name="unlock_tips_desktop">Перетащите вверх, чтобы разблокировать главном экране</string>
   <string name="unlock_tips_mms">Перетащите вверх, чтобы разблокировать на Сообщениях</string>
@@ -1428,77 +1279,14 @@
   <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
   <string name="wait">Подождать</string>
   <string name="wallpaper_binding_label">Фоновый рисунок</string>
-  <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
-  <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
+  <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
+  <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
   <string name="wday_date">%2$s, %3$s</string>
-  <string name="weather_0">Торнадо</string>
-  <string name="weather_1">Тропический шторм</string>
-  <string name="weather_10">Ледяной дождь</string>
-  <string name="weather_11">Ливень</string>
-  <string name="weather_12">Ливень</string>
-  <string name="weather_13">Ливневый снег</string>
-  <string name="weather_14">Небольшой дождь со снегом</string>
-  <string name="weather_15">Позёмка</string>
-  <string name="weather_16">Снег</string>
-  <string name="weather_17">Град</string>
-  <string name="weather_18">Мокрый снег</string>
-  <string name="weather_19">Пыль</string>
-  <string name="weather_2">Ураган</string>
-  <string name="weather_20">Туманно</string>
-  <string name="weather_21">Туман</string>
-  <string name="weather_22">Дым</string>
-  <string name="weather_23">Ветренно</string>
-  <string name="weather_24">Ветренно</string>
-  <string name="weather_25">Холодно</string>
-  <string name="weather_26">Облачно</string>
-  <string name="weather_27">Малооблачно</string>
-  <string name="weather_28">Малооблачно</string>
-  <string name="weather_29">Малооблачно</string>
-  <string name="weather_3">Сильные грозы</string>
-  <string name="weather_30">Малооблачно</string>
-  <string name="weather_31">Ясно</string>
-  <string name="weather_32">Солнечно</string>
-  <string name="weather_3200" />
-  <string name="weather_33">Ясно</string>
-  <string name="weather_34">Ясно</string>
-  <string name="weather_35">Дождь с градом</string>
-  <string name="weather_36">Жарко</string>
-  <string name="weather_37">Местами грозы</string>
-  <string name="weather_38">Возможны грозы</string>
-  <string name="weather_39">Возможны грозы</string>
-  <string name="weather_4">Грозы</string>
-  <string name="weather_40">Возможны грозы</string>
-  <string name="weather_41">Сильный снег</string>
-  <string name="weather_42">Возможен снег</string>
-  <string name="weather_43">Сильный снег</string>
-  <string name="weather_44">Малооблачно</string>
-  <string name="weather_45">Дождь с грозой</string>
-  <string name="weather_46">Дождь со снегом</string>
-  <string name="weather_47">Местами грозы</string>
-  <string name="weather_5">Дождь со снегом</string>
-  <string name="weather_6">Дождь с мокрым снегом</string>
-  <string name="weather_7">Мокрый снег</string>
-  <string name="weather_8">Изморозь</string>
-  <string name="weather_9">Мелкий дождь</string>
-  <string name="weather_E">В</string>
-  <string name="weather_N">С</string>
-  <string name="weather_NE">СВ</string>
-  <string name="weather_NW">СЗ</string>
-  <string name="weather_S">Ю</string>
-  <string name="weather_SE">ЮВ</string>
-  <string name="weather_SW">ЮЗ</string>
-  <string name="weather_W">З</string>
-  <string name="weather_no_data">Нет данных</string>
-  <string name="weather_refreshing">Обновление</string>
-  <string name="weather_tap_to_refresh">Нажмите для обновления</string>
-  <string name="web_user_agent" />
-  <string name="web_user_agent_target_content" />
   <string name="websearch">Веб-поиск</string>
   <string name="week">нед.</string>
   <string name="weeks">нед.</string>
   <string name="whichApplication">Что использовать?</string>
   <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
-  <string name="wifi_available_sign_in_detailed" />
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
@@ -1507,10 +1295,8 @@
   <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN-код WPS %1$s на обнаруженном устройстве %2$s</string>
   <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN-код.</string>
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
-  <string name="wifi_tether_configure_ssid_default" />
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
-  <string name="wildcardProfile">Другой</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
