@@ -175,7 +175,7 @@
   <string name="SYNCResultAs">Результат синхронизации:</string>
   <string name="SYNContact">Синхронизировать контакты</string>
   <string name="SYNError">Ошибка синхронизации</string>
-  <string name="SYNing">Синхронизация</string>
+  <string name="SYNing">"Синхронизация "</string>
   <string name="SYNingD">Синхронизация...</string>
   <string name="Save">Сохранить</string>
   <string name="SaveContactInfoError">Ошибка сохрания информации о контакте</string>
