@@ -85,7 +85,7 @@
     </string-array>
     <string-array name="camera_mx_menu_other_array">
         <item>Местоположение</item>
-        <item>Wide dynamic</item>
+        <item>Ружим WDR</item>
         <item>Снимок жестом</item>
     </string-array>
 </resources>

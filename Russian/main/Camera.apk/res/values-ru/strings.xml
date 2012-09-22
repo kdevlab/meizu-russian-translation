@@ -61,7 +61,7 @@
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_review_saving_indication_str">Сохранение…</string>
   <string name="pano_too_fast_prompt">Слишком быстро</string>
-  <string name="panorama_mode_tip">Нажмите кнопку затвора и двигайтесь в право</string>
+  <string name="panorama_mode_tip">Нажмите кнопку затвора и двигайтесь вправо</string>
   <string name="panoramic_photo_processing">Обработка фото</string>
   <string name="pic_size_1m">1M</string>
   <string name="pic_size_3m">3M</string>
