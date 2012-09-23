@@ -411,7 +411,7 @@
   <string name="category_power_status">Использовано</string>
   <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
   <string name="change_password">Изменить пароль</string>
-  <string name="change_screen_lock">Изменить тип блокировки экрана</string>
+  <string name="change_screen_lock">Изменить пароль блокировки</string>
   <string name="check_app_toast">Приложению %s разрешено иметь доступ к сообщениям и контактам</string>
   <string name="check_apps_summary">Разрешить этому приложению доступ к сообщениям и контактам</string>
   <string name="check_apps_title">Надежные приложения</string>
@@ -646,7 +646,7 @@
   <string name="enter_password">Введите пароль</string>
   <string name="enter_password_hint">Не менее 4 символов</string>
   <string name="enter_password_summary">Пароль</string>
-  <string name="enter_password_tip">Введите пароль из 4~6 цифр</string>
+  <string name="enter_password_tip">Введите новый пароль из 4~6 цифр</string>
   <string name="enter_pin_hint">Введите PIN-код, не более 3 раз.</string>
   <string name="enter_tips">Введите 6-значный пароль</string>
   <string name="erase_external_storage">Очистить SD-карту</string>
@@ -679,7 +679,7 @@
   <string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
   <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
   <string name="gallery_wallpaper">Галерея обоев</string>
-  <string name="give_up_password">棄用密碼</string>
+  <string name="give_up_password">Отключить</string>
   <string name="gps_widget_change">Переключение состояния GPS.Подождите, пожалуйста…</string>
   <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок Назад и Меню</string>
   <string name="haptic_feedback_enable_title">Виброотклик</string>
@@ -769,7 +769,7 @@
   <string name="lock_password_cancel">Отмена</string>
   <string name="lock_screen">Блокировка экрана</string>
   <string name="lock_settings_picker_title">Тип блокировки</string>
-  <string name="lock_settings_title">Блокировка экрана</string>
+  <string name="lock_settings_title">Блокировка экрана паролем</string>
   <string name="lock_setup">Настройка завершена</string>
   <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
   <string name="lock_title">Обеспечение безопасности телефона</string>
@@ -1103,7 +1103,7 @@
   <string name="remove_account_label">Удалить аккаунт</string>
   <string name="remove_device_admin">Отключить</string>
   <string name="reset_enter_tips">Введите новый пароль и нажмите \"Продолжить \"</string>
-  <string name="reset_password">Сброс</string>
+  <string name="reset_password">Изменить</string>
   <string name="reset_tips">Введите старый пароль</string>
   <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
   <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
@@ -1219,31 +1219,31 @@
   <string name="silent_mode_summary">Отключить все звуки, кроме мультимедиа и будильника</string>
   <string name="silent_mode_title">Режим без звука</string>
   <string name="sim_bad_pin">Неверный PIN-код</string>
-  <string name="sim_change_failed">"Не удается изменить PIN.
+  <string name="sim_change_failed">"Не удается изменить PIN. 
 Возможно, код введен неверно."</string>
   <string name="sim_change_failed_puk">Невозможно сменить PIN-код. Возможно не верный PUK-код</string>
   <string name="sim_change_pin">PIN-код SIM-карты</string>
-  <string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
+  <string name="sim_change_succeeded">PIN-код успешно изменен</string>
   <string name="sim_confirm_pin_error">"Невозможно сменить PIN-код. 
 PIN-код не совпадает"</string>
   <string name="sim_disable_sim_lock">Разблокировать SIM-карту</string>
-  <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
+  <string name="sim_enable_sim_lock">Включить PIN-код</string>
   <string name="sim_enter_cancel">Отмена</string>
-  <string name="sim_enter_new">Новый PIN SIM-карты</string>
+  <string name="sim_enter_new">Новый PIN-код</string>
   <string name="sim_enter_ok">ОК</string>
-  <string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
+  <string name="sim_enter_old">Прежний PIN-код</string>
   <string name="sim_enter_pin">PIN-код SIM-карты</string>
-  <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM-карты.
+  <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM-карты. 
 Возможно, введен неверный PIN-код."</string>
   <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
   <string name="sim_lock_on">Для использования телефона необходим PIN-код</string>
   <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
-  <string name="sim_lock_settings_category">Настроить блокировку</string>
-  <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-  <string name="sim_pin_change">Изменение PIN SIM-карты</string>
-  <string name="sim_pin_toggle">Блокировка SIM-карты</string>
+  <string name="sim_lock_settings_category">Настройки SIM-карты</string>
+  <string name="sim_lock_settings_title">Включить PIN-код</string>
+  <string name="sim_pin_change">Изменить PIN-код</string>
+  <string name="sim_pin_toggle">Включить PIN-код</string>
   <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
-  <string name="sim_reenter_new">Введите новый PIN повторно</string>
+  <string name="sim_reenter_new">Введите новый PIN-код повторно</string>
   <string name="skip_button_label">Отмена</string>
   <string name="skip_label">Далее</string>
   <string name="small_font">Маленький</string>
