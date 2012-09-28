@@ -16,6 +16,7 @@
   <string name="bt_enable_ok">Включить</string>
   <string name="bt_enable_title" />
   <string name="bt_error_btn_ok">ОК</string>
+  <string name="bt_receiving">Получение</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">На SD-карте нет места, чтобы сохранить файл с устройства \"%1$s\"</string>
   <string name="bt_sm_2_2">Необходимое свободное место: %1$s</string>
@@ -118,5 +119,5 @@
   <string name="upload_line5">Отправка файла...</string>
   <string name="upload_succ_line5">Файл отправлен</string>
   <string name="upload_succ_ok">ОК</string>
-  <string name="upload_success">Отправлено: %1$s.</string>
+  <string name="upload_success">Отправлено: %1$s</string>
 </resources>
