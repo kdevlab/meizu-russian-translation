@@ -4,10 +4,10 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activity_button">Фон</string>
   <string name="activity_install_title">Установка приложений в AutoInstallAPK на SD-карте</string>
-  <string name="activity_installed_tips">"- установка завершена"</string>
+  <string name="activity_installed_tips">" - установка завершена"</string>
   <string name="activity_installing_tips">Установка</string>
   <string name="app_name">Автоустановка</string>
-  <string name="background_installed_tips">"- установка завершена"</string>
+  <string name="background_installed_tips">" - установка завершена"</string>
   <string name="background_installing_found">Есть apk для установки</string>
   <string name="background_installing_tips">Установка</string>
   <string name="dlg_cancel">Установить позже</string>
