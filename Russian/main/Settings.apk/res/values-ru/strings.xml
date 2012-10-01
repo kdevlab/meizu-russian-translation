@@ -574,7 +574,7 @@
   <string name="date_time_set_timezone">Часовой пояс</string>
   <string name="debug_applications_category">Приложения</string>
   <string name="debug_ui_category">Интерфейс</string>
-  <string name="default_launcher">Стандартный рвбочий стол</string>
+  <string name="default_launcher">Стандартный рабочий стол</string>
   <string name="default_region">ru</string>
   <string name="delete">Удалить</string>
   <string name="details_subtitle">Расход батареи</string>
