@@ -285,7 +285,7 @@
   <string name="external_storage_checking_title">Подключение внешнего устройства хранения</string>
   <string name="external_storage_device_name" />
   <string name="external_storage_mounted_message" />
-  <string name="external_storage_mounted_ticker">Внешние накопители был подключен</string>
+  <string name="external_storage_mounted_ticker">Внешний накопитель был подключен</string>
   <string name="external_storage_mounted_title">Отключить внешний накопитель</string>
   <string name="external_storage_saferemove_message" />
   <string name="external_storage_saferemove_ticker">Внешний накопитель успешно отключен</string>
