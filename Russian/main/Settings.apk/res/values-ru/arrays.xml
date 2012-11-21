@@ -186,9 +186,9 @@
         <item>На усмотрение системы</item>
     </string-array>
     <string-array name="silent_mode_entries">
-        <item>Выкл.</item>
+        <item>Выключить</item>
         <item>Вибросигнал</item>
-        <item>Вкл.</item>
+        <item>Без звука</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
@@ -207,29 +207,29 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Отключение анимации</item>
-        <item>Анимация (масштаб: 0,5x)</item>
-        <item>Анимация (масштаб: 1x)</item>
-        <item>Анимация (масштаб: 1,5x)</item>
-        <item>Анимация (масштаб: 2x)</item>
-        <item>Анимация (масштаб: 5x)</item>
-        <item>Анимация (масштаб: 10x)</item>
+        <item>Масштаб: 0,5x</item>
+        <item>Масштаб: 1x</item>
+        <item>Масштаб: 1,5x</item>
+        <item>Масштаб: 2x</item>
+        <item>Масштаб: 5x</item>
+        <item>Масштаб: 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Отключение анимации</item>
-        <item>Анимация (масштаб: 0,5x)</item>
-        <item>Анимация (масштаб: 1x)</item>
-        <item>Анимация (масштаб: 1,5x)</item>
-        <item>Анимация (масштаб: 2x)</item>
-        <item>Анимация (масштаб: 5x)</item>
-        <item>Анимация (масштаб: 10x)</item>
+        <item>Масштаб: 0,5x</item>
+        <item>Масштаб: 1x</item>
+        <item>Масштаб: 1,5x</item>
+        <item>Масштаб: 2x</item>
+        <item>Масштаб: 5x</item>
+        <item>Масштаб: 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Стандартное ограничение</item>
-        <item>Без фоновых процессов</item>
-        <item>Не более одного процесса</item>
-        <item>Не более 2 процессов</item>
-        <item>Не более 3 процессов</item>
-        <item>Не более 4 процессов</item>
+        <item>Стандартный</item>
+        <item>Без фоновых задач</item>
+        <item>Не более 1 задачи</item>
+        <item>Не более 2 задач</item>
+        <item>Не более 3 задач</item>
+        <item>Не более 4 задач</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>VPN-соединение по протоколу PPTP</item>
@@ -249,36 +249,31 @@
     </string-array>
     <string-array name="cpufreq_entries">
         <item>Высокая</item>
-        <item>Нормальная</item>
+        <item>Оптимальная</item>
         <item>Низкая</item>
     </string-array>
-    <string-array name="cpufreq_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="entries_meizu_app_font_size">
-        <item>Нормальный</item>
-        <item>Большой</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
     </string-array>
     <string-array name="location_array">
-        <item>Czech Republic</item>
-        <item>Germany</item>
-        <item>UK</item>
-        <item>France</item>
-        <item>China</item>
-        <item>Hong Kong (Traditional)</item>
-        <item>Hong Kong (Simplified)</item>
-        <item>Macao (Traditional)</item>
-        <item>Macao (Simplified)</item>
-        <item>Taiwan</item>
-        <item>Russia</item>
-        <item>Indonesia</item>
-        <item>United States</item>
-        <item>Greece</item>
-        <item>Netherlands</item>
-        <item>Canada</item>
-        <item>Italy</item>
-        <item>Hungary</item>
+        <item>Чехия</item>
+        <item>Германия</item>
+        <item>Англия</item>
+        <item>Франция</item>
+        <item>Китай</item>
+        <item>Гонг Конг (трад)</item>
+        <item>Гонг конг (упр)</item>
+        <item>Макао (трад)</item>
+        <item>Макао (упр)</item>
+        <item>Тайвань</item>
+        <item>Россия</item>
+        <item>Индонезия</item>
+        <item>США</item>
+        <item>Греция</item>
+        <item>Голландия</item>
+        <item>Канада</item>
+        <item>Италия</item>
+        <item>Венгрия</item>
     </string-array>
 </resources>
