@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
+    <string-array name="ary">
+        <item>тест</item>
+        <item>Пункт 2</item>
+    </string-array>
     <string-array name="frequency_ary">
         <item>Каждые 15 мин</item>
         <item>Каждые 30 мин</item>
@@ -17,9 +21,31 @@
         <item>Каждые 2 мин</item>
     </string-array>
     <string-array name="paw_protect_ary">
+        <item>Нет секрет. вопроса</item>
+        <item>Мой любимый альбом</item>
         <item>Мой любимый фильм</item>
         <item>Мой девиз</item>
         <item>День рождения друга</item>
         <item>Личное</item>
+    </string-array>
+    <string-array name="location_array">
+        <item>Чехия</item>
+        <item>Германия</item>
+        <item>Англия</item>
+        <item>Франция</item>
+        <item>Китай</item>
+        <item>Гонг Конг (трад)</item>
+        <item>Гонг Конг (упр.)</item>
+        <item>Макао (трад)</item>
+        <item>Макао (упр)</item>
+        <item>Тайвань</item>
+        <item>Россия</item>
+        <item>Индонезия</item>
+        <item>США</item>
+        <item>Греция</item>
+        <item>Голландия</item>
+        <item>Канада</item>
+        <item>Италия</item>
+        <item>Венгрия</item>
     </string-array>
 </resources>
