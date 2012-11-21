@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="allow_button">Разрешить</string>
+  <string name="app_name">Брелок</string>
+  <string name="deny_button">Запретить</string>
+  <string name="install_new_cert_button_label">Установить</string>
+  <string name="install_new_cert_message">Вы можете установить сертификаты из PKCS#12 файла с расширением %1$s или %2$s, расположенным на диске устройства</string>
+  <string name="requesting_application">Это приложение (%s) запрашивает сертификат. Выбор сертификата позволит приложению использовать эту идентификацию с серверами сейчас и в будущем</string>
+  <string name="requesting_server">Приложение определяется сервером как %s, но вы должны разрешить доступ приложения к сертификату (если вы доверяете приложению)</string>
+  <string name="title_no_certs">Сертификаты не найдены</string>
+  <string name="title_select_cert">Выбор сертификата</string>
+</resources>
