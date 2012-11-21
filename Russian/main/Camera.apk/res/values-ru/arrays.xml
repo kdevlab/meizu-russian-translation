@@ -1,57 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
+    <string-array name="camera_pic_size_array">
+        <item>2592x1944</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1280x960</item>
+    </string-array>
     <string-array name="camera_scence_array">
-        <item>Авто</item>
-        <item>Текст</item>
-        <item>Ночь</item>
-        <item>Ландшафт</item>
-    </string-array>
-    <string-array name="camera_white_balance">
-        <item>Авто</item>
-        <item>Лампа накаливания</item>
-        <item>Дневной свет</item>
-        <item>Облачно</item>
-    </string-array>
-    <string-array name="camera_cameramenu_array">
-        <item>Сюжет</item>
-        <item>Баланс белого</item>
-        <item>Другое</item>
-    </string-array>
-    <string-array name="camera_menu_other_array">
-        <item>Местоположение</item>
-        <item>Снимок жестом</item>
-    </string-array>
-    <string-array name="camera_mx_cameramenu_array">
-        <item>Режим съемки</item>
-        <item>ISO</item>
-        <item>Сюжет</item>
-        <item>Баланс белого</item>
-        <item>Другое</item>
-    </string-array>
-    <string-array name="camera_mx_videomenu_array">
-        <item>Размер видео</item>
-        <item>Сюжет</item>
-        <item>Баланс белого</item>
-    </string-array>
-    <string-array name="camera_mx_white_balance">
-        <item>Авто</item>
-        <item>Флуоресцентный</item>
-        <item>Солнечный</item>
-        <item>Лампа накаливания</item>
-    </string-array>
-    <string-array name="camera_mx_scence_array_photo">
         <item>Авто</item>
         <item>Текст</item>
         <item>Ночь</item>
         <item>Ландшафт</item>
         <item>Макро</item>
     </string-array>
+    <string-array name="camera_white_balance">
+        <item>Авто</item>
+        <item>Флюоресцент</item>
+        <item>Дневной свет</item>
+        <item>Облачно</item>
+    </string-array>
+    <string-array name="camera_video_size_array">
+        <item>1280x720</item>
+        <item>1080x720</item>
+        <item>720x480</item>
+    </string-array>
+    <string-array name="camera_cameramenu_array">
+        <item>Режим съемки</item>
+        <item>Баланс белого</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="camera_menu_other_array">
+        <item>Местоположение</item>
+        <item>Съемка жестом</item>
+    </string-array>
+    <string-array name="camera_main_menu_default_tip_array">
+        <item>Авто</item>
+        <item>Авто</item>
+        <item>5M</item>
+    </string-array>
+    <string-array name="camera_mx_cameramenu_array">
+        <item>Режим сцены</item>
+        <item>ISO</item>
+        <item>Режим съемки</item>
+        <item>Баланс белого</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="camera_mx_videomenu_array">
+        <item>Размер видео</item>
+        <item>Режим съемки</item>
+        <item>Баланс белого</item>
+    </string-array>
+    <string-array name="camera_mx_pic_size_array">
+        <item>3264x2448</item>
+        <item>2560x1920</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1280x960</item>
+    </string-array>
+    <string-array name="camera_mx_white_balance">
+        <item>Авто</item>
+        <item>Флюоресцент</item>
+        <item>Солнечно</item>
+        <item>Лампа накалив.</item>
+    </string-array>
+    <string-array name="camera_mx_scence_array_photo">
+        <item>Авто</item>
+        <item>Текст</item>
+        <item>Ночь</item>
+        <item>Пейзаж</item>
+        <item>Макро</item>
+    </string-array>
     <string-array name="camera_mx_scence_array_clip">
         <item>Авто</item>
         <item>Портрет</item>
-        <item>Ландшафт</item>
-        <item>Закат</item>
+        <item>Пейзаж</item>
+        <item>День</item>
         <item>Макро</item>
     </string-array>
     <string-array name="camera_mx_flash_light_array">
@@ -60,14 +84,14 @@
         <item>Выкл</item>
     </string-array>
     <string-array name="video_camera_mx_flash_light_array">
-        <item>Открыть</item>
-        <item>Закрыть</item>
+        <item>Вкл</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="camera_mx_capture_mode_array">
-        <item>Стандартно</item>
+        <item>Обычный</item>
         <item>Панорама</item>
         <item>Улыбка</item>
-        <item>Серия</item>
+        <item>Непрерывно</item>
     </string-array>
     <string-array name="camera_mx_sensitivity_mode_array">
         <item>Авто</item>
@@ -77,15 +101,33 @@
         <item>800</item>
     </string-array>
     <string-array name="camera_mx_wide_dynamic_mode_array">
-        <item>Выкл</item>
+        <item>Выключить</item>
         <item>Авто</item>
         <item>Низкий</item>
         <item>Средний</item>
-        <item>Сильный</item>
+        <item>Высокий</item>
+    </string-array>
+    <string-array name="camera_mx_video_size_array">
+        <item>1920x1080</item>
+        <item>1280x720</item>
+        <item>1080x720</item>
+        <item>720x480</item>
     </string-array>
     <string-array name="camera_mx_menu_other_array">
         <item>Местоположение</item>
-        <item>Режим WDR</item>
-        <item>Снимок жестом</item>
+        <item>WDR-режим</item>
+        <item>Съемка жестом</item>
+    </string-array>
+    <string-array name="camera_mx_main_menu_default_tip_array">
+        <item>Нормальный</item>
+        <item>Авто</item>
+        <item>Авто</item>
+        <item>Авто</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="video_mx_main_menu_default_tip_array">
+        <item>720P</item>
+        <item>Авто</item>
+        <item>Авто</item>
     </string-array>
 </resources>
