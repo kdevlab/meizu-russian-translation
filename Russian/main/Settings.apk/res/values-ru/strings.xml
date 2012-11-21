@@ -10,7 +10,7 @@
   <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>
   <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
-  <string name="accessibility_menu_item_settings">Настройки</string>
+  <string name="accessibility_menu_item_settings">Параметры</string>
   <string name="accessibility_menu_item_tutorial">Руководство</string>
   <string name="accessibility_no_services_installed">Службы не установлены</string>
   <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
@@ -706,8 +706,8 @@
   <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
   <string name="input_method_selector_always_show_title">Всегда показывать</string>
   <string name="input_method_selector_show_automatically_title">Автоматически</string>
-  <string name="input_method_settings">Настройки</string>
-  <string name="input_method_settings_button">Настройки</string>
+  <string name="input_method_settings">Параметры</string>
+  <string name="input_method_settings_button">Параметры</string>
   <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
   <string name="input_methods_settings_label_format">Настройки %1$s</string>
   <string name="input_methods_settings_title">Ввод текста</string>
@@ -1169,7 +1169,7 @@
   <string name="service_background_processes">%1$s свободно</string>
   <string name="service_busy">Служба занята. Повторите попытку.</string>
   <string name="service_foreground_processes">%1$s занято</string>
-  <string name="service_manage">Настройки</string>
+  <string name="service_manage">Параметры</string>
   <string name="service_manage_description">%1$s: в настоящий момент используется. Нажмите \"Настройки\" для управления.</string>
   <string name="service_restarting">Перезапуск</string>
   <string name="service_started_by_app">Запущено приложением.</string>
@@ -1178,10 +1178,10 @@
   <string name="set_screen_lock">Пароль блокировки</string>
   <string name="settings_backup">Создать резервную копию настроек</string>
   <string name="settings_backup_summary">Резервная копия настроек.</string>
-  <string name="settings_button">Настройки</string>
+  <string name="settings_button">Параметры</string>
   <string name="settings_copyright_activity_title">Авторские права</string>
-  <string name="settings_label">Настройки</string>
-  <string name="settings_label_launcher">Настройки</string>
+  <string name="settings_label">Параметры</string>
+  <string name="settings_label_launcher">Параметры</string>
   <string name="settings_license_activity_loading">Идет загрузка…</string>
   <string name="settings_license_activity_title">Лицензии открытого ПО</string>
   <string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка.</string>
