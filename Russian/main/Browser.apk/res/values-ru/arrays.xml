@@ -30,10 +30,9 @@
         <item>Unicode (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
-        <item>Японская (ISO-2022-JP)</item>
-        <item>Японская (SHIFT_JIS)</item>
-        <item>Японская (EUC-JP)</item>
-        <item>Корейская (EUC-KR)</item>
+        <item>Кириллица (KOI8-R)</item>
+        <item>Кириллица (1251)</item>
+        <item>Автоопределение</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Никогда</item>
@@ -43,12 +42,12 @@
     <string-array name="pref_homepage_choices2">
         <item>Текущая страница</item>
         <item>Избранное</item>
-        <item>Самые посещаемые сайты</item>
-        <item>Другое</item>
+        <item>Наиболее посещаемые сайты</item>
+        <item>По-умолчанию</item>
     </string-array>
     <string-array name="title_bar_share_item">
         <item>Bluetooth</item>
         <item>SMS</item>
-        <item>Email</item>
+        <item>E-mail</item>
     </string-array>
 </resources>
