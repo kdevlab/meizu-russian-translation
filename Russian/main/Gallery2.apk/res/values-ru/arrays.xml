@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
+    <string-array name="slideshow_choices">
+        <item>Нет</item>
+        <item>Случайно</item>
+        <item>Жалюзи</item>
+        <item>Затухание</item>
+        <item>Мозаика</item>
+    </string-array>
+    <string-array name="delayplay_choices">
+        <item>1 сек</item>
+        <item>2 сек</item>
+        <item>3 сек</item>
+        <item>4 сек</item>
+        <item>5 сек</item>
+    </string-array>
     <string-array name="crop_aspect">
         <item>1 : 1</item>
         <item>3 : 2</item>
         <item>4 : 3</item>
         <item>16 : 10</item>
-        <item>Формат</item>
+        <item>Свободно</item>
     </string-array>
 </resources>
