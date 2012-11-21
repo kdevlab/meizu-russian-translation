@@ -8,7 +8,7 @@
 
 Разрешить и запомнить выбор?"</string>
   <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-  <string name="app_name">Программа установки пакета</string>
+  <string name="app_name">Программа установки приложений</string>
   <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений.</string>
   <string name="app_not_found_dlg_title">Приложение не найдено</string>
   <string name="cancel">Отмена</string>
@@ -41,7 +41,7 @@
   <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="security_settings_desc">Разрешить этому приложению:</string>
-  <string name="settings">Настройки</string>
+  <string name="settings">Открыть</string>
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_application_text">Приложение будет удалено</string>
   <string name="uninstall_application_title">Удаление приложения</string>
@@ -55,4 +55,5 @@
   <string name="unknown">Неизвестно</string>
   <string name="unknown_apps_dlg_text">Из соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Android-маркета.</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
+  <string name="version_text">Версия %1$s</string>
 </resources>
