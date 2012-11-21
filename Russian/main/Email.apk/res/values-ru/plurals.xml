@@ -60,6 +60,6 @@
     </plurals>
     <plurals name="gal_completed_fmt">
         <item quantity="other">Кол-во результатов: %1$d с %2$s</item>
-        <item quantity="one">Результаты с %1$2$s (%2$1$d)</item>
+        <item quantity="one">Результаты с %2$s (%1$d)</item>
     </plurals>
 </resources>
