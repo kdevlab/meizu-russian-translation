@@ -9,10 +9,10 @@
     </string-array>
     <string-array name="edit_item">
         <item>Копировать</item>
-        <item>E-mail</item>
+        <item>Email</item>
         <item>Bluetooth</item>
-        <item>Отправить</item>
-        <item>Отправить через Flyme</item>
+        <item>MMS</item>
+        <item>Отправить во Flyme</item>
         <item>Переименовать</item>
     </string-array>
     <string-array name="share_item">
