@@ -2,23 +2,23 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="about">О теме</string>
+  <string name="about">О</string>
   <string name="app_name">Темы оформления</string>
   <string name="back">Назад</string>
   <string name="boot_audio_setting">Звук загрузки</string>
   <string name="boot_setting">Анимация загрузки</string>
   <string name="but_delete">Удалить</string>
-  <string name="but_set">Установить</string>
+  <string name="but_set">ОК</string>
   <string name="cancel">Отмена</string>
   <string name="check_license_failed">Ошибка проверки лицензии, скачайте тему снова</string>
   <string name="contact_setting">Контакты</string>
   <string name="copy_part_theme">Установка: %s, пожалуйста, подождите…</string>
   <string name="copy_theme">Идет конфигурация…</string>
   <string name="copy_wallpaper">Замена обоев, пожалуйста, подождите…</string>
-  <string name="custom_settings_title">Персонализация</string>
+  <string name="custom_settings_title">Настройки</string>
   <string name="def_theme_name">По умолчанию</string>
-  <string name="delete_theme_desc">Действительно удалить %s файл(ы)</string>
-  <string name="delete_theme_drag">Действительно удалить тему %s?</string>
+  <string name="delete_theme_desc">Удалить %s</string>
+  <string name="delete_theme_drag">Удалить %s ?</string>
   <string name="delete_theme_error">Ошибка удаления темы</string>
   <string name="delete_theme_succ">Тема удалена</string>
   <string name="delete_theme_title">Удалить тему?</string>
@@ -44,7 +44,7 @@
   <string name="mms_setting">Сообщения</string>
   <string name="more_theme">Еще темы</string>
   <string name="not_open">Функция пока не активна.</string>
-  <string name="ok">Установить</string>
+  <string name="ok">ОК</string>
   <string name="online_theme">Интернет</string>
   <string name="part_theme">Локально</string>
   <string name="sdcard_mount_update_part_theme">Загрузка SD-карты %s ...</string>
@@ -54,9 +54,9 @@
   <string name="sdcard_remove">SD-карта была удалена</string>
   <string name="sdcard_theme">SD-карта</string>
   <string name="sdcard_unmount_update_theme">SD-карта удаляется…</string>
-  <string name="sdk_version_not_match">Тема несовместима с версией системы, пожалуйста обновите.</string>
-  <string name="select_item">выбор</string>
-  <string name="select_none">Снять выделение</string>
+  <string name="sdk_version_not_match">Тема несовместима с версией прошивки, сделайте обновление</string>
+  <string name="select_item">Выбрать</string>
+  <string name="select_none">Отмена</string>
   <string name="set_part_theme_dialog_title">Действительно заменить %s?</string>
   <string name="set_part_theme_error">Ошибка установки %s</string>
   <string name="set_part_theme_succ">Установка %s выполнена</string>
@@ -72,16 +72,16 @@
   <string name="theme_author_summary">Автор:</string>
   <string name="theme_date_summary">Дата:</string>
   <string name="theme_message">Информация</string>
-  <string name="theme_name">имя｜имя｜имя</string>
+  <string name="theme_name">назв｜назв｜назв</string>
   <string name="theme_name_summary">Название:</string>
   <string name="theme_preview">Превью темы</string>
   <string name="theme_remark_summary">Описание:</string>
   <string name="theme_settings">Настройки</string>
   <string name="theme_version_summary">Версия:</string>
   <string name="unable_delete_theme_title">Невозможно удалить</string>
-  <string name="update_theme_error">Ошибка обновления темы.</string>
-  <string name="update_theme_error_def">Ошибка обновления темы, возврат к теме по-умолчанию.</string>
-  <string name="update_theme_suss">Тема обновлена успешно.</string>
+  <string name="update_theme_error">Ошибка обновления темы</string>
+  <string name="update_theme_error_def">Ошибка обновления темы, восстановление темы по-умолчанию</string>
+  <string name="update_theme_suss">Тема успешно обновлена</string>
   <string name="use_m9_theme">Восстановить умолчания</string>
   <string name="using_hint">Используется</string>
   <string name="wallpaper_setting">Обои рабочего стола</string>
