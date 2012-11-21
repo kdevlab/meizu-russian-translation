@@ -6,12 +6,12 @@
   <string name="button_cancel_download">Отмена</string>
   <string name="button_queue_for_wifi">Добавить в очередь</string>
   <string name="button_start_now">Запустить</string>
-  <string name="default_path_to_save">Папки для скачивания</string>
+  <string name="default_path_to_save">Скачать папки</string>
   <string name="disk_to_save">Диск</string>
-  <string name="download_failed">Ошибка скачивания</string>
-  <string name="download_img">Скачивание</string>
-  <string name="download_nospace">Недостаточно места на SD-карте</string>
-  <string name="download_pause">Приостановлено</string>
+  <string name="download_failed">Загрузка завершена</string>
+  <string name="download_img">Загрузка</string>
+  <string name="download_nospace">"Недостаточно места на  SD-карте"</string>
+  <string name="download_pause">Пауза загрузки</string>
   <string name="download_percent">%d%%</string>
   <string name="download_unknown_title">&lt;без названия&gt;</string>
   <string name="not_exist">Файл не существует</string>
@@ -36,7 +36,7 @@
   <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
   <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
   <string name="system_updates">Обновление системы</string>
-  <string name="wait_download">Подготовка к загрузке...</string>
+  <string name="wait_download">Ожидание загрузки...</string>
   <string formatted="false" name="wifi_recommended_body">"Если загрузить %s  сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь.
 
 Чтобы выполнить загрузку позже через Wi-Fi, нажмите %s."</string>
@@ -45,4 +45,6 @@
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s ."</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
+  <string name="default_path_to_save">Папки для загрузки</string>
+  <string name="download_failed">Ошибка загрузки</string>
 </resources>

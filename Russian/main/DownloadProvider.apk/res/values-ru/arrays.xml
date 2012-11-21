@@ -7,6 +7,14 @@
         <item>Видео</item>
         <item>Архивы</item>
         <item>Приложения</item>
-        <item>Остальное</item>
+        <item>Другие файлы</item>
+    </string-array>
+    <string-array name="download_default_paths">
+        <item>/Photo/download</item>
+        <item>/Music/download</item>
+        <item>/Video/download</item>
+        <item>/download</item>
+        <item>/download/APK</item>
+        <item>/download</item>
     </string-array>
 </resources>

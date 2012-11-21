@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Сервер DLNA</string>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_name">Сервер DLNA</string>
 </resources>
