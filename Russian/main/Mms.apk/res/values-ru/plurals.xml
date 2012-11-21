@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
-    <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
-        <item quantity="one">Цепочка будет удалена.</item>
-    </plurals>
+    <plurals name="confirm_delete_conversation" />
     <plurals name="slide_duration">
-        <item quantity="other">%s с.</item>
-        <item quantity="one">%s с.</item>
-        <item quantity="few">%s с.</item>
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
-        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="other">%1$s результатов для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для \"%2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">%1$s чел.</item>
+        <item quantity="other">Получатели: %1$s</item>
     </plurals>
 </resources>
