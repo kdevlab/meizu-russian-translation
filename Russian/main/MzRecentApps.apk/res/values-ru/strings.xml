@@ -8,6 +8,7 @@
   <string name="gps_widget_change">Переключение статуса GPS... Подождите пожалуйста...</string>
   <string name="hello">Hello World, MzRecentapps!</string>
   <string name="kill_all">Закрыть все</string>
+  <string name="low_battery_tip">Низкий заряд батареи, камера не может быть использована</string>
   <string name="monday">Понедельник</string>
   <string name="move_and_stop">Удалить</string>
   <string name="net_2g_3g_trunning_on">Переключение режима сети... Подождите пожалуйста…</string>
@@ -17,7 +18,6 @@
   <string name="net_name">Режим сети</string>
   <string name="net_state">Только 3G</string>
   <string name="net_trunning_on">Переключение статуса сети...</string>
-  <string name="net_widget_cancel">Отменить переключение на 3G</string>
   <string name="net_widget_data_off">Выключение мобильного интернета... Подождите, пожалуйста...</string>
   <string name="net_widget_data_open">Включение мобильного интернета... Подождите, пожалуйста...</string>
   <string name="net_widget_secc">Переключение статуса сети завершено</string>
@@ -41,7 +41,7 @@
   <string name="wifi_add_network">Добавить сеть Wi-Fi</string>
   <string name="wifi_advanced_ip_address_title">IP-адрес</string>
   <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
-  <string name="wifi_advanced_subbar">Нстройки Wi-Fi&gt;Расширенные</string>
+  <string name="wifi_advanced_subbar">Настройки Wi-Fi&gt;Расширенные</string>
   <string name="wifi_advanced_titlebar">Дополнительные функции</string>
   <string name="wifi_cancel">Отмена</string>
   <string name="wifi_certinstall">Установить или просмотр. сертификат</string>
@@ -67,7 +67,7 @@
   <string name="wifi_ip_settings_menu_cancel">Отмена</string>
   <string name="wifi_ip_settings_menu_save">Сохранить</string>
   <string name="wifi_ip_settings_titlebar">IP-настройки</string>
-  <string name="wifi_menu_advanced">Дополнительные функции</string>
+  <string name="wifi_menu_advanced">Дополнит. функции</string>
   <string name="wifi_menu_connect">Соединение с сетью</string>
   <string name="wifi_menu_forget">Отключение сети</string>
   <string name="wifi_menu_modify">Изменение сети</string>
