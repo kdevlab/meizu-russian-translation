@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <keyboard skb_template="@xml/skb_template" skb_cache_flag="true" skb_width="960px" skb_height="312px" width="78px" height="68px" interval_x="6px" interval_y="8px" key_type="@string/key_type_normal" repeat="false" balloon="true">
     <row start_pos_x="18px" start_pos_y="8px">
         <keys labels="йцук">
@@ -37,7 +37,7 @@
     <row start_pos_x="18px">
         <key id="@string/key_id_symbol" width="160px" />
         <key id="@string/key_id_shift" width="100px" />
-        <key id="@string/key_id_space" width="380px" />
+        <key id="@string/key_id_spaceland" width="380px" />
         <key id="@string/key_id_switch" width="100px" />
         <key id="@string/key_id_enter" width="160px" />
     </row>
