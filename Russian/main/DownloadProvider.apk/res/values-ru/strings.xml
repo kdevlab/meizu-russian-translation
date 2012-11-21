@@ -6,9 +6,9 @@
   <string name="button_cancel_download">Отмена</string>
   <string name="button_queue_for_wifi">Добавить в очередь</string>
   <string name="button_start_now">Запустить</string>
-  <string name="default_path_to_save">Скачать папки</string>
+  <string name="default_path_to_save">Папки для загрузки</string>
   <string name="disk_to_save">Диск</string>
-  <string name="download_failed">Загрузка завершена</string>
+  <string name="download_failed">Ошибка загрузки</string>
   <string name="download_img">Загрузка</string>
   <string name="download_nospace">"Недостаточно места на  SD-карте"</string>
   <string name="download_pause">Пауза загрузки</string>
@@ -45,6 +45,4 @@
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s ."</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
-  <string name="default_path_to_save">Папки для загрузки</string>
-  <string name="download_failed">Ошибка загрузки</string>
 </resources>

@@ -10,7 +10,7 @@
   <string name="cancel">Отмена</string>
   <string name="cancel_running_download">Отмена</string>
   <string name="clear_all">Очистить историю</string>
-  <string name="clear_done">Очистить загрузки</string>
+  <string name="clear_done">Очистить загруженное</string>
   <string name="delete">Удалить</string>
   <string name="delete_download">Удалить</string>
   <string name="deselect_all">Снять выделение</string>
@@ -24,12 +24,12 @@
   <string name="dialog_queued_body">Файл добавлен в очередь загрузки.</string>
   <string name="dialog_title_not_available">Не удалось загрузить</string>
   <string name="dialog_title_queued_body">Файл еще недоступен</string>
-  <string name="download_complete">Загруженные</string>
-  <string name="download_directory">Загрузка папок</string>
+  <string name="download_complete">Загруженное</string>
+  <string name="download_directory">Загрузить папки</string>
   <string name="download_error">Не удалось</string>
-  <string name="download_failed">Загрузка неудачна</string>
+  <string name="download_failed">Ошибка загрузки</string>
   <string name="download_no_application_title">Невозможно открыть файл</string>
-  <string name="download_pause">Загрузка приостановлена</string>
+  <string name="download_pause">Пауза загрузки</string>
   <string name="download_queued">В очереди</string>
   <string name="download_running">В процессе</string>
   <string name="download_share_dialog">Способ отправки</string>
@@ -42,7 +42,7 @@
   <string name="in_download">Загрузка</string>
   <string name="keep_queued_download">Сохранить</string>
   <string name="missing_title">&lt;Неизвестно&gt;</string>
-  <string name="new_download">Новые загрузки</string>
+  <string name="new_download">Новая загрузка</string>
   <string name="no_downloads">Нет загрузок.</string>
   <string name="not_exist">Файл не существует</string>
   <string name="remove_download">Удалить</string>
@@ -50,5 +50,5 @@
   <string name="select_all">Выбрать все</string>
   <string name="selected_count">%1$d из %2$d</string>
   <string name="stop_download">Пауза</string>
-  <string name="wait_download">В ожидании загрузки</string>
+  <string name="wait_download">Ожидание загрузки</string>
 </resources>
