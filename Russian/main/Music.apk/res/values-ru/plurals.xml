@@ -3,37 +3,51 @@
 <resources>
     <plurals name="Nsongs">
         <item quantity="other">Композиций: %d</item>
-        <item quantity="one">1 композиция добавлена в плейлист</item>
     </plurals>
     <plurals name="Nsongscomp">
-        <item quantity="other">Всего %2$d из %1$d песен</item>
+        <item quantity="other">%2$d из %1$d песен</item>
     </plurals>
     <plurals name="Nalbums">
         <item quantity="other">Альбомов: %d</item>
         <item quantity="one">1 альбом</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">%d исполнителей</item>
         <item quantity="one">1 исполнитель</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">Удалено композиций: %d.</item>
-        <item quantity="one">1 композиция удалена</item>
+        <item quantity="one">1 трек удален</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">Композиций, добавленных в плейлист: %d</item>
-        <item quantity="one">1 композиция добавлена в плейлист.</item>
+        <item quantity="one">1 трек добавлен в плейлист.</item>
+    </plurals>
+    <plurals name="NNNtracktoplaylistfail">
+        <item quantity="other">%d композиций уже в плейлисте</item>
+        <item quantity="one">1 композиция в плейлисте</item>
     </plurals>
     <plurals name="times">
         <item quantity="other">раз</item>
         <item quantity="one">раз</item>
     </plurals>
-    <plurals name="NNNtrackstoplaylistdef">
-        <item quantity="other">%d песен добавлено в плейлист</item>
-        <item quantity="one">1 композиция добавлена в плейлист</item>
+    <plurals name="playlist_name_exists">
+        <item quantity="other">%d названия уже существуют</item>
+        <item quantity="one">1 название уже существует</item>
     </plurals>
-    <plurals name="stop_in">
-        <item quantity="other">Остановить через %d минут</item>
-        <item quantity="one">Стоп через 1 мин</item>
+    <plurals name="playlist_name_toolong">
+        <item quantity="other">%d названия слишком длинныеъ</item>
+        <item quantity="one">1 название слишком длинное</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%d композиций</item>
+        <item quantity="one">1 композиция</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d исполнителей</item>
+        <item quantity="one">1 артист</item>
     </plurals>
 </resources>
