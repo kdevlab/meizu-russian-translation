@@ -23,17 +23,17 @@
         <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Домашний</item>
+        <item>Личный</item>
         <item>Мобильный</item>
         <item>Рабочий</item>
-        <item>Рабочий факс</item>
-        <item>Домашний факс</item>
+        <item>Факс (рабочий)</item>
+        <item>Факс (домашний)</item>
         <item>Пейджер</item>
         <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Свой ярлык</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Домашний</item>
+        <item>Личный</item>
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Создать свой ярлык</item>
@@ -112,9 +112,9 @@
         <item>Drop</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>住宅</item>
-        <item>单位</item>
-        <item>其他</item>
-        <item>自定义</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
     </string-array>
 </resources>
