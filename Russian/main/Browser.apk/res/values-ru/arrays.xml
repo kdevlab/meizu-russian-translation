@@ -30,13 +30,19 @@
         <item>Unicode (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
-        <item>Кириллица (KOI8-R)</item>
-        <item>Кириллица (1251)</item>
-        <item>Автоопределение</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Никогда</item>
         <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только через Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="pref_homepage_choices2">
