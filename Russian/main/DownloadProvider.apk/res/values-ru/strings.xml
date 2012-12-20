@@ -6,14 +6,17 @@
   <string name="button_cancel_download">Отмена</string>
   <string name="button_queue_for_wifi">Добавить в очередь</string>
   <string name="button_start_now">Запустить</string>
+  <string name="canot_download">Остановка сервиса загрузки</string>
   <string name="default_path_to_save">Папки для загрузки</string>
   <string name="disk_to_save">Диск</string>
-  <string name="download_failed">Ошибка загрузки</string>
+  <string name="download_failed">Загрузка завершена</string>
   <string name="download_img">Загрузка</string>
   <string name="download_nospace">"Недостаточно места на  SD-карте"</string>
   <string name="download_pause">Пауза загрузки</string>
   <string name="download_percent">%d%%</string>
+  <string name="download_setting">Настройки</string>
   <string name="download_unknown_title">&lt;без названия&gt;</string>
+  <string name="max_tasks">Максимальное число одновременных загрузок</string>
   <string name="not_exist">Файл не существует</string>
   <string name="notification_download_complete">Загрузка завершена.</string>
   <string name="notification_download_failed">Не удалось загрузить файл.</string>
@@ -21,6 +24,7 @@
   <string name="notification_filename_separator">", "</string>
   <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
   <string name="notification_paused_in_background">Загрузка приостановлена</string>
+  <string name="only_wifi">Загрузка только через Wi-Fi</string>
   <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места.</string>
   <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы.</string>

@@ -17,4 +17,16 @@
         <item>/download/APK</item>
         <item>/download</item>
     </string-array>
+    <string-array name="download_numbers">
+        <item>1 загрузка</item>
+        <item>2 загрузки</item>
+        <item>3 загрузки</item>
+        <item>4 загрузки</item>
+        <item>5 загрузок</item>
+        <item>6 загрузок</item>
+        <item>7 загрузок</item>
+        <item>8 загрузок</item>
+        <item>9 загрузок</item>
+        <item>10 загрузок</item>
+    </string-array>
 </resources>
