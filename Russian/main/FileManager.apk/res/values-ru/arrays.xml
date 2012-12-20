@@ -8,12 +8,12 @@
         <item>Размер</item>
     </string-array>
     <string-array name="edit_item">
-        <item>Копировать</item>
-        <item>Email</item>
+        <item>@string/edit_copy</item>
+        <item>@string/edit_rename</item>
+        <item>@string/edit_encrypt</item>
+        <item>@string/edit_open</item>
         <item>Bluetooth</item>
         <item>MMS</item>
-        <item>Отправить во Flyme</item>
-        <item>Переименовать</item>
     </string-array>
     <string-array name="share_item">
         <item>Email</item>
