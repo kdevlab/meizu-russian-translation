@@ -26,7 +26,11 @@
         <item>Отключить</item>
     </string-array>
     <string-array name="clock_icon_list_dialog">
-        <item>Проверка будильника</item>
+        <item>Правка</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="timer_icon_list_dialog">
+        <item>Раздать</item>
         <item>Правка</item>
         <item>Удалить</item>
     </string-array>
@@ -46,10 +50,10 @@
         <item>Выложите на блюдо для охлаждения</item>
     </string-array>
     <string-array name="default_event_steamedfish_steps">
-        <item>Добавить имбиря, соли, кунжут. масла</item>
-        <item>Вскипятить воду в пароварке</item>
-        <item>Положить рыбу в пароварку, под крышку</item>
+        <item>Добавьте в рыбу соль, кунжутное масло</item>
+        <item>Вскипятите воду в пароварке</item>
+        <item>Положите рыбу в пароварку под крышку</item>
         <item>Выключите огонь, не открывайте крышку</item>
-        <item>Откройте крышку и добавьте специй</item>
+        <item>Откройте крышку и приправьте рыбу специями</item>
     </string-array>
 </resources>
