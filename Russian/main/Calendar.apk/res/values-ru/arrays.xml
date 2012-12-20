@@ -8,7 +8,7 @@
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>Нет</item>
-        <item>Длительность</item>
+        <item>По событию</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
@@ -16,14 +16,14 @@
         <item>2 часа</item>
     </string-array>
     <string-array name="delay_spinner_labels">
-        <item>5 минут</item>
+        <item>10 минут</item>
         <item>1 час</item>
         <item>3 часа</item>
         <item>1 день</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Нет</item>
-        <item>Длительность</item>
+        <item>По событию</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
@@ -31,9 +31,9 @@
         <item>2 часа</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>По умолчанию</item>
-        <item>Суббота</item>
+        <item>По региону</item>
         <item>Воскресенье</item>
+        <item>Суббота</item>
         <item>Понедельник</item>
     </string-array>
     <string-array name="timezone_labels">
