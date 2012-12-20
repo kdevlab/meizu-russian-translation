@@ -3,7 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account">Аккаунт</string>
-  <string name="account_auto_empty_trash">Автоматически очищать корзину</string>
+  <string name="account_auto_empty_trash">Автоочистка корзины</string>
   <string name="account_autodelete_customlist">Фильтр пользователя</string>
   <string name="account_autodelete_customlist_number">%s адресов</string>
   <string name="account_autodelete_server_blacklist">Черный список Flyme</string>
@@ -20,6 +20,8 @@
   <string name="account_folder_list_summary_outbox">Исходящие</string>
   <string name="account_folder_list_summary_starred">Помеченные</string>
   <string name="account_m9_signature">Отправлено с Meizu M9</string>
+  <string name="account_mailbox_setting_exchange_auto">Push-уведомл.</string>
+  <string name="account_mailbox_setting_popimap_auto">Автообновление</string>
   <string name="account_mx_signature">Отправлено с Meizu MX</string>
   <string name="account_name_display_all">Все аккаунты</string>
   <string name="account_out_of_quota">Превышена дисковая квота для аккаунта</string>
@@ -34,6 +36,7 @@
   <string name="account_settings_autodelete_tip">Отфильтрованные сообщения будут перемещены в корзину</string>
   <string name="account_settings_autoload_attachment">Автозагрузка вложений</string>
   <string name="account_settings_autoload_attachment_summary">Только для сетей 2G/3G</string>
+  <string name="account_settings_autopress_picture">Авто-сжатие изображений</string>
   <string name="account_settings_background_attachments_label">Загружать прикрепленные файлы</string>
   <string name="account_settings_background_attachments_summary">Автоматически загружать файлы из новых сообщений через Wi-Fi</string>
   <string name="account_settings_category_delete_account">Удалить аккаунт</string>
@@ -51,7 +54,7 @@
   <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
   <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт.</string>
   <string name="account_settings_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
-  <string name="account_settings_mailbox_label">Настройки почтового ящика</string>
+  <string name="account_settings_mailbox_label">Настройки почты</string>
   <string name="account_settings_name_label">Ваше имя</string>
   <string name="account_settings_notifications">Настройки уведомлений</string>
   <string name="account_settings_notify_label">Уведомления E-mail</string>
@@ -80,7 +83,7 @@
   <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
   <string name="account_setup_account_type_title">Настройка аккаунта</string>
   <string name="account_setup_basics_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений.</string>
-  <string name="account_setup_basics_email_label">Адрес E-mail</string>
+  <string name="account_setup_basics_email_label">Адрес электронной почты</string>
   <string name="account_setup_basics_exchange_title">Добавить аккаунт Exchange</string>
   <string name="account_setup_basics_exchange_title_alternate">Добавить аккаунт Exchange ActiveSync</string>
   <string name="account_setup_basics_headline">Ярлык Email</string>
@@ -165,7 +168,7 @@
   <string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
   <string name="account_setup_options_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
   <string name="account_setup_options_mail_check_frequency_never">Никогда</string>
-  <string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>
+  <string name="account_setup_options_mail_check_frequency_push">Автоматически</string>
   <string name="account_setup_options_mail_window_1day">Один день</string>
   <string name="account_setup_options_mail_window_1month">Один месяц</string>
   <string name="account_setup_options_mail_window_1week">Одна неделя</string>
@@ -202,9 +205,11 @@
   <string name="acion_bar_thread_topic_title">Всего %s</string>
   <string name="action_bar_mailbox_list_title">Папки</string>
   <string name="add_account_action">Добавить аккаунт</string>
+  <string name="add_attachment_action">Файл</string>
   <string name="add_attachments">Добавить</string>
   <string name="add_cc_bcc_menu">Копия/скрытая копия</string>
   <string name="add_file_attachment">Прикрепить файл</string>
+  <string name="add_image_action">Галерея</string>
   <string name="app_name">E-mail</string>
   <string name="application_name">Загрузка с телефона</string>
   <string name="attachment_have_been_removed">Оригинальный прикрепленный файл был удален</string>
@@ -221,15 +226,16 @@
   <string name="attachment_info_wifi_settings">Настройки Wi-Fi</string>
   <string name="attachment_not_found">Не удалось загрузить файл.</string>
   <string name="bcc">Скр. копия</string>
+  <string name="blacklist_deleting">Удаление</string>
   <string name="body_hint">Текст сообщения</string>
   <string name="cancel">Отмена</string>
   <string name="cancel_action">Отмена</string>
+  <string name="cannot_copy_protocol_not_supported_toast">Копирование не поддерживается Exchange-аккаунтом</string>
   <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
   <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3.</string>
   <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\".</string>
   <string name="category_general_preferences">Приложение</string>
   <string name="cc">Копия</string>
-  <string name="chips_waiting_for_directory_result">Ожидание ответов</string>
   <string name="choose_attachment_dialog_title">Выбрать приложение</string>
   <string name="choosertitle_sharevia">Способ отправки</string>
   <string name="classification_action">По теме</string>
@@ -248,7 +254,9 @@
   <string name="contextmenu_send_mail">Отправить письмо</string>
   <string name="contextmenu_sharelink">Отправить ссылку</string>
   <string name="contextmenu_sms_dot">Отправить SMS</string>
-  <string name="copy">Скопировать адрес эл. почты</string>
+  <string name="copy_email">Скопировать адрес E-mail</string>
+  <string name="copy_number">Скопировать номер телефона</string>
+  <string name="copy_other_boxes_action">Копировать в</string>
   <string name="create_action">Создать</string>
   <string name="custom_blacklist_delete_dialog_title">Удалить эти адреса?</string>
   <string name="debug_title">Выполнить отладку</string>
@@ -267,6 +275,7 @@
   <string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже.</string>
   <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование вашего устройства для приложения Email приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
   <string name="discard_action">Отменить</string>
+  <string name="done">Назад</string>
   <string name="done_action">Готово</string>
   <string name="draft_discard_action">Сбросить</string>
   <string name="draft_save_action">Сохранить аккаунт</string>
@@ -289,6 +298,7 @@
   <string name="failed_network_error">Ошибка сети</string>
   <string name="failed_server_auth">Не удалось выполнить аутентификацию</string>
   <string name="favorite_action">Пометить</string>
+  <string name="filter_action">Фильтр</string>
   <string name="finished_empty">Список завершенных загрузок пуст.</string>
   <string name="format_date_uploaded">Загружено %s</string>
   <string name="format_progress_percent">%d%%</string>
@@ -337,14 +347,14 @@
   <string name="mailbox_not_exist_error">Почтовый ящик не существует</string>
   <string name="mailbox_parent_error">Ошибка почтового ящика</string>
   <string name="mailbox_preferences_header">Настройки синхронизации</string>
-  <string name="mailbox_rename_dialog_title">Переименовать почтовый ящик</string>
+  <string name="mailbox_rename_dialog_title">Переименовать</string>
   <string name="mailbox_settings_action">Параметры синхронизации</string>
   <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
   <string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
   <string name="mailbox_shortcut_picker_title">Выберите папку</string>
-  <string name="mailbox_special_error">Почтовый ящик не функционирует</string>
+  <string name="mailbox_special_error">Почтовый ящик уже существует или не функционирует</string>
   <string name="manager_activity_last_sync_format">"Последняя синхронизация: 
 %1$s
 %2$s"</string>
@@ -383,10 +393,11 @@
   <string name="message_attachment_image_save_action">Сохранить изображение</string>
   <string name="message_attachment_image_saveall_action">Сохранить все изображения(%d)</string>
   <string name="message_attachment_image_view_action">Открыть изображение</string>
+  <string name="message_compose_adding_attachment">Добавление6 вложения \"%s\"</string>
   <string formatted="false" name="message_compose_attachment_header">%d вложений, всего %s</string>
   <string name="message_compose_attachment_hider">Скрыть</string>
   <string name="message_compose_attachment_not_loaded_for_add">Вложение \"%s\" не загружено.</string>
-  <string name="message_compose_attachment_not_loaded_for_view">Attachment \"%s\" not loaded. Unable to view</string>
+  <string name="message_compose_attachment_not_loaded_for_view">Приложение % S \" не загружено и не может быть просмотрено</string>
   <string name="message_compose_attachment_opener">Расширение</string>
   <string name="message_compose_attachment_size">Файл имеет слишком большой размер и не может быть приложен.</string>
   <string name="message_compose_attachment_size_toobig">Ошибка прикрепления вложения \"%1$s\", общий размер превышает %2$dM лимита</string>
@@ -397,6 +408,9 @@
   <string name="message_compose_cc_bcc_sender_hint">Копии/От</string>
   <string name="message_compose_cc_hint">Копия</string>
   <string name="message_compose_change_account_error_tip">Ошибка переключения аккаунта, размера вложения %dM</string>
+  <string name="message_compose_compress_failed">Ошибка сжатия \"%s\"</string>
+  <string name="message_compose_compress_finished">\"%1$s\" сжато до %2$s</string>
+  <string name="message_compose_compress_picture">Сжатие изображения \"%s\"</string>
   <string name="message_compose_display_name">%1$s и ещё %2$d</string>
   <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми.</string>
   <string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя.</string>
@@ -422,6 +436,7 @@
   <string name="message_compose_subject_hint">Тема</string>
   <string name="message_compose_to_hint">Кому</string>
   <string name="message_compose_whether_save">Сохранить как черновик?</string>
+  <string name="message_copy_to">Cкопировать в</string>
   <string name="message_decode_error">При расшифровке сообщения произошла ошибка.</string>
   <string name="message_delete_dialog_title" />
   <string name="message_discarded_toast">Черновик удален.</string>
@@ -484,7 +499,7 @@
   <string name="message_view_message_details_dialog_title">Детали</string>
   <string name="message_view_move_to">Перем. в</string>
   <string name="message_view_move_to_newer">След.</string>
-  <string name="message_view_move_to_older">"Пред. "</string>
+  <string name="message_view_move_to_older">Пред.</string>
   <string name="message_view_parse_message_toast">Сообщение открывается…</string>
   <string name="message_view_savetofile_for_filemanager">Сохранить вложение</string>
   <string name="message_view_show_details">Показать сведения</string>
@@ -505,9 +520,12 @@
   <string name="move_to_folder_dialog_title">Переместить в папку</string>
   <string name="new_email_title">Новое письмо</string>
   <string name="next_action">Далее</string>
+  <string name="notification_multiple_new_messages">Новые письма</string>
   <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
   <string name="notification_send_fail_error">Ошибка отправки</string>
+  <string name="notification_size_unknown">Неизвестно</string>
   <string name="notification_to_account">Кому: %1$s</string>
+  <string name="notification_wait_loading">Загрузка…</string>
   <string name="notify_activation_reminder">Функция загрузки с телефона еще не активирована</string>
   <string name="notify_paused">Загрузки приостановлены</string>
   <string name="notify_resolved">Загрузки завершены</string>
@@ -622,6 +640,7 @@
   <string name="settings_action">Настройки</string>
   <string name="settings_activity_title">Настройки</string>
   <string name="settings_fragment_account_title">Аккаунт</string>
+  <string name="show_mailboxes_action">Другая папка</string>
   <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
   <string name="status_loading_messages">Загрузка сообщений...</string>
   <string name="status_network_error">Ошибка подключения</string>
@@ -632,14 +651,14 @@
   <string name="summary_menu_show_pending">Показать незавершенные загрузки</string>
   <string name="summary_subtitle_counts_format">%1$d фото • %2$d видео</string>
   <string name="summary_subtitle_disabled">Отключено</string>
-  <string name="summary_subtitle_paused_low_battery">Низкий уровень заряда батареи</string>
-  <string name="summary_subtitle_paused_need_charger">Приостановлено до зарядки</string>
+  <string name="summary_subtitle_paused_low_battery">низкий уровень заряда батареи</string>
+  <string name="summary_subtitle_paused_need_charger">приостановлено до зарядки</string>
   <string name="summary_subtitle_paused_need_media">SD-карта недоступна</string>
-  <string name="summary_subtitle_paused_need_network">Ожидание подключения</string>
-  <string name="summary_subtitle_paused_need_wifi">Ожидание подключения Wi-Fi</string>
-  <string name="summary_subtitle_paused_photos_quota">Превышена квота на фотографии</string>
-  <string name="summary_subtitle_paused_retry_format">Повторная попытка через %s</string>
-  <string name="summary_subtitle_paused_roaming">Роуминг</string>
+  <string name="summary_subtitle_paused_need_network">ожидание подключения</string>
+  <string name="summary_subtitle_paused_need_wifi">ожидание подключения Wi-Fi</string>
+  <string name="summary_subtitle_paused_photos_quota">превышена квота на фотографии</string>
+  <string name="summary_subtitle_paused_retry_format">повторная попытка через %s</string>
+  <string name="summary_subtitle_paused_roaming">роуминг</string>
   <string name="summary_subtitle_uploading_format">%1$d%% • %2$d фото • %3$d видео</string>
   <string name="summary_title_finished">Завершенные</string>
   <string name="summary_title_paused">Приостановлено</string>
