@@ -2,8 +2,20 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="alarm_ringtone_title">Рингтон</string>
   <string name="app_label">Хранилище мультимедиа</string>
   <string name="artist_label">Исполнитель</string>
+  <string name="calendar_ringtone_title">Рингтон календаря</string>
+  <string name="mail_ringtone_title">Рингтон E-mail</string>
+  <string name="message_ringtong_picker">поместите рингтоны в папку Disk/Ringtones</string>
+  <string name="mms_ringtone_title">Рингтон сообщения</string>
+  <string name="notification_ringtone_title">Рингтон уведомления</string>
+  <string name="phone_ringtone_title">Рингтон телефона</string>
+  <string name="ringtone_custom_tip">Свой рингтон</string>
+  <string name="setting_title">Настройки</string>
+  <string name="settings_sound">Звук</string>
+  <string name="sound_title">Звуки</string>
+  <string name="system_ringtone">Системный рингтон</string>
   <string name="uid_label">Мультимедиа</string>
   <string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
 </resources>

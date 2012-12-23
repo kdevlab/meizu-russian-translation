@@ -9,7 +9,7 @@
   <string name="audio_db_playlist_name">Мои записи</string>
   <string name="button_ok">ОК</string>
   <string name="call_list_empty_text">Нет записей разговоров</string>
-  <string name="call_recording">Записанные разговоры</string>
+  <string name="call_recording">Разговоры</string>
   <string name="call_recording_count">Всего %d записей</string>
   <string name="call_recording_single">Записанные разговоры</string>
   <string name="delete">Удалить</string>
@@ -19,9 +19,9 @@
   <string name="deleting">Удаление</string>
   <string name="discard">Отменить</string>
   <string name="empty_name">Имя файла не может быть пустым.</string>
-  <string name="error_app_internal">Внутренняя ошибка приложения</string>
-  <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
-  <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+  <string name="error_app_internal">Внутренняя ошибка приложения.</string>
+  <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись.</string>
+  <string name="error_sdcard_access">Нет доступа к SD-карте.</string>
   <string name="file_deleted">Выбранная запись удалена.</string>
   <string name="file_list_empty_text">Нет записей</string>
   <string name="insert_sd_card">Вставьте SD-карту</string>
@@ -32,10 +32,10 @@
   <string name="notification_ongoing_recorder_format">Запись (%s)</string>
   <string name="opetation_done">Переименование завершено</string>
   <string name="phone_hookoff">Идет разговор, начать запись вызова</string>
-  <string name="press_record">Нажмите \"Записать\"</string>
+  <string name="record_locked">Содержимое зашифровано</string>
+  <string name="record_unlock">Разблокировать</string>
   <string name="record_your_message">Запишите сообщение</string>
   <string name="recorded_saved">Запись сохранена</string>
-  <string name="recorder_device_id">522125676</string>
   <string name="recording">Запись</string>
   <string name="recording_pause">Пауза</string>
   <string name="recording_stopped">Запись остановлена</string>
@@ -50,6 +50,7 @@
   <string name="sdcard_unavailable">USB-накопитель отключен</string>
   <string name="sec_available">Осталось %d сек.</string>
   <string name="select_all">Выбрать все</string>
+  <string name="select_file">Выбранные файлы</string>
   <string name="select_none">Отменить</string>
   <string name="select_share">Обмен</string>
   <string name="share">Обмен</string>
@@ -64,9 +65,9 @@
   <string name="unknown_number">Неизвестный</string>
   <string name="voice_mail">Голосовая почта</string>
   <string name="voice_mail_single">Голосовая почта</string>
-  <string name="voice_memo">Записи диктофона</string>
+  <string name="voice_memo">Записи</string>
   <string name="voice_memo_single">Запись</string>
-  <string name="voice_message">Голосовые сообщения</string>
+  <string name="voice_message">Голос. почта</string>
   <string name="voice_message_single">Голосовое сообщение</string>
   <string name="voicemail_list_empty_text">Нет голосовой почты</string>
 </resources>

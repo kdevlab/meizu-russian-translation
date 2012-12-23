@@ -2,5 +2,5 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_label">Хранилище данных телефона</string>
+  <string name="app_label">Память номеров/SMS/MMS</string>
 </resources>

@@ -10,11 +10,11 @@
         <item>LTE/CDMA</item>
         <item>Только EvDo</item>
         <item>CDMA без EvDo</item>
-        <item>CDMA / EvDo (автоматический режим)</item>
-        <item>GSM / WCDMA (автоматический режим)</item>
+        <item>CDMA/EvDo (авторежим)</item>
+        <item>GSM/WCDMA (авторежим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>GSM / WCDMA (предпочтительная сеть)</item>
+        <item>GSM/WCDMA (предпочтение)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple">
         <item>Авто</item>
@@ -56,41 +56,9 @@
         <item>6</item>
         <item>7</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (автоматический режим)</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
-        <item>GSM/WCDA (предпочтительно WCDMA)</item>
-    </string-array>
-    <string-array name="gsm_umts_network_preferences_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Только домашняя</item>
         <item>Автоматически</item>
-    </string-array>
-    <string-array name="cdma_roaming_mode_choices">
-        <item>Только домашние сети</item>
-        <item>Аффилированные сети</item>
-        <item>Любая сеть</item>
-    </string-array>
-    <string-array name="cdma_roaming_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_choices">
-        <item>CDMA/EvDo</item>
-        <item>Только CDMA</item>
-        <item>Только EvDo</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
@@ -107,8 +75,13 @@
         <item>Телетайп с возможностью передачи голоса</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Обычные</item>
-        <item>Длинные</item>
+        <item>Обычный</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>Только в тихом режиме</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="auto_recording_choices">
         <item>Отключено</item>

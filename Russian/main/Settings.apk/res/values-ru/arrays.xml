@@ -15,7 +15,8 @@
         <item>30 сек.</item>
         <item>1 мин.</item>
         <item>2 мин.</item>
-        <item>10 мин.</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
         <item>30 мин.</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -43,6 +44,7 @@
         <item>Мелкий</item>
         <item>Обычный</item>
         <item>Крупный</item>
+        <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
@@ -69,6 +71,8 @@
         <item>Отключение...</item>
         <item>Нет подключения</item>
         <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -81,11 +85,14 @@
         <item>Отключение от %1$s…</item>
         <item>Нет подключения</item>
         <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
         <item>TTLS</item>
+        <item>PWD</item>
         <item>SIM</item>
         <item>AKA</item>
     </string-array>
@@ -137,6 +144,7 @@
         <item>PEAP</item>
         <item>TLS</item>
         <item>TTLS</item>
+        <item>PWD</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Нет</item>
@@ -144,12 +152,6 @@
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_network_setup">
-        <item>Выкл.</item>
-        <item>Push-кнопка</item>
-        <item>PIN-код точки доступа</item>
-        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -185,11 +187,6 @@
         <item>Съемная SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
-    <string-array name="silent_mode_entries">
-        <item>Выключить</item>
-        <item>Вибросигнал</item>
-        <item>Без звука</item>
-    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
         <item>Средняя</item>
@@ -206,7 +203,7 @@
         <item>Всегда использовать проверку HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Отключение анимации</item>
+        <item>Без анимации</item>
         <item>Масштаб: 0,5x</item>
         <item>Масштаб: 1x</item>
         <item>Масштаб: 1,5x</item>
@@ -216,6 +213,15 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Отключение анимации</item>
+        <item>Масштаб: 0,5x</item>
+        <item>Масштаб: 1x</item>
+        <item>Масштаб: 1,5x</item>
+        <item>Масштаб: 2x</item>
+        <item>Масштаб: 5x</item>
+        <item>Масштаб: 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Без анимации</item>
         <item>Масштаб: 0,5x</item>
         <item>Масштаб: 1x</item>
         <item>Масштаб: 1,5x</item>
@@ -255,6 +261,11 @@
     <string-array name="entries_meizu_app_font_size">
         <item>Обычный</item>
         <item>Крупный</item>
+    </string-array>
+    <string-array name="entries_meizu_access_control">
+        <item>Шифрование приложений</item>
+        <item>Дежурный режим</item>
+        <item>Безлимитный</item>
     </string-array>
     <string-array name="location_array">
         <item>Чехия</item>

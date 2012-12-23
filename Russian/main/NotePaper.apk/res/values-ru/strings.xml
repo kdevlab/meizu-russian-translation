@@ -2,27 +2,39 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="add_to_desktop">Добавить на рабочий стол</string>
   <string name="app_name">Заметки</string>
   <string name="brush_settting_title">Кисти и цвета</string>
   <string name="clear_all">Очистить все</string>
   <string name="del_selected_message">Хотите удалить выбранные заметки?</string>
+  <string name="delete">Удалить</string>
   <string name="delete_view_message">Удалить эту заметку?</string>
   <string name="deleting">Удаление…Пожалуйста подождите…</string>
   <string name="edit_note_bg_title">Цвет фона</string>
   <string name="eraser_setting_title">Ластик</string>
+  <string name="export_pic">Экспорт в виде картинки</string>
+  <string name="export_text_failure">Не удалось экспортировать текст</string>
+  <string name="export_text_success">Успешный экспорт текста</string>
   <string name="export_to_gallery">Экспорт в галерею</string>
+  <string name="export_txt">Экспорт в виде текста</string>
   <string name="fail_add_image">Ошибка добавления, файл изображения поврежден</string>
   <string name="faild_export_to_gallery">Ошибка экспорта в галерею</string>
   <string name="faild_to_create_file">Ошибка создания файла</string>
+  <string name="insert_pic">Вставить изображение</string>
   <string name="insert_picture_title">Вставить изображение</string>
   <string name="live_folder_name">Заметки</string>
+  <string name="newMemo">Новая</string>
   <string name="new_notepaper">Новая заметка</string>
   <string name="no_external_storage">Нет внешнего накопителя</string>
   <string name="no_memos">Нет заметок</string>
   <string name="sdcard_has_no_space">Недостаточно памяти</string>
+  <string name="select_paper">Заменить фон</string>
   <string name="share">Передать</string>
   <string name="share_via">Передать по</string>
+  <string name="size">Размер и цвет шрифта</string>
+  <string name="success_export_to_document">Экспортировано в документ</string>
   <string name="success_export_to_gallery">Успешный экспорт в галерею</string>
   <string name="text_setting_title">Размер и цвет шрифта</string>
   <string name="too_many_images">Ошибка добавления, изображений слишком много</string>
+  <string name="transparency">Прозрачный</string>
 </resources>

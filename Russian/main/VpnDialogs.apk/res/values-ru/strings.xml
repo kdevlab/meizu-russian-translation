@@ -3,15 +3,14 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accept">Я доверяю этому приложению.</string>
-  <string name="blank_value">–</string>
   <string name="configure">Настроить</string>
-  <string name="data_received">Получено:</string>
-  <string name="data_transmitted">Отправлено:</string>
+  <string name="data_received">"Получено: "</string>
+  <string name="data_transmitted">"Отправлено: "</string>
   <string name="data_value_format">%1$s Б; пакетов: %2$s</string>
   <string name="disconnect">Разъединить</string>
-  <string name="duration">Продолжительность:</string>
+  <string name="duration">"Продолжительность: "</string>
   <string name="legacy_title">VPN-подключение установлено</string>
   <string name="prompt">%s пытается установить VPN-соединение.</string>
-  <string name="session">Сеанс:</string>
+  <string name="session">"Сеанс: "</string>
   <string name="warning">Если продолжить, вы разрешите приложению перехватывать весь сетевой трафик. </string>
 </resources>

@@ -2,16 +2,15 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="agree">OK</string>
+  <string name="agree">ОК</string>
   <string name="app_name">Поиск</string>
   <string name="clear_history">Очистить историю</string>
-  <string name="clear_history_prompt">Удалить историю ранее введенных вариантов поиска</string>
   <string name="clear_shortcuts">Удалить ярлыки поиска</string>
   <string name="clear_shortcuts_agree">Удалить ярлыки</string>
   <string name="clear_shortcuts_disagree">Не очищать ярлыки</string>
-  <string name="clear_shortcuts_prompt">"Все ярлыки для выбранных недавно поисковых подсказок будут удалены.
+  <string name="clear_shortcuts_prompt">"Удалить все ярлыки для недавних поисковых подсказок?
 
-(Чтобы очистить историю браузера, воспользуйтесь настройками браузера.)"</string>
+Очистить историю можно в настройках браузера."</string>
   <string name="clear_shortcuts_summary">Удалить ярлыки недавно выбранных результатов поиска</string>
   <string name="corpus_description_apps">Названия установленных приложений</string>
   <string name="corpus_description_web">Веб-поиск, закладки и история браузера</string>
@@ -20,8 +19,8 @@
   <string name="corpus_label_global">Все</string>
   <string name="corpus_label_web">Интернет</string>
   <string name="corpus_selection_heading">Поиск</string>
-  <string name="device_settings_category_title">Очистить историю</string>
-  <string name="disagree">Отмена</string>
+  <string name="device_settings_category_title">Удалить ярлыки</string>
+  <string name="disagree">Отменить</string>
   <string name="google_app_label">Поиск Google</string>
   <string name="google_search_description">Поисковые подсказки Google</string>
   <string name="google_search_hint">Поиск Google</string>
@@ -29,10 +28,10 @@
   <string name="google_settings_category_title">Поиск Google</string>
   <string name="menu_help">Справка</string>
   <string name="menu_settings">Настройки поиска</string>
-  <string name="remove_from_history">Удалить из истории поиска</string>
-  <string name="remove_from_history_failed">Не удалось удалить объект из истории поиска</string>
-  <string name="search_engine">Система поиска</string>
-  <string name="search_hint">Локально или через поиск %s</string>
+  <string name="remove_from_history">Удалить эти данные из истории поиска?</string>
+  <string name="remove_from_history_failed">Не удалось удалить данные из истории поиска.</string>
+  <string name="search_engine">Поисковая система</string>
+  <string name="search_hint">Локально или через %s</string>
   <string name="search_settings">Настройки поиска</string>
   <string name="search_sources">Источники поиска</string>
   <string name="search_sources_summary">Выберите источники, по которым будет осуществляться поиск.</string>

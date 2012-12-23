@@ -20,10 +20,24 @@
         <item>30 минут</item>
         <item>30 минут</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>30</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Нет</item>
         <item>Спящий режим</item>
         <item>Отключить</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="clock_icon_list_dialog">
         <item>Правка</item>
@@ -49,11 +63,23 @@
         <item>Варите на среднем огне</item>
         <item>Выложите на блюдо для охлаждения</item>
     </string-array>
+    <string-array name="default_event_boiledeggs_time">
+        <item>60</item>
+        <item>480</item>
+        <item>60</item>
+    </string-array>
     <string-array name="default_event_steamedfish_steps">
         <item>Добавьте в рыбу соль, кунжутное масло</item>
         <item>Вскипятите воду в пароварке</item>
         <item>Положите рыбу в пароварку под крышку</item>
         <item>Выключите огонь, не открывайте крышку</item>
         <item>Откройте крышку и приправьте рыбу специями</item>
+    </string-array>
+    <string-array name="default_event_steamedfish_time">
+        <item>60</item>
+        <item>90</item>
+        <item>420</item>
+        <item>300</item>
+        <item>10</item>
     </string-array>
 </resources>

@@ -10,6 +10,7 @@
   <string name="hello">Hello World, WapiSetting!</string>
   <string name="wifi_deleted_wapicert">Удалить сертификат</string>
   <string name="wifi_install_wapicert">Установить сертификат</string>
+  <string name="wifi_none">Нет</string>
   <string name="wifi_pleaseslect_cert">Пожалуйста, выберите правильный сертификат</string>
   <string name="wifi_wapi_ok">ОК</string>
   <string name="wifi_wapicert_asinstalled">Установлен AS-сертификат. Пожалуйста, выберите сертификат пользователя для установки.</string>

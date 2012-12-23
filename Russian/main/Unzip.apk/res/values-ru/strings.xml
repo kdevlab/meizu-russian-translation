@@ -2,11 +2,13 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_name">Архиватор</string>
+  <string name="app_name">Распаковщик</string>
   <string name="cancel_extract">Распаковка отменена</string>
+  <string name="error_file_path">Ошибка файла!</string>
   <string name="extract_dialog_psw_hint">"Пароль: "</string>
   <string name="extract_error">Ошибка распаковки</string>
   <string name="extract_extracting_cancel">Остановка, подождите</string>
+  <string name="extract_file_too_large">Файл слишком большой, произошла ошибка при распаковке</string>
   <string name="extract_password_dialog_cancel">Отмена</string>
   <string name="extract_password_dialog_confirm">Подтвердить</string>
   <string name="extract_password_dialog_title">Введите пароль</string>
