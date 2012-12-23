@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_name">Аудиоэффекты</string>
+  <string name="app_name">MusicFX</string>
   <string name="bass">Бас</string>
   <string name="bass_boost_strength">Усиление нижних частот</string>
   <string name="ci_extreme">Усилитель FX</string>
@@ -11,10 +11,10 @@
   <string name="eq_dialog_title">Эквалайзер</string>
   <string name="five_hundred">500</string>
   <string name="fourk">4К</string>
-  <string name="headset_plug">Подключите наушники для этих эффектов</string>
+  <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
   <string name="hundred">100</string>
   <string name="main_toggle_effects_title">Аудиоэффекты</string>
-  <string name="no_effects">Эффекты недоступны</string>
+  <string name="no_effects">Эффекты недоступны.</string>
   <string name="onek">1К</string>
   <string name="picker_title">Управление звуковыми эффектами</string>
   <string name="pop">Поп</string>
