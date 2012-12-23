@@ -3,12 +3,12 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Недавние приложения</string>
+  <string name="brightness">Яркость</string>
   <string name="bt_widget_change">Переключения статуса Bluetooth... Подождите пожалуйста...</string>
   <string name="friday">Пятница</string>
   <string name="gps_widget_change">Переключение статуса GPS... Подождите пожалуйста...</string>
   <string name="hello">Hello World, MzRecentapps!</string>
   <string name="kill_all">Закрыть все</string>
-  <string name="low_battery_tip">Низкий заряд батареи, камера не может быть использована</string>
   <string name="monday">Понедельник</string>
   <string name="move_and_stop">Удалить</string>
   <string name="net_2g_3g_trunning_on">Переключение режима сети... Подождите пожалуйста…</string>
@@ -21,7 +21,9 @@
   <string name="net_widget_data_off">Выключение мобильного интернета... Подождите, пожалуйста...</string>
   <string name="net_widget_data_open">Включение мобильного интернета... Подождите, пожалуйста...</string>
   <string name="net_widget_secc">Переключение статуса сети завершено</string>
-  <string name="please_select_phase2">Фаза 2 аутентификация</string>
+  <string name="no_recent_tasks">Нет недавно открытых приложений</string>
+  <string name="please_select_phase2">Фаза 2 аутентификации</string>
+  <string name="recent_tasks_title">Недавно открытые</string>
   <string name="saturday">Суббота</string>
   <string name="sunday">Воскресенье</string>
   <string name="sync_widget_message">Переключение статуса синхронизации... Подождите пожалуйста...</string>
@@ -42,7 +44,7 @@
   <string name="wifi_advanced_ip_address_title">IP-адрес</string>
   <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
   <string name="wifi_advanced_subbar">Настройки Wi-Fi&gt;Расширенные</string>
-  <string name="wifi_advanced_titlebar">Дополнительные функции</string>
+  <string name="wifi_advanced_titlebar">Дополнит. функции</string>
   <string name="wifi_cancel">Отмена</string>
   <string name="wifi_certinstall">Установить или просмотр. сертификат</string>
   <string name="wifi_connect">Подключ.</string>
