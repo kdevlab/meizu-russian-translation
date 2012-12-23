@@ -4,6 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Контакты SIM</string>
   <string name="cancel">Отмена</string>
+  <string name="contactSavedToast">Контакт сохранен</string>
   <string name="contactsCount">" контакт(ов)"</string>
   <string name="contactsNumbPrompt">" контакт(ов)"</string>
   <string name="edit_hint_email">E-mail</string>
@@ -48,7 +49,7 @@
   <string name="promptDeleteOneFailed">Ошибка удаления</string>
   <string name="promptDeleteSelectedContactConfirm">Вы подтверждаете удаление контактов SIM?</string>
   <string name="promptDeletingSimContact">Удаление контактов SIM</string>
-  <string name="promptEmailsTooLong">E-mail адрес слишком длинный.</string>
+  <string name="promptEmailsTooLong">E-mail слишком длинный.</string>
   <string name="promptFirstNumberEmpty">Первый номер не может быть пустым.</string>
   <string name="promptImportOneFailed">Ошибка импорта</string>
   <string name="promptImportOneSuccess">Импортировано в телефон</string>
@@ -65,6 +66,7 @@
   <string name="promptSimFull">SIM-карта заполнена.</string>
   <string name="promptViewSimContactsNumber">Совершить вызов</string>
   <string name="send_email">Отправить Email</string>
+  <string name="sim_not_available">SIM-карта недоступна</string>
   <string name="titleQuerySimContacts">Поиск контактов SIM</string>
   <string name="titleSelectSimContacts">Выбрать контакты SIM</string>
   <string name="titleSimContactCreate">Новый контакт SIM</string>
