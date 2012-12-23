@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_name">Сервис синхронизации</string>
+  <string name="app_name">Сервис синхронизация</string>
   <string name="auth_passed">Аутентификация завершена</string>
   <string name="begin_auth">Аутентификация ...</string>
   <string name="begin_receive_source">Получение %s</string>
