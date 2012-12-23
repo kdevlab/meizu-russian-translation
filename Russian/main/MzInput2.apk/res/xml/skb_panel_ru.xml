@@ -3,7 +3,7 @@
   xmlns:meizu="http://schemas.android.com/apk/res/com.meizu.input">
     <skb_keygroup meizu:type="@xml/skb_keytype_normal" meizu:balloon="true" layout="@xml/skb_layout_11_11_10">
         <skb_keygroup meizu:labels="йцук" />
-        <skb_key meizu:splitter="|" meizu:label="e|ё" />
+        <skb_key meizu:splitter="|" meizu:label="е|ё" />
         <skb_keygroup meizu:labels="нгшщзхфывапролджэячсмит" />
         <skb_key meizu:splitter="|" meizu:label="ь|ъ" />
         <skb_keygroup meizu:labels="бю" />
