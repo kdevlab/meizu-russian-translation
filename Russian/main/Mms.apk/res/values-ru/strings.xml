@@ -26,10 +26,10 @@
   <string name="attach_contact">Контактные сведения</string>
   <string name="attach_image">Изображения</string>
   <string name="attach_label">MMS-вложения</string>
-  <string name="attach_menu_contact">Дополнительные контакты</string>
-  <string name="attach_menu_folder">Дополнительный файл</string>
+  <string name="attach_menu_contact">Прикрепить контакт</string>
+  <string name="attach_menu_folder">Прикрепить файл</string>
   <string name="attach_menu_from_camera">Камера</string>
-  <string name="attach_menu_image">Дополнительные фото</string>
+  <string name="attach_menu_image">Прикрепить фото</string>
   <string name="attach_record_sound">Записать аудио</string>
   <string name="attach_record_video">Снять видео</string>
   <string name="attach_slideshow">Слайд-шоу</string>
