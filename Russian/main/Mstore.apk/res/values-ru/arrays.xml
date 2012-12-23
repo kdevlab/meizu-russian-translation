@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="ary">
+        <item>test</item>
+        <item>item 2</item>
+    </string-array>
+    <string-array name="setting">
+        <item>Резервное копирование</item>
+        <item>Аккаунт</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="setting2">
+        <item>Аккаунт</item>
+        <item>Настройки</item>
+    </string-array>
+</resources>
