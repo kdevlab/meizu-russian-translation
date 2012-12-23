@@ -17,8 +17,8 @@
   <string name="copy_wallpaper">Замена обоев, пожалуйста, подождите…</string>
   <string name="custom_settings_title">Настройки</string>
   <string name="def_theme_name">По умолчанию</string>
-  <string name="delete_theme_desc">Удалить %s</string>
-  <string name="delete_theme_drag">Удалить %s ?</string>
+  <string name="delete_theme_desc">Удалить %s файл(ы)</string>
+  <string name="delete_theme_drag">Удалить %s тему</string>
   <string name="delete_theme_error">Ошибка удаления темы</string>
   <string name="delete_theme_succ">Тема удалена</string>
   <string name="delete_theme_title">Удалить тему?</string>
@@ -47,13 +47,13 @@
   <string name="ok">ОК</string>
   <string name="online_theme">Интернет</string>
   <string name="part_theme">Локально</string>
-  <string name="sdcard_mount_update_part_theme">Загрузка SD-карты %s ...</string>
-  <string name="sdcard_mount_update_theme">Загрузка темы с SD-карты</string>
-  <string name="sdcard_no_item">"Темы на SD-карте не найдены 
+  <string name="sdcard_mount_update_part_theme">Загрузка карты памяти %s ...</string>
+  <string name="sdcard_mount_update_theme">Загрузка темы с карты памяти</string>
+  <string name="sdcard_no_item">"Темы на карте памяти не найдены 
  в каталоге: sdcard/MEIZU_THEME"</string>
-  <string name="sdcard_remove">SD-карта была удалена</string>
-  <string name="sdcard_theme">SD-карта</string>
-  <string name="sdcard_unmount_update_theme">SD-карта удаляется…</string>
+  <string name="sdcard_remove">Карта памяти была удалена</string>
+  <string name="sdcard_theme">Карта памяти</string>
+  <string name="sdcard_unmount_update_theme">Карта памяти удаляется…</string>
   <string name="sdk_version_not_match">Тема несовместима с версией прошивки, сделайте обновление</string>
   <string name="select_item">Выбрать</string>
   <string name="select_none">Отмена</string>
