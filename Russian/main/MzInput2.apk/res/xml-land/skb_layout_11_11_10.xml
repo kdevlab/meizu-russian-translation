@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <skb_layout meizu:start_y="50.0dip" meizu:gap_x="6.0dip" meizu:gap_y="10.0dip" meizu:key_height="35.5dip" meizu:orientation="vertical"
   xmlns:meizu="http://schemas.android.com/apk/res/com.meizu.input">
-    <skb_layout meizu:start_x="22.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
-    <skb_layout meizu:start_x="22.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
+    <skb_layout meizu:start_x="20.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
+    <skb_layout meizu:start_x="20.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
     <skb_layout meizu:start_x="22.5dip">
         <skb_layout meizu:key_width="52.0dip" meizu:key_count="10" />
-        <skb_layout meizu:key_width="75.0dip" />
+        <skb_layout meizu:key_width="78.0dip" />
     </skb_layout>
 </skb_layout>
