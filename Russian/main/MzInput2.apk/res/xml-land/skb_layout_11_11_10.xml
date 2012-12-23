@@ -4,7 +4,7 @@
     <skb_layout meizu:start_x="20.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
     <skb_layout meizu:start_x="20.5dip" meizu:key_width="52.0dip" meizu:key_count="11" />
     <skb_layout meizu:start_x="22.5dip">
-        <skb_layout meizu:key_width="52.0dip" meizu:key_count="10" />
-        <skb_layout meizu:key_width="78.0dip" />
+        <skb_layout meizu:key_width="52.0dip" meizu:key_count="9" />
+        <skb_layout meizu:key_width="75.0dip" />
     </skb_layout>
 </skb_layout>
