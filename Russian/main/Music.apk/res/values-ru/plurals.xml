@@ -12,7 +12,7 @@
         <item quantity="one">1 альбом</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="one">1 исполнитель</item>
+        <item quantity="one">1 артист</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">Удалено композиций: %d.</item>
@@ -47,7 +47,7 @@
         <item quantity="one">1 альбом</item>
     </plurals>
     <plurals name="artist_count">
-        <item quantity="other">%d исполнителей</item>
+        <item quantity="other">%d артистов</item>
         <item quantity="one">1 артист</item>
     </plurals>
 </resources>
