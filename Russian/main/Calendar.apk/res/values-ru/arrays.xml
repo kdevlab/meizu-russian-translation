@@ -158,8 +158,8 @@
         <item>Все события в серии</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Месяц</item>
-        <item>Неделя</item>
+        <item>Мес.</item>
+        <item>Нед.</item>
         <item>День</item>
     </string-array>
     <string-array name="agenda_list">
