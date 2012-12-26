@@ -122,7 +122,7 @@
   <string name="screenshot_saving_title">Сохранение...</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_clear_all_button">Очистить</string>
-  <string name="status_bar_date_format">EEE MMM d</string>
+  <string name="status_bar_date_format">EEE, d MMM</string>
   <string name="status_bar_date_formatter">"%1$s
 %2$s"</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
