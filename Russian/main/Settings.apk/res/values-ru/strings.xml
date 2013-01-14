@@ -141,6 +141,8 @@
   <string name="automatic_brightness">Автонастройка</string>
   <string name="automatic_cabc">Полутона экрана</string>
   <string name="automatic_cabc_summary">Уменьшает энергопотребление</string>
+  <string name="automatic_light_dual">Датчик света двунаправленного регулирования</string>
+  <string name="automatic_light_dual_summary" />
   <string name="awake">Время включения устройства</string>
   <string name="back_button">Назад</string>
   <string name="background_data">Фоновый режим</string>
@@ -1515,6 +1517,7 @@
   <string name="usage_type_video">Видео</string>
   <string name="usage_type_wake_lock">Активный режим</string>
   <string name="usage_type_wifi_running">Wi-Fi</string>
+  <string name="usb_charger_title">Быстрая зарядка USB</string>
   <string name="usb_connection_category">Подключить как</string>
   <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
   <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
@@ -1627,6 +1630,8 @@
   <string name="wait_for_debugger">Включить отладчик</string>
   <string name="wait_for_debugger_summary">Приложение ожидает подключения отладчика</string>
   <string name="wait_get_phone_service">Ожидание доступа к телефонной службе</string>
+  <string name="wakeupType_summary" />
+  <string name="wakeupType_title">Тип пробуждения</string>
   <string name="wallpaper_settings_fragment_title">Установка обоев</string>
   <string name="wallpaper_settings_title">Обои</string>
   <string name="widget_bt_changing">Переключение статуса Bluetooth...</string>

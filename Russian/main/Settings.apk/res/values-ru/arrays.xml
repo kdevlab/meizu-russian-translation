@@ -287,4 +287,8 @@
         <item>Италия</item>
         <item>Венгрия</item>
     </string-array>
+    <string-array name="wakeupType_entries">
+        <item>Двойной тап</item>
+        <item>Долгое нажатие</item>
+    </string-array>
 </resources>
