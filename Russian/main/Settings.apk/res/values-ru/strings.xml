@@ -444,7 +444,7 @@
   <string name="contributors_title">Участники</string>
   <string name="controls_label">Элементы управления</string>
   <string name="controls_subtitle">Режим энергопотребления</string>
-  <string name="copyright_text" formatted="false">"\u0009\u0009  © 2003-2012 Meizu Technology Co., Ltd. Все права защищены.
+  <string formatted="false" name="copyright_text">"\u0009\u0009  © 2003-2012 Meizu Technology Co., Ltd. Все права защищены.
 \u0009\u0009  Meizu, Meizu %s и логотип Meizu являются торговыми марками Meizu Technology Co., Ltd., зарегистрированными в Китае и других странах.
 \u0009\u0009  Пожалуйста, тщательно проверьте лицензионные соглашения программного обеспечения Meizu или стороннего программного обеспечения, полученного при активации или включённого в продукт, или полученного с каким-либо обновлением программного обеспечения.
 \u0009\u0009  Внимание: Это устройство продается с открытым загрузчиком. Хотя на устройстве существует возможность получить права администратора, также существуют определенные риски. Эти риски включают, но не ограничивают возможности ошибки Phone Finder, потери файлов, утечки паролей, или других ошибок безопастности; также это может привести к снижению стабильности системы для %s. Meizu советует использовать права администратора с высокой осторожностью. Meizu не несет ответственности за любые последствия, связанные с провами администратора на устройстве.
@@ -564,9 +564,9 @@
   <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
   <string name="data_usage_set_warning">Настройки ограничения</string>
   <string name="data_usage_summary_title">Ограничение данных</string>
-  <string name="data_usage_sweep_warning">"Предупреждение:
-^1 ^2"</string>
   <string name="data_usage_sweep_limit">"Лимит:
+^1 ^2"</string>
+  <string name="data_usage_sweep_warning">"Предупреждение:
 ^1 ^2"</string>
   <string name="data_usage_tab_3g">2G/3G</string>
   <string name="data_usage_tab_4g">Трафик 4G</string>
