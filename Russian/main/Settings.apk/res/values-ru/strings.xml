@@ -564,8 +564,10 @@
   <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
   <string name="data_usage_set_warning">Настройки ограничения</string>
   <string name="data_usage_summary_title">Ограничение данных</string>
-  <string name="data_usage_sweep_limit" />
-  <string name="data_usage_sweep_warning" />
+  <string name="data_usage_sweep_warning">"Предупреждение:
+^1 ^2"</string>
+  <string name="data_usage_sweep_limit">"Лимит:
+^1 ^2"</string>
   <string name="data_usage_tab_3g">2G/3G</string>
   <string name="data_usage_tab_4g">Трафик 4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
