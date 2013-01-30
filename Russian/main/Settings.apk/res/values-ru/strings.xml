@@ -825,6 +825,7 @@
   <string name="location_neighborhood_level_wifi">Местоположение определяется с помощью Wi-Fi</string>
   <string name="location_network_based">По координатам сети</string>
   <string name="location_settings_title">Мое местоположение</string>
+  <string name="location_source">Источники местоположения</string>
   <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
   <string name="location_title">Мое местоположение</string>
   <string name="lock_after_timeout">Автоблокировка</string>
