@@ -56,6 +56,7 @@
   <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
   <string name="contrastfilter">Контраст</string>
   <string name="copy">Копировать</string>
+  <string name="copy_done">%1$d файлов было скопировано в %2$s</string>
   <string name="copy_prefix">Копировать</string>
   <string name="copy_to">Копировать в</string>
   <string name="countryfilter">Деревня</string>
@@ -68,6 +69,7 @@
   <string name="crop_tooltip">Чтобы обрезать фото, перетащите маркеры</string>
   <string name="crossprocess">Кроссобработка</string>
   <string name="custom">Персонализация</string>
+  <string name="default_folder_name">Без имени</string>
   <string name="delete">Удалить</string>
   <string name="deleteFromFavorite">Отменить избранное</string>
   <string name="delete_folder">Удалить папку?</string>
@@ -76,6 +78,7 @@
   <string name="delete_select_item">Удалить выбранное?</string>
   <string name="delete_video">Удалить видео?</string>
   <string name="deleted">Удалено</string>
+  <string name="deleting">Удаление</string>
   <string name="description">Описание</string>
   <string name="deselect_all">Отменить все</string>
   <string name="details">Сведения</string>
@@ -179,6 +182,7 @@
   <string name="iso">ISO</string>
   <string name="isp_update_title">Обновление камеры, пожалуйста подождите…</string>
   <string name="lightcolor">Светлый тон</string>
+  <string name="load_picture_processing">Загрузка фото</string>
   <string name="loading">Идет загрузка…</string>
   <string name="loading_account">Загрузка аккаунта...</string>
   <string name="loading_failure">Не удалось загрузить фото</string>
@@ -196,11 +200,20 @@
   <string name="manual">Вручную</string>
   <string name="marked">Отмечено</string>
   <string name="matchafilter">Матча</string>
+  <string name="menu_add_set_titile">Добавить новую директорию</string>
+  <string name="menu_add_slideshow_title">Слайд-шоу</string>
+  <string name="menu_crop_title">Обрезать</string>
+  <string name="menu_delete">Удалить</string>
+  <string name="menu_delete_title">Удалить</string>
+  <string name="menu_email_title">Передать по E-mail</string>
+  <string name="menu_share_more_title">Передать и править</string>
+  <string name="menu_share_title">Передать</string>
   <string name="metal">Метал</string>
   <string name="mimetype">Тип MIME</string>
   <string name="model">Модель</string>
   <string name="moonlightfilter">Лунный свет</string>
   <string name="move">Переместить</string>
+  <string name="move_done">%1$d файлов было перемещено в %2$s</string>
   <string name="move_to">Переместить в</string>
   <string name="movie_view_label">Видеопроигрыватель</string>
   <string name="multi_mode_tip">Старт съемки для мультикадра</string>
@@ -238,11 +251,12 @@
   <string name="pano_dialog_waiting_previous">Обработка предыдущего файла</string>
   <string name="pano_review_saving_indication_str">Сохранение…</string>
   <string name="pano_too_fast_prompt">Очень быстро</string>
-  <string name="panorama_mode_tip">Старт съемки для панорамы</string>
+  <string name="panorama_mode_tip">Старт съёмки для панорамы</string>
   <string name="panoramic_photo_processing">Обработка фото</string>
   <string name="path">Путь</string>
   <string name="people">Люди</string>
   <string name="photo_saved">Измененная фотография сохранена в папке %s</string>
+  <string name="photo_sdcard_str">Карта памяти</string>
   <string name="photoeditor_name">Фотостудия</string>
   <string name="picasa_posts">Записи</string>
   <string name="players_nearby">Доступные плееры</string>
@@ -323,7 +337,7 @@
   <string name="rotate_right">Повернуть вправо</string>
   <string name="rotate_tooltip">Тяните фото</string>
   <string name="saturation">Насыщенность</string>
-  <string name="save">Готово</string>
+  <string name="save">Сохранить</string>
   <string name="save_as">Сохранить как</string>
   <string name="save_error">Изображение не сохранено.</string>
   <string name="save_file_fail">Ошибка сохранения изображения</string>
@@ -343,6 +357,7 @@
   <string name="selecteddownloadtext">%1$d было добавлено в список загрузки</string>
   <string name="sepia">Сепия</string>
   <string name="sequence_in_set">"%1$d из %2$d: "</string>
+  <string name="servernoreturncontent">Сервер не отвечает</string>
   <string name="servertimeout">Таймаут соединения</string>
   <string name="set_as">Установить как</string>
   <string name="set_as_avatar">Установить как аватар</string>
@@ -359,6 +374,7 @@
   <string name="settings">Настройки</string>
   <string name="shadow">Затенение</string>
   <string name="share">Отправить</string>
+  <string name="share_num_limit">Количество передаваемых файлов ограничено %s</string>
   <string name="share_picture_via">Отправка картинки</string>
   <string name="share_video_via">Отправка видео</string>
   <string name="sharpen">Резкость</string>
@@ -406,6 +422,7 @@
   <string name="video">Видео</string>
   <string name="video_camera_label">Видеокамера</string>
   <string name="video_err">Не удалось воспроизвести видео.</string>
+  <string name="video_loading">Загрузка…</string>
   <string name="video_low_battery">Низкий заряд батареи, невозможно воспроизвести видео</string>
   <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
   <string name="video_save_error">Ошибка сохранения файла</string>

@@ -155,7 +155,7 @@
   <string name="data_usage_limit_body">Нажмите, чтобы включить.</string>
   <string name="data_usage_limit_snoozed_body">%s превышает установленный лимит</string>
   <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит на моб. трафик</string>
-  <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
+  <string name="data_usage_mobile_limit_title">Моб. интернет отключен</string>
   <string name="data_usage_restricted_body">Нажмите, чтобы снять ограничение</string>
   <string name="data_usage_restricted_title">Фоновый режим ограничен</string>
   <string name="data_usage_warning_body">Проверьте трафик и настройки.</string>
@@ -279,7 +279,7 @@
   <string name="expires_on">"Срок действия: "</string>
   <string name="ext_media_badremoval_notification_message">Перед извлечением карты SD отключите ее во избежание потери данных.</string>
   <string name="ext_media_badremoval_notification_title">SD-карта неожиданно извлечена</string>
-  <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
+  <string name="ext_media_checking_notification_message">Проверка ошибок</string>
   <string name="ext_media_checking_notification_title">Подготовка SD-карты</string>
   <string name="ext_media_nofs_notification_message">На SD-карте нет данных, или ее файловая система не поддерживается.</string>
   <string name="ext_media_nofs_notification_title">Пустая SD-карта</string>
@@ -306,7 +306,7 @@
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Найти</string>
   <string name="find_on_page">Найти на странице</string>
-  <string name="find_phone_tips_enter_flyme">Ввод пароля</string>
+  <string name="find_phone_tips_enter_flyme">Телефон заблокирован</string>
   <string name="find_phone_tips_flyme_network_unusable">Ошибка подключения к сети, попробуйте еще раз!</string>
   <string name="find_phone_tips_flyme_no_SN">Невозможно получить серийный номер</string>
   <string name="find_phone_tips_flyme_no_accountname">Невозможно получить имя Flyme аккаунта</string>
@@ -435,6 +435,7 @@
   <string name="launcher_choose_hint">Настройки/Персонализация - установка лаунчера по умолчанию</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Загрузка…</string>
+  <string name="loading_music_info">Загрузка информации о композиции…</string>
   <string name="local_number">Местный номер</string>
   <string name="lock_month_day">MMM d</string>
   <string name="lock_tips_dialing">Набор</string>
@@ -467,9 +468,9 @@
   <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\".</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Нажмите \"Меню\", чтобы разблокировать экран или вызвать службу экстренной помощи.</string>
   <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
-  <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
-  <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставьте SIM-карту.</string>
-  <string name="lockscreen_missing_sim_message">SIM-карта не установлена.</string>
+  <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
+  <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставьте SIM-карту</string>
+  <string name="lockscreen_missing_sim_message">SIM-карта не установлена</string>
   <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
   <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
   <string name="lockscreen_password_wrong">Повторить попытку</string>
@@ -478,13 +479,13 @@
   <string name="lockscreen_pattern_wrong">Повторить попытку</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"SIM-карта окончательно заблокирована.
 Чтобы получить новую, обратитесь к своему оператору."</string>
-  <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию.</string>
+  <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию</string>
   <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
   <string name="lockscreen_return_to_call">Вернуться к вызову</string>
-  <string name="lockscreen_screen_locked">Экран заблокирован.</string>
+  <string name="lockscreen_screen_locked">Экран заблокирован</string>
   <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки.</string>
-  <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода.</string>
+  <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
   <string name="lockscreen_sound_off_label">Откл. звук</string>
   <string name="lockscreen_sound_on_label">Вкл. звук</string>
@@ -510,12 +511,12 @@
   <string name="low_internal_storage_view_title">Заканчивается свободное место</string>
   <string name="low_memory">Память телефона заполнена. Удалите какие-нибудь файлы, чтобы освободить место.</string>
   <string name="me">Я</string>
-  <string name="media_bad_removal">SD-карта была извлечена до отключения.</string>
-  <string name="media_checking">Выполняется проверка SD-карты.</string>
-  <string name="media_removed">SD-карта была отключена.</string>
+  <string name="media_bad_removal">SD-карта была извлечена до отключения</string>
+  <string name="media_checking">Выполняется проверка SD-карты</string>
+  <string name="media_removed">SD-карта была отключена</string>
   <string name="media_route_chooser_grouping_done">Готово</string>
-  <string name="media_shared">Сейчас SD-карта используется компьютером.</string>
-  <string name="media_unknown_state">Неизвестно состояние внешнего носителя.</string>
+  <string name="media_shared">Сейчас SD-карта используется компьютером</string>
+  <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
   <string name="megabyteShort">МБ</string>
   <string name="meid">MEID</string>
   <string name="menu_callNumber">Вызов %s</string>
@@ -1240,6 +1241,9 @@
   <string name="time_picker_increment_set_pm_button">Установить время после полудня</string>
   <string name="time_wday">%1$s, %2$s</string>
   <string name="time_wday_date">%1$s, %2$s, %3$s</string>
+  <string name="title_email">E-mail</string>
+  <string name="title_message">Сообщение</string>
+  <string name="title_recipient">Получатель:</string>
   <string name="today">Сегодня</string>
   <string name="tomorrow">Завтра</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
@@ -1316,6 +1320,7 @@
   <string name="wifi_p2p_show_pin_message">"PIN-код: "</string>
   <string name="wifi_p2p_to_message">"Кому: "</string>
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
+  <string name="wifi_share_stop">Остановить Wi-Fi передачу</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
   <string name="year">г.</string>

@@ -91,6 +91,7 @@
   <string name="external_storage_saferemove_title">Внешний накопитель был отключен</string>
   <string name="external_storage_unmounting_ticker">Отключение внешнего накопителя</string>
   <string name="external_storage_unmounting_title">Отключение внешнего накопителя</string>
+  <string name="fake_notification_tips">%1$d новых уведомлений</string>
   <string name="flow_limit_title">Предупреждение о превышении мобильного трафика</string>
   <string name="flow_over_limit_title">Мобильный трафик превышен!</string>
   <string name="global_actions_toggle_phone_close">Телефон отключен</string>
@@ -122,7 +123,7 @@
   <string name="screenshot_saving_title">Сохранение...</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_clear_all_button">Очистить</string>
-  <string name="status_bar_date_format">EEE, d MMM</string>
+  <string name="status_bar_date_format">EEE MMM d</string>
   <string name="status_bar_date_formatter">"%1$s
 %2$s"</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>

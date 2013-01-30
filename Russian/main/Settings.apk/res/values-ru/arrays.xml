@@ -41,7 +41,6 @@
         <item>30 мин</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Мелкий</item>
         <item>Обычный</item>
         <item>Крупный</item>
         <item>Огромный</item>
@@ -261,6 +260,8 @@
     <string-array name="entries_meizu_app_font_size">
         <item>Обычный</item>
         <item>Крупный</item>
+        <item>Огромный</item>
+        <item>Максимальный</item>
     </string-array>
     <string-array name="entries_meizu_access_control">
         <item>Шифрование приложений</item>
@@ -288,7 +289,7 @@
         <item>Венгрия</item>
     </string-array>
     <string-array name="wakeupType_entries">
-        <item>Двойной тап</item>
+        <item>Двойное нажатие</item>
         <item>Долгое нажатие</item>
     </string-array>
 </resources>

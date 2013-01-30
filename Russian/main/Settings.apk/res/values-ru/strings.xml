@@ -141,7 +141,7 @@
   <string name="automatic_brightness">Автонастройка</string>
   <string name="automatic_cabc">Полутона экрана</string>
   <string name="automatic_cabc_summary">Уменьшает энергопотребление</string>
-  <string name="automatic_light_dual">Датчик света двунаправленного регулирования</string>
+  <string name="automatic_light_dual">Регулировка датчика освещ. в двух направлениях</string>
   <string name="automatic_light_dual_summary" />
   <string name="awake">Время включения устройства</string>
   <string name="back_button">Назад</string>
@@ -257,7 +257,7 @@
   <string name="bluetooth_confirm_passkey_msg">Вам может понадобиться этот пароль для другого устройства: %1$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Не подключено</string>
-  <string name="bluetooth_connecting">Подключение...</string>
+  <string name="bluetooth_connecting">Подключение..</string>
   <string name="bluetooth_connecting_error_message">Не удалось подключиться к %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
@@ -288,7 +288,7 @@
   <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен.</string>
   <string name="bluetooth_disconnect_title">Отключиться?</string>
   <string name="bluetooth_disconnected">Отключено</string>
-  <string name="bluetooth_disconnecting">Отключение...</string>
+  <string name="bluetooth_disconnecting">Отключение..</string>
   <string name="bluetooth_display_passkey_pin_msg">Для соединения с этим устройством наберите: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;, затем нажмите Назад или ОК.</string>
   <string name="bluetooth_dock_settings">Настройки док-станции</string>
   <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
@@ -326,7 +326,7 @@
   <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
   <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
-  <string name="bluetooth_pairing">Сопряжение...</string>
+  <string name="bluetooth_pairing">Сопряжение..</string>
   <string name="bluetooth_pairing_accept">Сопряжение</string>
   <string name="bluetooth_pairing_decline">Отмена</string>
   <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
@@ -444,11 +444,11 @@
   <string name="contributors_title">Участники</string>
   <string name="controls_label">Элементы управления</string>
   <string name="controls_subtitle">Режим энергопотребления</string>
-  <string formatted="false" name="copyright_text">"\u0009\u0009  © 2003-2012 Meizu Technology Co., Ltd. Все права защищены.
-\u0009\u0009  Meizu, Meizu %s и логотип Meizu являются торговыми марками Meizu Technology Co., Ltd., зарегистрированными в Китае и других странах.
-\u0009\u0009  Пожалуйста, тщательно проверьте лицензионные соглашения программного обеспечения Meizu или стороннего программного обеспечения, полученного при активации или включённого в продукт, или полученного с каким-либо обновлением программного обеспечения.
-\u0009\u0009  Внимание: Это устройство продается с открытым загрузчиком. Хотя на устройстве существует возможность получить права администратора, также существуют определенные риски. Эти риски включают, но не ограничивают возможности ошибки Phone Finder, потери файлов, утечки паролей, или других ошибок безопастности; также это может привести к снижению стабильности системы для %s. Meizu советует использовать права администратора с высокой осторожностью. Meizu не несет ответственности за любые последствия, связанные с провами администратора на устройстве.
-\u0009\u0009  Meizu (или лицензиатам Meizu) принадлежат все законные права, названия и интересы в услугах, включая любые права на интеллектуальную собственность, которые существуют в услугах (независимо от того, должны ли эти права быть зарегистрированы или нет, и от того, где в мире эти права  могут существовать). Вы также признаёте, что услуги могут содержать информацию, которая определена Meizu, как конфиденциальная, и что Вы не должны раскрывать такую информацию без предварительного письменного согласия Meizu."</string>
+  <string formatted="false" name="copyright_text">"\u0009\u0009  © 2003-2013 Meizu Technology Co., Ltd. Все права защищены.
+-\u0009\u0009  Meizu, Meizu %s и логотип Meizu являются торговыми марками Meizu Technology Co., Ltd., зарегистрированными в Китае и других странах.
+-\u0009\u0009  Пожалуйста, тщательно проверьте лицензионные соглашения программного обеспечения Meizu или стороннего программного обеспечения, полученного при активации или включённого в продукт, или полученного с каким-либо обновлением программного обеспечения.
+-\u0009\u0009  Внимание: Это устройство продается с открытым загрузчиком. Хотя на устройстве существует возможность получить права администратора, также существуют определенные риски. Эти риски включают, но не ограничивают возможности ошибки Phone Finder, потери файлов, утечки паролей, или других ошибок безопастности; также это может привести к снижению стабильности системы для %s. Meizu советует использовать права администратора с высокой осторожностью. Meizu не несет ответственности за любые последствия, связанные с провами администратора на устройстве.
+-\u0009\u0009  Meizu (или лицензиатам Meizu) принадлежат все законные права, названия и интересы в услугах, включая любые права на интеллектуальную собственность, которые существуют в услугах (независимо от того, должны ли эти права быть зарегистрированы или нет, и от того, где в мире эти права  могут существовать). Вы также признаёте, что услуги могут содержать информацию, которая определена Meizu, как конфиденциальная, и что Вы не должны раскрывать такую информацию без предварительного письменного согласия Meizu."</string>
   <string name="copyright_title">Авторские права</string>
   <string name="cpufreq_summary">Настройка производительности ЦП</string>
   <string name="cpufreq_title">Производительность ЦП</string>
@@ -565,9 +565,9 @@
   <string name="data_usage_set_warning">Настройки ограничения</string>
   <string name="data_usage_summary_title">Ограничение данных</string>
   <string name="data_usage_sweep_limit">"Лимит:
-^1 ^2"</string>
+-^1 ^2"</string>
   <string name="data_usage_sweep_warning">"Предупреждение:
-^1 ^2"</string>
+-^1 ^2"</string>
   <string name="data_usage_tab_3g">2G/3G</string>
   <string name="data_usage_tab_4g">Трафик 4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -730,7 +730,8 @@
   <string name="guard_mode">Гостевой режим</string>
   <string name="guard_settings">Гостевое управление</string>
   <string name="guest_access_app">Ограничение посетителей</string>
-  <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок Назад и Меню</string>
+  <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопки Домой</string>
+  <string name="haptic_feedback_enable_summary_mx">Вибрация при нажатии кнопок Назад и Меню</string>
   <string name="haptic_feedback_enable_title">Виброотклик на нажатие</string>
   <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
   <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
@@ -1193,7 +1194,7 @@
   <string name="roaming_warning">При интернет-роуминге возможны высокие расходы за использование роуминга.</string>
   <string name="root_allow_title">Разрешено</string>
   <string name="root_prompt">%s пытается получить root</string>
-  <string name="root_warning">Не разрешайте приложению получить root, если вы не доверяете источнику. В противном случае, Вы рискуете подвергнуться атаке вредоносного программного обеспечения.</string>
+  <string name="root_warning">Не принимайте приложения, если вы не доверяете источнику. В противном случае, Вы рискуете подвергнуться атаке вредоносного программного обеспечения.</string>
   <string name="running_processes_item_description_p_p">Процессов: %1$d; служб: %2$d</string>
   <string name="running_processes_item_description_p_s">Процессов: %1$d; служб: %2$d</string>
   <string name="running_processes_item_description_s_p">Процессов: %1$d; служб: %2$d</string>
@@ -1261,7 +1262,7 @@
   <string name="service_manage">Настройки</string>
   <string name="service_manage_description">%1$s: в настоящий момент используется. Нажмите \"Настройки\" для управления.</string>
   <string name="service_restarting">Перезапуск</string>
-  <string name="service_started_by_app">Запущено приложением.</string>
+  <string name="service_started_by_app">Запущено приложением</string>
   <string name="service_stop">Остановить</string>
   <string name="service_stop_description">Эта служба была запущена соответствующим приложением, в котором может произойти сбой, если ее оставновить.</string>
   <string name="set_screen_lock">Пароль блокировки</string>
@@ -1271,10 +1272,10 @@
   <string name="settings_copyright_activity_title">Авторские права</string>
   <string name="settings_label">Настройки</string>
   <string name="settings_label_launcher">Настройки</string>
-  <string name="settings_license_activity_loading">Идет загрузка…</string>
+  <string name="settings_license_activity_loading">Идет загрузка..</string>
   <string name="settings_license_activity_title">Лицензии открытого ПО</string>
   <string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка.</string>
-  <string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
+  <string name="settings_safetylegal_activity_loading">Идет загрузка..</string>
   <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
   <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
   <string name="settings_safetylegal_title">Сведения о безопасности</string>
@@ -1520,7 +1521,7 @@
   <string name="usage_type_phone">Телефон</string>
   <string name="usage_type_video">Видео</string>
   <string name="usage_type_wake_lock">Активный режим</string>
-  <string name="usage_type_wifi_running">Wi-Fi</string>
+  <string name="usage_type_wifi_running">Wi-Fi активен</string>
   <string name="usb_charger_title">Быстрая зарядка USB</string>
   <string name="usb_connection_category">Подключить как</string>
   <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
@@ -1635,7 +1636,7 @@
   <string name="wait_for_debugger_summary">Приложение ожидает подключения отладчика</string>
   <string name="wait_get_phone_service">Ожидание доступа к телефонной службе</string>
   <string name="wakeupType_summary" />
-  <string name="wakeupType_title">Тип пробуждения</string>
+  <string name="wakeupType_title">Способ активации экрана</string>
   <string name="wallpaper_settings_fragment_title">Установка обоев</string>
   <string name="wallpaper_settings_title">Обои</string>
   <string name="widget_bt_changing">Переключение статуса Bluetooth...</string>
