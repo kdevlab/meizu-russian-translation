@@ -377,6 +377,7 @@
   <string name="lenght_err">Имя пользователя должно быть от 4 до 32 символов</string>
   <string name="loadRestoreDataError">Ошибка загрузки данных рабочего стола!</string>
   <string name="loadingRestoreDesktopData">Загрузка данных...</string>
+  <string name="location_source">Источники местоположения</string>
   <string name="login">Войти</string>
   <string name="loginFlyme">Войти во Flyme</string>
   <string name="login_flyme">Логин Flyme</string>
