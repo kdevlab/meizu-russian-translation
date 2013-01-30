@@ -305,9 +305,12 @@
   <string name="answerText">Написать ответ</string>
   <string name="app_name">Meizu-аккаунт</string>
   <string name="attachOldAccount">Существующий аккаунт на Meizu-форуме</string>
+  <string name="autoBackupDesktop">Авто бэкап приложений</string>
   <string name="autoSync">Автосинхронизация</string>
   <string name="auto_syn">Синхронизация Flyme</string>
   <string name="auto_syn_tips">Автосинхронизация контактов</string>
+  <string name="backupDesktop">Бэкап раб. стола</string>
+  <string name="backupDesktopExceptionTip">Ошибка загрузки данных рабочего стола, повторите снова</string>
   <string name="beginToUse">Начать использовать</string>
   <string name="bookmarkHistory">Браузер</string>
   <string name="buy_music_failure">Ошибка покупки</string>
@@ -324,6 +327,7 @@
   <string name="chooseQuestion">Выберите вопрос</string>
   <string name="clearDialogMessage">Все пользовательские данные на вашем телефоне, такие как контакты, сообщения и учетные записи будут удалены. Данные на SD-карте, не удаляются</string>
   <string name="clearDialogTitle">Хотите выйти?</string>
+  <string name="clickToLoginEmail">Нажмите для входа в E-Mail</string>
   <string name="connectMobile">Подключение к мобильной сети</string>
   <string name="connectNotice">Вы можете подключиться к мобильной или беспроводной сети, чтобы синхронизировать данные или получить различные интернет-услуги.</string>
   <string name="connectToNetwork">Подключение к сети</string>
@@ -336,6 +340,7 @@
   <string name="create_flyme_tip">Вам нужно создать Flyme-аккаунт, чтобы использовать его возможности. Вы можете установить someone@flyme.cn как ваш Flyme-аккаунт, или введите новое имя пользователя для его создания.</string>
   <string name="date_format">yyyy-MM-dd</string>
   <string name="delete">Удалить</string>
+  <string name="desktopBackupLimit">Приложения превышающие 100Мб не копируются</string>
   <string name="donate">Пожертвовать</string>
   <string name="end">Отмена</string>
   <string name="fail">Ошибка</string>
@@ -361,13 +366,17 @@
   <string name="getQuestionFailed">Ошибка получения секретного вопроса</string>
   <string name="get_account_info_failure">Ошибка получения баланса</string>
   <string name="gettingUpdate">Проверка обновлений</string>
+  <string name="ifRestoreDesktopData">Уверены, что хотите восстановить данные рабочего стола?</string>
   <string name="ifRetainFLymeData">Сохранить данные пользователя Flyme?</string>
   <string name="ignore">Пропустить</string>
   <string name="ignoreText" />
   <string name="inputAnswer">Введите ответ</string>
   <string name="inputEmailAddr">Введите E-mail</string>
+  <string name="invalideCertificateCheckDate">Не верный сертификат, проверьте сегодняшнюю дату</string>
   <string name="keep">Удерживать</string>
   <string name="lenght_err">Имя пользователя должно быть от 4 до 32 символов</string>
+  <string name="loadRestoreDataError">Ошибка загрузки данных рабочего стола!</string>
+  <string name="loadingRestoreDesktopData">Загрузка данных...</string>
   <string name="login">Войти</string>
   <string name="loginFlyme">Войти во Flyme</string>
   <string name="login_flyme">Логин Flyme</string>
@@ -413,11 +422,14 @@
   <string name="not_open">Не открылось</string>
   <string name="note">Заметки</string>
   <string name="ok">ОК</string>
+  <string name="onlyWifiWork">Только когда доступен Wi-Fi</string>
+  <string name="onlyWifiWorkCanBackupDesktop">Бэкап рабочего стола доступен только при подключенном Wi-Fi</string>
   <string name="open">Открытие</string>
   <string name="openSystemPermission">Открыть доступ к системе</string>
   <string name="openSystemWarningTip">После открытия доступа к системе телефон может быть взломан, это может привести к функциональной недостаточности приложения Phone Finder, утечке паролей и другим проблемам. Весь риск возлагается на пользователя, будьте осторожны!</string>
   <string name="options">Опции</string>
   <string name="otherAccount">Другие аккаунты</string>
+  <string name="otherAccountSync">Другие аккаунты</string>
   <string name="other_number">Другой номер</string>
   <string name="passwordProtect">Секретный вопрос</string>
   <string name="password_digits">"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\\~!@#$%^&amp;*;()_\"+`-&lt;&gt;={}|:?[]',./"</string>
@@ -438,10 +450,15 @@
   <string name="resetPasswordSuccess">Сброс пароля завершен</string>
   <string name="restart">Перезагрузка</string>
   <string name="restartToWork">Доступно после перезагрузки</string>
+  <string name="restoreDesktop">Восстановить рабочий стол</string>
+  <string name="restoreDesktopData">Restore the backup application, it may take a long time, need to maintain a WLAN connection.</string>
+  <string name="restoreDesktopException">Ошибка восстановления рабочего стола</string>
   <string name="retry">Повтор</string>
   <string name="sendMailFailed">Ошибка отправки E-mail</string>
   <string name="sentToMail">Ссылка для восстановления пароля была отправлена на E-mail, указанный при регистрации</string>
   <string name="sentToMailTips">Когда вы получите письмо, пожалуйста, следуйте инструкциям по сбросу пароля Flyme -аккаунта</string>
+  <string name="setPhone">Задать телефон</string>
+  <string name="setupUseSyncAndPush">Вы можете использовать аккаунт Flyme для синхронизации данных и получения push сообщений, это потребляет вашмобильный трафик</string>
   <string name="skip">Пропустить</string>
   <string name="slip">Пропустить</string>
   <string name="sms">Сообщения</string>
@@ -463,6 +480,7 @@
   <string formatted="false" name="transFromTo">%s перевод в %s</string>
   <string name="turned_off">Выключено</string>
   <string name="turned_on">Включено</string>
+  <string name="uploadingDesktopData">Загрузка данных рабочего стола...</string>
   <string name="useFlymeToSync">Используйте Flyme-аккаунт для синхронизации данных</string>
   <string name="use_music_right_now">Немедленно проверить</string>
   <string name="userForFlymeReceive">Используется Flyme-аккаунт для передачи и получения Flyme-сообщения</string>
