@@ -342,6 +342,7 @@
   <string name="map_work">Просмотреть рабочий адрес</string>
   <string name="meid">MEID</string>
   <string name="menu_accounts">Аккаунты</string>
+  <string name="menu_add">Добавить</string>
   <string name="menu_addStar">Добавить в избранное</string>
   <string name="menu_all_contacts">Все контакты</string>
   <string name="menu_call">Позвонить</string>
@@ -403,7 +404,7 @@
   <string name="nfc_vcard_file_name">Получено по NFC</string>
   <string name="nicknameLabelsGroup">Псевдоним</string>
   <string name="noAccounts">Для создания групп нужен аккаунт.</string>
-  <string name="noContacts">Нет контактов.</string>
+  <string name="noContacts">Нет контактов</string>
   <string name="noContactsHelpText">"Нет контактов для показа.
 
 Чтобы добавить контакты, нажмите "</string>
