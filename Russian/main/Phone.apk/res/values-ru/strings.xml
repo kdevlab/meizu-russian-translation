@@ -632,9 +632,15 @@
   <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
   <string name="waitingCallText">Ожидание</string>
+  <string name="waitingcall_answer">+ Ответ</string>
   <string name="waitingcall_answer_and_hangup">Ответ + Сброс</string>
   <string name="waitingcall_answer_and_hangup_active">Ответ + Сброс активного вызова</string>
+  <string name="waitingcall_answer_and_hangup_all">Завершить все звонки + Ответ</string>
   <string name="waitingcall_answer_and_hangup_hold">Ответ + Сброс удерживаемого вызова</string>
   <string name="waitingcall_answer_and_hold">Ответ + Удержание</string>
+  <string name="waitingcall_answer_with_quote">\" + Ответ</string>
+  <string name="waitingcall_current_call">текущий вызов</string>
+  <string name="waitingcall_hangup">Отбой %s</string>
+  <string name="waitingcall_hold">Удерж. %s</string>
   <string name="wild_prompt_str">Заменить универсальный символ на</string>
 </resources>
